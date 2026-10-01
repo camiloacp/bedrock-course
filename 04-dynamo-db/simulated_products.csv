@@ -1,0 +1,501 @@
+product_id,created_at,sold_at,product_category,product_name,product_brand,product_retail_price,product_department
+PROD-0001,2024-05-20 00:00:00,2024-06-07 00:00:00,Clothing,T-Shirt,Nike,222.51,Outdoor
+PROD-0002,2024-08-04 00:00:00,,Clothing,Jacket X,Zara,33.54,Women
+PROD-0003,2024-11-28 00:00:00,2025-01-21 00:00:00,Electronics,USB-C Hub Lite,Samsung,70.8,Home
+PROD-0004,2024-12-23 00:00:00,2025-01-28 00:00:00,Electronics,Smart Watch Pro,Samsung,51.7,Kids
+PROD-0005,2024-02-19 00:00:00,2024-04-04 00:00:00,Clothing,Hoodie,Under Armour,183.49,Men
+PROD-0006,2024-07-12 00:00:00,,Automotive,Tire Inflator X,Adidas,92.18,Outdoor
+PROD-0007,2024-12-26 00:00:00,,Toys,Stuffed Animal Pro,Samsung,200.4,Kids
+PROD-0008,2024-07-13 00:00:00,2024-10-03 00:00:00,Sports,Yoga Mat Lite,Puma,251.22,Women
+PROD-0009,2024-12-25 00:00:00,2025-03-18 00:00:00,Toys,Board Game Plus,Sony,26.98,Outdoor
+PROD-0010,2024-07-13 00:00:00,2024-10-03 00:00:00,Sports,Dumbbells,Under Armour,208.31,Women
+PROD-0011,2024-01-17 00:00:00,2024-03-09 00:00:00,Toys,LEGO Set X,Samsung,84.71,Women
+PROD-0012,2024-07-21 00:00:00,2024-10-12 00:00:00,Toys,Board Game Plus,Under Armour,140.89,Kids
+PROD-0013,2024-10-02 00:00:00,2024-12-16 00:00:00,Sports,Water Bottle Max,Nike,131.95,Home
+PROD-0014,2024-09-17 00:00:00,2024-09-24 00:00:00,Toys,Board Game,Apple,259.15,Women
+PROD-0015,2024-02-02 00:00:00,2024-04-19 00:00:00,Home & Kitchen,Air Fryer Lite,Puma,298.85,Home
+PROD-0016,2024-12-15 00:00:00,2025-01-19 00:00:00,Electronics,Wireless Earbuds Pro,Apple,231.96,Kids
+PROD-0017,2024-08-20 00:00:00,,Books,Self-Help Book Lite,Apple,218.29,Outdoor
+PROD-0018,2024-11-16 00:00:00,2025-02-06 00:00:00,Home & Kitchen,Toaster Plus,Adidas,155.24,Women
+PROD-0019,2024-09-28 00:00:00,2024-12-14 00:00:00,Toys,Board Game Pro,Levis,101.29,Men
+PROD-0020,2024-01-30 00:00:00,2024-04-12 00:00:00,Toys,Action Figure,Samsung,284.39,Men
+PROD-0021,2024-03-05 00:00:00,,Automotive,Car Charger Plus,Levis,145.72,Home
+PROD-0022,2024-08-04 00:00:00,2024-10-13 00:00:00,Books,Biography Plus,Puma,228.04,Outdoor
+PROD-0023,2024-08-12 00:00:00,2024-10-09 00:00:00,Books,Self-Help Book Pro,Zara,41.57,Women
+PROD-0024,2024-10-10 00:00:00,2024-11-08 00:00:00,Toys,LEGO Set,Puma,8.1,Outdoor
+PROD-0025,2024-02-04 00:00:00,2024-03-18 00:00:00,Electronics,Smart Watch Lite,Samsung,26.82,Women
+PROD-0026,2024-03-08 00:00:00,2024-05-21 00:00:00,Automotive,Floor Mats Max,Levis,175.4,Women
+PROD-0027,2024-02-19 00:00:00,2024-04-05 00:00:00,Beauty,Shampoo,Adidas,130.52,Unisex
+PROD-0028,2024-02-01 00:00:00,2024-03-16 00:00:00,Electronics,Wireless Earbuds Plus,Apple,241.36,Men
+PROD-0029,2024-08-17 00:00:00,,Sports,Dumbbells Plus,Levis,59.94,Unisex
+PROD-0030,2024-10-08 00:00:00,,Clothing,Hoodie Pro,Under Armour,197.72,Home
+PROD-0031,2024-03-26 00:00:00,2024-05-27 00:00:00,Clothing,Jeans Pro,Levis,68.83,Unisex
+PROD-0032,2024-07-18 00:00:00,2024-09-15 00:00:00,Home & Kitchen,Air Fryer,Nike,89.85,Outdoor
+PROD-0033,2024-05-31 00:00:00,2024-06-08 00:00:00,Automotive,Floor Mats Pro,Samsung,176.27,Home
+PROD-0034,2024-10-26 00:00:00,2025-01-02 00:00:00,Toys,LEGO Set Pro,Nike,52.28,Home
+PROD-0035,2024-02-04 00:00:00,2024-03-06 00:00:00,Home & Kitchen,Blender Plus,Puma,124.7,Home
+PROD-0036,2024-08-02 00:00:00,2024-10-14 00:00:00,Electronics,USB-C Hub Plus,Adidas,159.69,Kids
+PROD-0037,2024-07-21 00:00:00,,Toys,Board Game Lite,Sony,195.77,Unisex
+PROD-0038,2024-08-22 00:00:00,2024-11-03 00:00:00,Clothing,T-Shirt X,Nike,298.84,Men
+PROD-0039,2024-05-15 00:00:00,,Sports,Water Bottle Plus,Nike,108.6,Men
+PROD-0040,2024-08-12 00:00:00,2024-09-20 00:00:00,Toys,Action Figure X,Apple,185.82,Outdoor
+PROD-0041,2024-12-05 00:00:00,,Electronics,USB-C Hub Pro,Sony,264.16,Kids
+PROD-0042,2024-03-20 00:00:00,2024-06-06 00:00:00,Clothing,Jacket Plus,Zara,67.92,Kids
+PROD-0043,2024-05-08 00:00:00,2024-05-15 00:00:00,Books,Biography Lite,Under Armour,33.13,Unisex
+PROD-0044,2024-06-19 00:00:00,2024-09-09 00:00:00,Electronics,Wireless Earbuds,Apple,294.05,Women
+PROD-0045,2024-10-14 00:00:00,,Automotive,Tire Inflator Plus,H&M,28.11,Outdoor
+PROD-0046,2024-10-25 00:00:00,2024-12-20 00:00:00,Electronics,Bluetooth Speaker Lite,Sony,43.46,Kids
+PROD-0047,2024-04-17 00:00:00,2024-07-12 00:00:00,Electronics,Bluetooth Speaker Max,Sony,36.21,Home
+PROD-0048,2024-03-31 00:00:00,2024-04-04 00:00:00,Home & Kitchen,Coffee Maker Max,Apple,58.72,Kids
+PROD-0049,2024-03-22 00:00:00,2024-04-05 00:00:00,Sports,Soccer Ball Max,Adidas,118.46,Men
+PROD-0050,2024-06-28 00:00:00,2024-07-28 00:00:00,Sports,Dumbbells Plus,Under Armour,71.53,Outdoor
+PROD-0051,2024-02-05 00:00:00,2024-03-12 00:00:00,Beauty,Perfume Max,Sony,109.23,Home
+PROD-0052,2024-05-13 00:00:00,2024-06-16 00:00:00,Toys,LEGO Set Max,Adidas,17.24,Home
+PROD-0053,2024-11-06 00:00:00,2024-11-21 00:00:00,Toys,Action Figure Plus,H&M,119.24,Home
+PROD-0054,2024-01-01 00:00:00,2024-03-10 00:00:00,Books,Fiction Novel,H&M,207.93,Outdoor
+PROD-0055,2024-08-08 00:00:00,,Sports,Soccer Ball X,Adidas,201.28,Kids
+PROD-0056,2024-09-16 00:00:00,2024-11-08 00:00:00,Toys,LEGO Set Lite,Sony,101.89,Outdoor
+PROD-0057,2024-12-06 00:00:00,2025-03-03 00:00:00,Home & Kitchen,Coffee Maker X,H&M,225.94,Women
+PROD-0058,2024-01-01 00:00:00,2024-01-28 00:00:00,Books,Self-Help Book X,Levis,132.38,Home
+PROD-0059,2024-08-14 00:00:00,2024-10-19 00:00:00,Toys,Puzzle Plus,Under Armour,145.11,Outdoor
+PROD-0060,2024-09-20 00:00:00,2024-12-09 00:00:00,Clothing,Running Shoes,Adidas,104.54,Women
+PROD-0061,2024-03-16 00:00:00,,Books,Cookbook X,Samsung,77.97,Unisex
+PROD-0062,2024-07-31 00:00:00,2024-10-13 00:00:00,Clothing,Hoodie Max,Under Armour,63.15,Outdoor
+PROD-0063,2024-03-16 00:00:00,2024-03-17 00:00:00,Automotive,Air Freshener Max,Samsung,268.43,Men
+PROD-0064,2024-08-25 00:00:00,,Sports,Dumbbells Max,Levis,79.25,Men
+PROD-0065,2024-10-13 00:00:00,2024-12-09 00:00:00,Home & Kitchen,Air Fryer X,Levis,186.11,Outdoor
+PROD-0066,2024-03-22 00:00:00,2024-05-22 00:00:00,Beauty,Sunscreen,Under Armour,138.31,Women
+PROD-0067,2024-11-16 00:00:00,2025-01-12 00:00:00,Books,Biography Plus,Under Armour,28.77,Kids
+PROD-0068,2024-10-03 00:00:00,,Books,Sci-Fi Book,Zara,50.33,Unisex
+PROD-0069,2024-07-31 00:00:00,2024-10-09 00:00:00,Home & Kitchen,Coffee Maker Plus,Adidas,142.97,Men
+PROD-0070,2024-12-22 00:00:00,,Beauty,Lipstick Max,Puma,264.9,Home
+PROD-0071,2024-06-01 00:00:00,2024-07-25 00:00:00,Automotive,Car Charger X,Zara,164.23,Outdoor
+PROD-0072,2024-05-19 00:00:00,2024-05-23 00:00:00,Sports,Tennis Racket,Samsung,120.31,Outdoor
+PROD-0073,2024-03-06 00:00:00,2024-05-14 00:00:00,Beauty,Shampoo X,Under Armour,13.92,Unisex
+PROD-0074,2024-11-25 00:00:00,2025-01-24 00:00:00,Electronics,Wireless Earbuds Max,Apple,59.42,Kids
+PROD-0075,2024-06-16 00:00:00,2024-08-04 00:00:00,Toys,Board Game Lite,Under Armour,87.8,Unisex
+PROD-0076,2024-01-10 00:00:00,2024-01-17 00:00:00,Clothing,Hoodie Plus,Under Armour,299.96,Kids
+PROD-0077,2024-01-16 00:00:00,2024-02-11 00:00:00,Clothing,T-Shirt Plus,Nike,252.72,Home
+PROD-0078,2024-12-08 00:00:00,,Sports,Dumbbells,Under Armour,284.63,Unisex
+PROD-0079,2024-11-06 00:00:00,2024-11-21 00:00:00,Books,Sci-Fi Book Lite,Apple,234.66,Women
+PROD-0080,2024-01-14 00:00:00,2024-03-28 00:00:00,Clothing,Jacket Max,Zara,205.13,Unisex
+PROD-0081,2024-10-30 00:00:00,2025-01-19 00:00:00,Sports,Yoga Mat Lite,Puma,77.39,Outdoor
+PROD-0082,2024-01-22 00:00:00,2024-03-17 00:00:00,Clothing,Jacket X,Zara,200.48,Men
+PROD-0083,2024-09-07 00:00:00,,Toys,LEGO Set Max,H&M,288.46,Outdoor
+PROD-0084,2024-09-24 00:00:00,2024-10-29 00:00:00,Home & Kitchen,Air Fryer Max,Apple,187.07,Home
+PROD-0085,2024-05-17 00:00:00,2024-06-18 00:00:00,Automotive,Air Freshener Lite,Puma,250.22,Men
+PROD-0086,2024-10-18 00:00:00,2024-12-06 00:00:00,Automotive,Floor Mats Lite,Under Armour,104.89,Unisex
+PROD-0087,2024-06-30 00:00:00,2024-08-13 00:00:00,Home & Kitchen,Air Fryer,Samsung,88.21,Home
+PROD-0088,2024-09-21 00:00:00,2024-10-02 00:00:00,Books,Biography Max,Nike,76.95,Unisex
+PROD-0089,2024-08-17 00:00:00,2024-08-29 00:00:00,Sports,Tennis Racket,Under Armour,92.5,Unisex
+PROD-0090,2024-12-05 00:00:00,2025-02-04 00:00:00,Sports,Soccer Ball Max,Adidas,168.71,Kids
+PROD-0091,2024-05-18 00:00:00,2024-06-17 00:00:00,Toys,Action Figure Lite,Under Armour,41.46,Women
+PROD-0092,2024-12-19 00:00:00,2025-01-16 00:00:00,Clothing,Jacket,Zara,223.14,Kids
+PROD-0093,2024-05-31 00:00:00,2024-06-23 00:00:00,Books,Fiction Novel X,Samsung,94.86,Outdoor
+PROD-0094,2024-01-28 00:00:00,2024-04-27 00:00:00,Home & Kitchen,Knife Set Max,Nike,283.55,Outdoor
+PROD-0095,2024-10-20 00:00:00,2024-12-21 00:00:00,Clothing,T-Shirt Pro,Nike,135.49,Women
+PROD-0096,2024-02-03 00:00:00,2024-02-13 00:00:00,Books,Self-Help Book Pro,Adidas,175.63,Outdoor
+PROD-0097,2024-06-04 00:00:00,,Home & Kitchen,Coffee Maker Max,Puma,78.96,Home
+PROD-0098,2024-07-13 00:00:00,2024-09-08 00:00:00,Sports,Water Bottle Max,Nike,93.41,Home
+PROD-0099,2024-01-31 00:00:00,2024-02-13 00:00:00,Books,Biography,Puma,284.58,Women
+PROD-0100,2024-12-04 00:00:00,,Sports,Soccer Ball Pro,Adidas,76.51,Home
+PROD-0101,2024-08-18 00:00:00,2024-10-18 00:00:00,Home & Kitchen,Blender Lite,H&M,91.62,Women
+PROD-0102,2024-12-17 00:00:00,2025-01-20 00:00:00,Books,Self-Help Book X,Adidas,237.61,Outdoor
+PROD-0103,2024-10-05 00:00:00,2024-10-25 00:00:00,Sports,Tennis Racket Pro,Adidas,273.06,Women
+PROD-0104,2024-06-06 00:00:00,2024-08-18 00:00:00,Electronics,Smart Watch Pro,Samsung,276.82,Unisex
+PROD-0105,2024-05-19 00:00:00,2024-07-22 00:00:00,Automotive,Dash Cam Pro,H&M,134.69,Home
+PROD-0106,2024-05-08 00:00:00,,Beauty,Perfume X,Puma,73.29,Outdoor
+PROD-0107,2024-10-22 00:00:00,,Electronics,Bluetooth Speaker X,Sony,228.33,Unisex
+PROD-0108,2024-10-26 00:00:00,2024-12-28 00:00:00,Automotive,Dash Cam Lite,Apple,290.89,Unisex
+PROD-0109,2024-12-09 00:00:00,,Beauty,Perfume,Zara,53.27,Unisex
+PROD-0110,2024-10-08 00:00:00,,Automotive,Dash Cam Lite,H&M,31.88,Kids
+PROD-0111,2024-09-20 00:00:00,2024-09-21 00:00:00,Clothing,Hoodie Max,Under Armour,199.34,Home
+PROD-0112,2024-09-22 00:00:00,2024-11-25 00:00:00,Beauty,Face Cream Plus,Samsung,189.86,Men
+PROD-0113,2024-05-27 00:00:00,2024-08-25 00:00:00,Books,Biography,Apple,148.5,Men
+PROD-0114,2024-10-09 00:00:00,,Sports,Dumbbells Pro,Sony,125.94,Women
+PROD-0115,2024-09-12 00:00:00,2024-10-20 00:00:00,Automotive,Car Charger Max,Apple,155.6,Kids
+PROD-0116,2024-08-21 00:00:00,2024-10-10 00:00:00,Automotive,Air Freshener X,Samsung,62.03,Home
+PROD-0117,2024-07-31 00:00:00,2024-10-04 00:00:00,Home & Kitchen,Blender Lite,Sony,84.54,Men
+PROD-0118,2024-12-03 00:00:00,2024-12-23 00:00:00,Books,Biography Lite,Puma,137.27,Unisex
+PROD-0119,2024-07-12 00:00:00,2024-08-23 00:00:00,Toys,Stuffed Animal Plus,Levis,261.65,Outdoor
+PROD-0120,2024-01-23 00:00:00,2024-03-24 00:00:00,Beauty,Shampoo Max,H&M,213.33,Unisex
+PROD-0121,2024-03-05 00:00:00,2024-05-20 00:00:00,Home & Kitchen,Air Fryer Max,Nike,103.6,Men
+PROD-0122,2024-08-21 00:00:00,,Clothing,Jacket Plus,Zara,48.37,Outdoor
+PROD-0123,2024-05-15 00:00:00,2024-08-12 00:00:00,Clothing,Hoodie Lite,Under Armour,122.85,Men
+PROD-0124,2024-10-04 00:00:00,,Beauty,Perfume,Under Armour,26.11,Outdoor
+PROD-0125,2024-08-10 00:00:00,2024-10-31 00:00:00,Books,Cookbook Max,Adidas,212.93,Men
+PROD-0126,2024-01-24 00:00:00,2024-02-01 00:00:00,Home & Kitchen,Knife Set Max,Nike,92.24,Kids
+PROD-0127,2024-07-29 00:00:00,2024-08-22 00:00:00,Home & Kitchen,Coffee Maker X,Levis,55.97,Men
+PROD-0128,2024-09-11 00:00:00,2024-09-30 00:00:00,Beauty,Sunscreen Lite,Samsung,74.25,Outdoor
+PROD-0129,2024-08-26 00:00:00,2024-11-21 00:00:00,Automotive,Dash Cam Max,Nike,166.69,Men
+PROD-0130,2024-11-23 00:00:00,2025-02-20 00:00:00,Toys,Stuffed Animal Plus,Sony,79.52,Kids
+PROD-0131,2024-05-01 00:00:00,2024-06-16 00:00:00,Beauty,Lipstick Lite,Adidas,174.98,Outdoor
+PROD-0132,2024-01-05 00:00:00,2024-04-02 00:00:00,Electronics,Laptop Stand X,Sony,234.81,Men
+PROD-0133,2024-11-06 00:00:00,2024-12-05 00:00:00,Automotive,Dash Cam Lite,Samsung,193.16,Home
+PROD-0134,2024-06-07 00:00:00,2024-06-12 00:00:00,Home & Kitchen,Blender Plus,Nike,176.38,Outdoor
+PROD-0135,2024-06-16 00:00:00,2024-07-09 00:00:00,Clothing,Running Shoes Lite,Adidas,65.02,Home
+PROD-0136,2024-09-03 00:00:00,2024-10-11 00:00:00,Books,Cookbook Pro,Sony,225.48,Kids
+PROD-0137,2024-04-25 00:00:00,2024-07-21 00:00:00,Automotive,Car Charger Lite,Apple,294.09,Home
+PROD-0138,2024-01-08 00:00:00,2024-01-24 00:00:00,Clothing,Hoodie,Under Armour,139.7,Outdoor
+PROD-0139,2024-11-22 00:00:00,2024-12-06 00:00:00,Books,Biography Pro,H&M,204.39,Unisex
+PROD-0140,2024-11-27 00:00:00,,Toys,Stuffed Animal Lite,Samsung,248.2,Outdoor
+PROD-0141,2024-01-24 00:00:00,2024-03-03 00:00:00,Beauty,Face Cream Pro,Apple,298.79,Men
+PROD-0142,2024-03-10 00:00:00,2024-04-27 00:00:00,Sports,Water Bottle,Nike,203.11,Outdoor
+PROD-0143,2024-07-31 00:00:00,2024-10-02 00:00:00,Beauty,Sunscreen Pro,Apple,186.99,Kids
+PROD-0144,2024-08-15 00:00:00,2024-10-01 00:00:00,Toys,Board Game Lite,Under Armour,35.2,Outdoor
+PROD-0145,2024-05-21 00:00:00,2024-06-06 00:00:00,Toys,LEGO Set Pro,H&M,285.0,Unisex
+PROD-0146,2024-01-11 00:00:00,,Sports,Water Bottle X,Nike,104.04,Women
+PROD-0147,2024-10-10 00:00:00,2024-11-07 00:00:00,Sports,Yoga Mat Lite,Puma,245.03,Women
+PROD-0148,2024-05-21 00:00:00,2024-06-09 00:00:00,Home & Kitchen,Toaster Lite,Nike,296.32,Home
+PROD-0149,2024-03-08 00:00:00,,Home & Kitchen,Blender X,Nike,238.25,Women
+PROD-0150,2024-05-15 00:00:00,,Toys,LEGO Set Pro,Apple,224.06,Home
+PROD-0151,2024-08-17 00:00:00,2024-10-22 00:00:00,Clothing,Hoodie X,Under Armour,180.53,Unisex
+PROD-0152,2024-01-23 00:00:00,2024-04-17 00:00:00,Sports,Water Bottle,Nike,159.3,Unisex
+PROD-0153,2024-09-02 00:00:00,2024-10-27 00:00:00,Electronics,Wireless Earbuds,Apple,207.7,Unisex
+PROD-0154,2024-06-13 00:00:00,2024-06-22 00:00:00,Automotive,Car Charger,Adidas,43.09,Home
+PROD-0155,2024-09-28 00:00:00,2024-12-02 00:00:00,Toys,Puzzle,Puma,183.99,Men
+PROD-0156,2024-04-20 00:00:00,2024-05-20 00:00:00,Clothing,Jacket Max,Zara,127.65,Unisex
+PROD-0157,2024-08-06 00:00:00,2024-09-08 00:00:00,Beauty,Face Cream,Zara,116.03,Women
+PROD-0158,2024-02-13 00:00:00,,Automotive,Car Charger Lite,Adidas,34.38,Outdoor
+PROD-0159,2024-10-27 00:00:00,2025-01-07 00:00:00,Home & Kitchen,Toaster Max,Nike,102.91,Men
+PROD-0160,2024-05-27 00:00:00,2024-07-12 00:00:00,Toys,Puzzle Plus,Nike,36.45,Home
+PROD-0161,2024-02-25 00:00:00,2024-05-07 00:00:00,Home & Kitchen,Air Fryer X,Samsung,114.05,Kids
+PROD-0162,2024-11-14 00:00:00,2025-02-05 00:00:00,Sports,Tennis Racket,Levis,169.67,Home
+PROD-0163,2024-05-19 00:00:00,2024-06-28 00:00:00,Books,Fiction Novel Pro,Apple,276.92,Kids
+PROD-0164,2024-12-02 00:00:00,2024-12-21 00:00:00,Home & Kitchen,Coffee Maker Pro,Puma,223.83,Men
+PROD-0165,2024-08-20 00:00:00,2024-10-07 00:00:00,Sports,Tennis Racket X,H&M,97.61,Kids
+PROD-0166,2024-03-20 00:00:00,2024-06-08 00:00:00,Clothing,T-Shirt Lite,Nike,20.62,Men
+PROD-0167,2024-11-06 00:00:00,2024-12-11 00:00:00,Automotive,Air Freshener Pro,Under Armour,69.37,Home
+PROD-0168,2024-05-25 00:00:00,2024-08-09 00:00:00,Toys,Puzzle Lite,Adidas,149.06,Outdoor
+PROD-0169,2024-07-21 00:00:00,2024-07-29 00:00:00,Electronics,Smart Watch Plus,Samsung,8.25,Kids
+PROD-0170,2024-06-16 00:00:00,,Home & Kitchen,Knife Set Plus,Sony,152.22,Unisex
+PROD-0171,2024-12-26 00:00:00,2025-03-08 00:00:00,Home & Kitchen,Air Fryer Pro,Levis,251.0,Kids
+PROD-0172,2024-01-10 00:00:00,2024-01-20 00:00:00,Beauty,Face Cream Max,H&M,259.45,Home
+PROD-0173,2024-02-28 00:00:00,2024-04-10 00:00:00,Beauty,Lipstick Max,Sony,56.52,Home
+PROD-0174,2024-02-24 00:00:00,2024-05-10 00:00:00,Toys,LEGO Set Max,H&M,123.72,Men
+PROD-0175,2024-06-19 00:00:00,2024-06-29 00:00:00,Books,Sci-Fi Book X,Samsung,156.07,Men
+PROD-0176,2024-06-28 00:00:00,2024-09-19 00:00:00,Sports,Soccer Ball Pro,Adidas,245.61,Women
+PROD-0177,2024-03-29 00:00:00,2024-06-21 00:00:00,Home & Kitchen,Knife Set Max,Samsung,28.14,Outdoor
+PROD-0178,2024-08-17 00:00:00,2024-10-29 00:00:00,Automotive,Tire Inflator Lite,Puma,195.03,Home
+PROD-0179,2024-02-04 00:00:00,2024-04-25 00:00:00,Toys,Board Game X,Under Armour,95.02,Kids
+PROD-0180,2024-09-16 00:00:00,,Electronics,Bluetooth Speaker Pro,Sony,141.74,Men
+PROD-0181,2024-11-26 00:00:00,2024-12-08 00:00:00,Toys,Action Figure Max,Adidas,186.8,Home
+PROD-0182,2024-01-22 00:00:00,2024-04-05 00:00:00,Automotive,Tire Inflator X,Levis,197.63,Kids
+PROD-0183,2024-02-01 00:00:00,2024-03-16 00:00:00,Automotive,Tire Inflator X,Apple,294.81,Men
+PROD-0184,2024-12-28 00:00:00,2025-02-23 00:00:00,Home & Kitchen,Blender Plus,Samsung,160.07,Home
+PROD-0185,2024-07-17 00:00:00,2024-08-30 00:00:00,Toys,Action Figure,Sony,205.59,Men
+PROD-0186,2024-02-18 00:00:00,2024-04-08 00:00:00,Toys,LEGO Set,Zara,89.53,Outdoor
+PROD-0187,2024-10-25 00:00:00,2024-12-09 00:00:00,Home & Kitchen,Knife Set,Adidas,97.2,Outdoor
+PROD-0188,2024-12-28 00:00:00,2025-02-06 00:00:00,Beauty,Shampoo Lite,Puma,170.31,Outdoor
+PROD-0189,2024-11-26 00:00:00,2025-01-31 00:00:00,Home & Kitchen,Toaster Lite,Adidas,112.37,Kids
+PROD-0190,2024-09-05 00:00:00,2024-09-23 00:00:00,Home & Kitchen,Coffee Maker Pro,Zara,51.54,Kids
+PROD-0191,2024-11-12 00:00:00,,Electronics,Bluetooth Speaker Plus,Sony,116.75,Women
+PROD-0192,2024-07-29 00:00:00,2024-08-29 00:00:00,Home & Kitchen,Air Fryer Lite,Nike,291.05,Home
+PROD-0193,2024-05-02 00:00:00,2024-07-02 00:00:00,Automotive,Floor Mats Lite,Levis,271.76,Women
+PROD-0194,2024-07-14 00:00:00,2024-09-06 00:00:00,Automotive,Air Freshener X,Sony,290.07,Women
+PROD-0195,2024-11-24 00:00:00,2025-01-11 00:00:00,Home & Kitchen,Knife Set,Nike,169.02,Men
+PROD-0196,2024-02-12 00:00:00,2024-03-18 00:00:00,Clothing,Running Shoes Plus,Adidas,138.09,Home
+PROD-0197,2024-08-18 00:00:00,2024-08-22 00:00:00,Beauty,Face Cream X,Samsung,127.97,Unisex
+PROD-0198,2024-02-11 00:00:00,2024-02-15 00:00:00,Toys,Board Game,H&M,99.68,Men
+PROD-0199,2024-01-20 00:00:00,2024-03-21 00:00:00,Toys,Board Game,Apple,210.64,Women
+PROD-0200,2024-01-03 00:00:00,2024-01-06 00:00:00,Automotive,Air Freshener X,Puma,81.23,Women
+PROD-0201,2024-05-01 00:00:00,2024-05-08 00:00:00,Beauty,Face Cream X,Sony,76.09,Outdoor
+PROD-0202,2024-09-12 00:00:00,2024-09-15 00:00:00,Automotive,Car Charger Plus,Adidas,191.78,Home
+PROD-0203,2024-01-01 00:00:00,2024-02-01 00:00:00,Home & Kitchen,Knife Set,H&M,173.77,Women
+PROD-0204,2024-07-03 00:00:00,,Clothing,Jacket X,Zara,160.65,Home
+PROD-0205,2024-01-23 00:00:00,2024-03-11 00:00:00,Electronics,Laptop Stand Lite,Under Armour,80.56,Men
+PROD-0206,2024-05-03 00:00:00,2024-07-23 00:00:00,Clothing,Running Shoes,Adidas,36.47,Home
+PROD-0207,2024-06-29 00:00:00,2024-09-20 00:00:00,Toys,Board Game Max,Nike,57.47,Outdoor
+PROD-0208,2024-02-02 00:00:00,2024-04-01 00:00:00,Automotive,Floor Mats Pro,Apple,16.86,Women
+PROD-0209,2024-06-10 00:00:00,2024-08-15 00:00:00,Sports,Yoga Mat Max,Puma,123.07,Home
+PROD-0210,2024-05-26 00:00:00,2024-06-02 00:00:00,Books,Fiction Novel Lite,Samsung,260.53,Kids
+PROD-0211,2024-08-11 00:00:00,2024-10-07 00:00:00,Clothing,Running Shoes Lite,Adidas,269.01,Unisex
+PROD-0212,2024-07-07 00:00:00,2024-09-12 00:00:00,Home & Kitchen,Air Fryer,Under Armour,84.41,Men
+PROD-0213,2024-11-04 00:00:00,2024-11-28 00:00:00,Beauty,Face Cream Pro,H&M,166.36,Kids
+PROD-0214,2024-12-04 00:00:00,2025-01-31 00:00:00,Clothing,Running Shoes Plus,Adidas,183.16,Unisex
+PROD-0215,2024-01-22 00:00:00,2024-03-08 00:00:00,Automotive,Dash Cam Lite,Under Armour,186.76,Unisex
+PROD-0216,2024-12-09 00:00:00,2025-01-25 00:00:00,Electronics,Wireless Earbuds,Apple,156.84,Outdoor
+PROD-0217,2024-11-07 00:00:00,2025-01-03 00:00:00,Home & Kitchen,Blender Plus,Apple,16.22,Men
+PROD-0218,2024-10-17 00:00:00,,Toys,Action Figure Lite,H&M,51.1,Unisex
+PROD-0219,2024-10-20 00:00:00,,Toys,Puzzle,Adidas,113.87,Kids
+PROD-0220,2024-01-14 00:00:00,2024-03-18 00:00:00,Books,Cookbook Pro,Adidas,158.21,Home
+PROD-0221,2024-04-19 00:00:00,2024-05-26 00:00:00,Books,Sci-Fi Book Plus,Under Armour,210.02,Unisex
+PROD-0222,2024-02-07 00:00:00,2024-04-04 00:00:00,Clothing,Jeans Lite,Levis,299.19,Outdoor
+PROD-0223,2024-10-04 00:00:00,2024-11-12 00:00:00,Toys,LEGO Set,Levis,256.29,Outdoor
+PROD-0224,2024-04-24 00:00:00,,Home & Kitchen,Knife Set Plus,Levis,65.08,Women
+PROD-0225,2024-10-10 00:00:00,2024-12-09 00:00:00,Automotive,Car Charger Plus,Zara,242.27,Home
+PROD-0226,2024-06-07 00:00:00,2024-08-08 00:00:00,Clothing,T-Shirt X,Nike,160.54,Unisex
+PROD-0227,2024-06-11 00:00:00,2024-08-08 00:00:00,Clothing,Jeans Lite,Levis,142.94,Home
+PROD-0228,2024-04-03 00:00:00,2024-04-20 00:00:00,Home & Kitchen,Toaster Pro,Puma,133.18,Men
+PROD-0229,2024-03-23 00:00:00,2024-04-21 00:00:00,Home & Kitchen,Knife Set Lite,Apple,107.72,Home
+PROD-0230,2024-04-10 00:00:00,2024-06-20 00:00:00,Clothing,Running Shoes Lite,Adidas,86.68,Outdoor
+PROD-0231,2024-11-24 00:00:00,2025-02-07 00:00:00,Clothing,Jacket X,Zara,51.32,Outdoor
+PROD-0232,2024-01-15 00:00:00,,Toys,Stuffed Animal Lite,Nike,284.86,Home
+PROD-0233,2024-08-01 00:00:00,2024-08-05 00:00:00,Sports,Water Bottle X,Nike,152.41,Outdoor
+PROD-0234,2024-05-05 00:00:00,2024-08-01 00:00:00,Books,Sci-Fi Book Pro,Under Armour,125.38,Unisex
+PROD-0235,2024-08-13 00:00:00,2024-10-12 00:00:00,Electronics,Smart Watch Plus,Samsung,65.97,Home
+PROD-0236,2024-07-23 00:00:00,,Toys,Action Figure Pro,Zara,114.93,Home
+PROD-0237,2024-03-03 00:00:00,2024-04-04 00:00:00,Toys,Board Game Lite,Under Armour,47.41,Men
+PROD-0238,2024-05-07 00:00:00,2024-05-28 00:00:00,Beauty,Sunscreen,H&M,245.15,Home
+PROD-0239,2024-09-12 00:00:00,2024-11-11 00:00:00,Toys,Board Game Max,Apple,152.63,Kids
+PROD-0240,2024-07-20 00:00:00,2024-08-20 00:00:00,Electronics,Wireless Earbuds Pro,Apple,69.24,Kids
+PROD-0241,2024-09-10 00:00:00,2024-12-03 00:00:00,Electronics,Bluetooth Speaker X,Sony,203.71,Kids
+PROD-0242,2024-08-08 00:00:00,,Electronics,Wireless Earbuds Max,Apple,83.75,Kids
+PROD-0243,2024-01-27 00:00:00,2024-02-21 00:00:00,Toys,LEGO Set Pro,H&M,112.57,Kids
+PROD-0244,2024-10-08 00:00:00,2024-12-27 00:00:00,Beauty,Sunscreen Plus,Under Armour,206.03,Men
+PROD-0245,2024-07-10 00:00:00,2024-08-23 00:00:00,Clothing,Hoodie Plus,Under Armour,169.99,Kids
+PROD-0246,2024-09-17 00:00:00,2024-09-23 00:00:00,Sports,Water Bottle,Nike,19.31,Women
+PROD-0247,2024-08-21 00:00:00,,Toys,Puzzle Lite,Levis,268.57,Women
+PROD-0248,2024-11-11 00:00:00,2024-12-20 00:00:00,Toys,Board Game X,H&M,180.55,Home
+PROD-0249,2024-08-31 00:00:00,2024-10-18 00:00:00,Automotive,Tire Inflator Max,Sony,103.37,Men
+PROD-0250,2024-08-30 00:00:00,2024-11-22 00:00:00,Books,Fiction Novel X,Puma,236.16,Home
+PROD-0251,2024-10-25 00:00:00,2025-01-01 00:00:00,Sports,Yoga Mat Max,Puma,190.92,Home
+PROD-0252,2024-10-20 00:00:00,2024-11-04 00:00:00,Home & Kitchen,Coffee Maker Lite,Nike,62.08,Unisex
+PROD-0253,2024-12-19 00:00:00,2025-02-22 00:00:00,Beauty,Shampoo,H&M,233.83,Unisex
+PROD-0254,2024-09-22 00:00:00,2024-11-03 00:00:00,Electronics,Smart Watch X,Samsung,299.44,Unisex
+PROD-0255,2024-08-23 00:00:00,2024-10-06 00:00:00,Beauty,Perfume,Apple,166.59,Outdoor
+PROD-0256,2024-04-08 00:00:00,2024-05-14 00:00:00,Books,Biography Lite,Under Armour,170.07,Women
+PROD-0257,2024-06-11 00:00:00,2024-08-22 00:00:00,Books,Cookbook Lite,Under Armour,280.5,Outdoor
+PROD-0258,2024-12-12 00:00:00,2025-02-01 00:00:00,Books,Fiction Novel Lite,Puma,246.59,Women
+PROD-0259,2024-12-31 00:00:00,,Electronics,Bluetooth Speaker Lite,Sony,277.65,Outdoor
+PROD-0260,2024-10-02 00:00:00,2024-12-13 00:00:00,Automotive,Floor Mats Pro,Samsung,210.66,Women
+PROD-0261,2024-12-08 00:00:00,2025-01-06 00:00:00,Sports,Dumbbells Pro,Nike,193.55,Men
+PROD-0262,2024-02-21 00:00:00,2024-03-10 00:00:00,Beauty,Perfume Plus,Under Armour,7.51,Home
+PROD-0263,2024-11-29 00:00:00,2025-01-05 00:00:00,Beauty,Lipstick Pro,Under Armour,100.41,Outdoor
+PROD-0264,2024-04-28 00:00:00,2024-05-03 00:00:00,Clothing,Jacket Max,Zara,274.48,Women
+PROD-0265,2024-09-10 00:00:00,2024-10-18 00:00:00,Home & Kitchen,Blender Lite,H&M,263.75,Men
+PROD-0266,2024-05-25 00:00:00,2024-08-16 00:00:00,Clothing,Running Shoes Plus,Adidas,165.72,Unisex
+PROD-0267,2024-02-27 00:00:00,2024-04-26 00:00:00,Automotive,Dash Cam Plus,Samsung,196.59,Outdoor
+PROD-0268,2024-05-31 00:00:00,2024-06-25 00:00:00,Electronics,Bluetooth Speaker Max,Sony,57.59,Outdoor
+PROD-0269,2024-02-14 00:00:00,2024-02-27 00:00:00,Beauty,Sunscreen Max,Zara,60.32,Women
+PROD-0270,2024-05-13 00:00:00,2024-07-10 00:00:00,Toys,Board Game Lite,Nike,227.59,Kids
+PROD-0271,2024-11-30 00:00:00,2024-12-31 00:00:00,Electronics,Bluetooth Speaker Max,Sony,24.25,Men
+PROD-0272,2024-12-17 00:00:00,2025-01-26 00:00:00,Books,Cookbook Lite,H&M,208.94,Outdoor
+PROD-0273,2024-04-22 00:00:00,2024-06-23 00:00:00,Toys,Stuffed Animal X,Samsung,51.03,Outdoor
+PROD-0274,2024-08-29 00:00:00,2024-11-23 00:00:00,Toys,Puzzle,Levis,248.72,Women
+PROD-0275,2024-08-16 00:00:00,2024-10-02 00:00:00,Clothing,Jacket Pro,Zara,28.95,Home
+PROD-0276,2024-04-13 00:00:00,2024-05-03 00:00:00,Electronics,USB-C Hub Max,Levis,54.36,Home
+PROD-0277,2024-10-25 00:00:00,2024-12-30 00:00:00,Clothing,Jeans Max,Levis,136.96,Men
+PROD-0278,2024-08-21 00:00:00,2024-11-01 00:00:00,Home & Kitchen,Toaster,H&M,141.93,Kids
+PROD-0279,2024-01-02 00:00:00,2024-03-17 00:00:00,Electronics,Laptop Stand Lite,Sony,27.46,Unisex
+PROD-0280,2024-01-31 00:00:00,2024-02-09 00:00:00,Clothing,Jacket Pro,Zara,295.91,Unisex
+PROD-0281,2024-03-10 00:00:00,2024-06-01 00:00:00,Books,Self-Help Book Max,Apple,289.34,Kids
+PROD-0282,2024-02-11 00:00:00,2024-05-06 00:00:00,Automotive,Air Freshener,H&M,263.11,Women
+PROD-0283,2024-10-02 00:00:00,2024-10-19 00:00:00,Toys,LEGO Set Pro,Apple,219.98,Women
+PROD-0284,2024-08-25 00:00:00,2024-11-03 00:00:00,Electronics,Bluetooth Speaker Plus,Sony,130.68,Unisex
+PROD-0285,2024-03-20 00:00:00,2024-04-04 00:00:00,Sports,Tennis Racket Max,Zara,15.46,Outdoor
+PROD-0286,2024-04-15 00:00:00,,Electronics,Smart Watch X,Samsung,180.61,Unisex
+PROD-0287,2024-01-23 00:00:00,2024-02-22 00:00:00,Electronics,Smart Watch Plus,Samsung,164.68,Men
+PROD-0288,2024-06-12 00:00:00,2024-09-07 00:00:00,Books,Cookbook Lite,Puma,246.59,Women
+PROD-0289,2024-07-30 00:00:00,2024-08-07 00:00:00,Home & Kitchen,Toaster,Samsung,169.67,Home
+PROD-0290,2024-09-10 00:00:00,,Home & Kitchen,Air Fryer,Levis,107.25,Outdoor
+PROD-0291,2024-12-22 00:00:00,2025-01-11 00:00:00,Beauty,Sunscreen X,Zara,94.16,Women
+PROD-0292,2024-06-02 00:00:00,2024-06-21 00:00:00,Automotive,Floor Mats X,Samsung,242.89,Men
+PROD-0293,2024-09-28 00:00:00,,Beauty,Lipstick Lite,Levis,77.39,Women
+PROD-0294,2024-07-08 00:00:00,,Clothing,Hoodie Pro,Under Armour,219.02,Women
+PROD-0295,2024-11-04 00:00:00,,Books,Self-Help Book,Puma,27.39,Home
+PROD-0296,2024-06-19 00:00:00,2024-06-21 00:00:00,Sports,Tennis Racket,Samsung,68.26,Women
+PROD-0297,2024-05-04 00:00:00,2024-05-31 00:00:00,Clothing,Hoodie X,Under Armour,122.6,Women
+PROD-0298,2024-08-26 00:00:00,2024-10-11 00:00:00,Toys,Action Figure X,H&M,96.67,Kids
+PROD-0299,2024-08-28 00:00:00,2024-10-08 00:00:00,Automotive,Air Freshener Lite,Adidas,274.8,Kids
+PROD-0300,2024-04-23 00:00:00,2024-04-26 00:00:00,Beauty,Face Cream X,Puma,82.66,Home
+PROD-0301,2024-04-10 00:00:00,2024-05-29 00:00:00,Beauty,Perfume Max,Apple,173.51,Women
+PROD-0302,2024-11-24 00:00:00,2025-01-22 00:00:00,Toys,Action Figure Plus,Under Armour,55.45,Kids
+PROD-0303,2024-04-04 00:00:00,2024-06-13 00:00:00,Home & Kitchen,Toaster X,Under Armour,297.15,Men
+PROD-0304,2024-12-08 00:00:00,,Electronics,Wireless Earbuds,Apple,7.87,Women
+PROD-0305,2024-12-28 00:00:00,2025-01-25 00:00:00,Sports,Yoga Mat Pro,Puma,154.68,Kids
+PROD-0306,2024-01-04 00:00:00,2024-02-26 00:00:00,Automotive,Air Freshener,Nike,9.47,Home
+PROD-0307,2024-01-09 00:00:00,2024-04-08 00:00:00,Books,Biography Pro,Sony,204.16,Women
+PROD-0308,2024-03-17 00:00:00,2024-06-05 00:00:00,Clothing,Jacket Lite,Zara,160.77,Kids
+PROD-0309,2024-07-26 00:00:00,2024-08-27 00:00:00,Beauty,Face Cream Lite,Zara,297.12,Women
+PROD-0310,2024-02-17 00:00:00,2024-04-06 00:00:00,Clothing,T-Shirt,Nike,168.48,Men
+PROD-0311,2024-02-12 00:00:00,2024-04-08 00:00:00,Electronics,Smart Watch X,Samsung,195.59,Kids
+PROD-0312,2024-01-22 00:00:00,2024-04-20 00:00:00,Clothing,Jacket Lite,Zara,266.93,Unisex
+PROD-0313,2024-12-16 00:00:00,2025-02-24 00:00:00,Electronics,Wireless Earbuds Plus,Apple,171.66,Men
+PROD-0314,2024-10-27 00:00:00,,Toys,LEGO Set Pro,Samsung,247.27,Unisex
+PROD-0315,2024-05-03 00:00:00,2024-06-22 00:00:00,Books,Cookbook Lite,Puma,205.04,Home
+PROD-0316,2024-09-13 00:00:00,2024-10-28 00:00:00,Beauty,Shampoo Plus,Adidas,21.78,Unisex
+PROD-0317,2024-11-05 00:00:00,2025-01-21 00:00:00,Clothing,Running Shoes Pro,Adidas,122.62,Kids
+PROD-0318,2024-04-26 00:00:00,2024-06-14 00:00:00,Books,Self-Help Book X,Under Armour,132.95,Outdoor
+PROD-0319,2024-05-31 00:00:00,2024-06-10 00:00:00,Beauty,Face Cream Max,Puma,30.11,Women
+PROD-0320,2024-07-03 00:00:00,,Home & Kitchen,Air Fryer Max,Zara,7.52,Kids
+PROD-0321,2024-03-08 00:00:00,,Toys,Action Figure X,Adidas,132.7,Home
+PROD-0322,2024-02-15 00:00:00,2024-02-27 00:00:00,Beauty,Face Cream Max,Nike,181.49,Kids
+PROD-0323,2024-07-30 00:00:00,2024-08-10 00:00:00,Electronics,Bluetooth Speaker Plus,Sony,219.09,Home
+PROD-0324,2024-03-12 00:00:00,2024-04-16 00:00:00,Home & Kitchen,Air Fryer Plus,Apple,150.97,Men
+PROD-0325,2024-06-02 00:00:00,2024-06-12 00:00:00,Beauty,Perfume,H&M,112.16,Women
+PROD-0326,2024-04-10 00:00:00,2024-04-28 00:00:00,Automotive,Tire Inflator Lite,Puma,95.56,Unisex
+PROD-0327,2024-06-20 00:00:00,2024-09-12 00:00:00,Beauty,Perfume Lite,Under Armour,292.41,Women
+PROD-0328,2024-09-02 00:00:00,2024-10-23 00:00:00,Toys,Stuffed Animal,Samsung,290.8,Kids
+PROD-0329,2024-06-15 00:00:00,2024-08-05 00:00:00,Automotive,Tire Inflator Plus,Samsung,113.3,Home
+PROD-0330,2024-08-24 00:00:00,2024-09-20 00:00:00,Home & Kitchen,Toaster,Nike,134.9,Kids
+PROD-0331,2024-12-10 00:00:00,2025-03-02 00:00:00,Clothing,Hoodie,Under Armour,95.02,Kids
+PROD-0332,2024-02-07 00:00:00,2024-04-24 00:00:00,Home & Kitchen,Air Fryer X,H&M,146.89,Unisex
+PROD-0333,2024-07-03 00:00:00,2024-09-10 00:00:00,Beauty,Sunscreen Pro,Nike,180.57,Men
+PROD-0334,2024-03-26 00:00:00,2024-04-01 00:00:00,Sports,Soccer Ball,Adidas,171.58,Outdoor
+PROD-0335,2024-02-24 00:00:00,,Beauty,Perfume,H&M,82.06,Home
+PROD-0336,2024-07-19 00:00:00,2024-10-14 00:00:00,Sports,Tennis Racket Plus,Zara,179.04,Home
+PROD-0337,2024-02-23 00:00:00,2024-03-05 00:00:00,Toys,LEGO Set Plus,Under Armour,40.11,Outdoor
+PROD-0338,2024-08-21 00:00:00,2024-10-27 00:00:00,Toys,Action Figure Pro,Zara,147.97,Unisex
+PROD-0339,2024-02-04 00:00:00,2024-02-19 00:00:00,Automotive,Air Freshener,Zara,12.63,Kids
+PROD-0340,2024-05-04 00:00:00,2024-07-14 00:00:00,Clothing,Jeans Max,Levis,53.07,Home
+PROD-0341,2024-11-18 00:00:00,2025-02-08 00:00:00,Automotive,Floor Mats Pro,H&M,199.24,Unisex
+PROD-0342,2024-08-07 00:00:00,2024-09-04 00:00:00,Sports,Tennis Racket Pro,Puma,66.49,Outdoor
+PROD-0343,2024-04-05 00:00:00,2024-05-01 00:00:00,Clothing,Jacket,Zara,140.51,Kids
+PROD-0344,2024-11-01 00:00:00,2024-12-22 00:00:00,Automotive,Tire Inflator Lite,Zara,178.57,Kids
+PROD-0345,2024-12-10 00:00:00,2025-01-18 00:00:00,Automotive,Tire Inflator Pro,Apple,276.08,Home
+PROD-0346,2024-05-02 00:00:00,2024-05-26 00:00:00,Home & Kitchen,Knife Set X,Adidas,115.74,Women
+PROD-0347,2024-03-11 00:00:00,2024-05-05 00:00:00,Beauty,Lipstick X,Puma,60.6,Outdoor
+PROD-0348,2024-09-07 00:00:00,2024-10-01 00:00:00,Home & Kitchen,Toaster X,Apple,98.48,Unisex
+PROD-0349,2024-01-05 00:00:00,2024-01-30 00:00:00,Electronics,Bluetooth Speaker X,Sony,245.66,Home
+PROD-0350,2024-07-31 00:00:00,2024-09-26 00:00:00,Automotive,Air Freshener X,Under Armour,149.67,Men
+PROD-0351,2024-05-29 00:00:00,,Electronics,Smart Watch Plus,Samsung,72.09,Kids
+PROD-0352,2024-10-08 00:00:00,2024-12-21 00:00:00,Automotive,Tire Inflator Lite,Under Armour,39.57,Home
+PROD-0353,2024-04-21 00:00:00,2024-05-05 00:00:00,Electronics,Laptop Stand Plus,Levis,222.37,Outdoor
+PROD-0354,2024-05-14 00:00:00,2024-05-26 00:00:00,Books,Fiction Novel Plus,Under Armour,135.08,Men
+PROD-0355,2024-12-18 00:00:00,2025-03-07 00:00:00,Sports,Water Bottle X,Nike,192.02,Women
+PROD-0356,2024-01-31 00:00:00,2024-04-09 00:00:00,Home & Kitchen,Coffee Maker Plus,Samsung,88.63,Home
+PROD-0357,2024-10-20 00:00:00,2024-12-25 00:00:00,Toys,Action Figure Pro,Sony,295.72,Outdoor
+PROD-0358,2024-05-21 00:00:00,2024-06-07 00:00:00,Home & Kitchen,Air Fryer Plus,Nike,212.21,Women
+PROD-0359,2024-12-12 00:00:00,2024-12-31 00:00:00,Home & Kitchen,Knife Set,Samsung,175.75,Kids
+PROD-0360,2024-02-08 00:00:00,2024-02-20 00:00:00,Beauty,Lipstick Lite,Under Armour,124.43,Outdoor
+PROD-0361,2024-06-16 00:00:00,2024-06-28 00:00:00,Toys,Puzzle,Under Armour,220.88,Unisex
+PROD-0362,2024-07-22 00:00:00,2024-09-15 00:00:00,Toys,LEGO Set Lite,Levis,248.5,Unisex
+PROD-0363,2024-10-07 00:00:00,2024-12-19 00:00:00,Toys,Action Figure,Zara,256.6,Kids
+PROD-0364,2024-02-20 00:00:00,2024-04-19 00:00:00,Electronics,Wireless Earbuds Max,Apple,10.78,Women
+PROD-0365,2024-04-13 00:00:00,2024-04-30 00:00:00,Automotive,Car Charger Plus,H&M,265.34,Kids
+PROD-0366,2024-05-08 00:00:00,,Books,Fiction Novel Plus,Zara,201.36,Outdoor
+PROD-0367,2024-12-24 00:00:00,2025-02-17 00:00:00,Electronics,Laptop Stand Pro,Sony,198.7,Outdoor
+PROD-0368,2024-09-01 00:00:00,,Electronics,Smart Watch,Samsung,180.53,Home
+PROD-0369,2024-12-22 00:00:00,2025-01-07 00:00:00,Automotive,Car Charger,Nike,296.51,Unisex
+PROD-0370,2024-04-27 00:00:00,2024-05-11 00:00:00,Home & Kitchen,Air Fryer Lite,Adidas,36.33,Kids
+PROD-0371,2024-11-24 00:00:00,2024-12-13 00:00:00,Home & Kitchen,Air Fryer Pro,Apple,26.1,Home
+PROD-0372,2024-04-19 00:00:00,2024-05-09 00:00:00,Home & Kitchen,Air Fryer,Zara,276.44,Home
+PROD-0373,2024-02-21 00:00:00,,Automotive,Floor Mats Max,Adidas,42.2,Outdoor
+PROD-0374,2024-03-12 00:00:00,2024-06-03 00:00:00,Toys,Puzzle X,Zara,30.76,Home
+PROD-0375,2024-04-15 00:00:00,2024-06-20 00:00:00,Books,Fiction Novel Lite,Sony,61.45,Unisex
+PROD-0376,2024-09-10 00:00:00,2024-10-11 00:00:00,Electronics,Smart Watch Pro,Samsung,152.87,Home
+PROD-0377,2024-06-11 00:00:00,,Electronics,Bluetooth Speaker Max,Sony,259.07,Home
+PROD-0378,2024-08-29 00:00:00,2024-09-08 00:00:00,Toys,Stuffed Animal Pro,Apple,10.9,Men
+PROD-0379,2024-01-31 00:00:00,2024-03-22 00:00:00,Books,Cookbook,Nike,154.93,Outdoor
+PROD-0380,2024-02-12 00:00:00,2024-04-21 00:00:00,Beauty,Lipstick Pro,H&M,187.11,Kids
+PROD-0381,2024-04-14 00:00:00,2024-05-04 00:00:00,Books,Fiction Novel X,Levis,163.69,Unisex
+PROD-0382,2024-12-23 00:00:00,2025-01-23 00:00:00,Clothing,Running Shoes Max,Adidas,23.01,Men
+PROD-0383,2024-11-09 00:00:00,2024-12-19 00:00:00,Clothing,Hoodie,Under Armour,201.82,Outdoor
+PROD-0384,2024-12-28 00:00:00,,Home & Kitchen,Blender Lite,Nike,9.33,Unisex
+PROD-0385,2024-03-05 00:00:00,2024-04-09 00:00:00,Books,Cookbook Pro,Zara,221.47,Men
+PROD-0386,2024-09-25 00:00:00,,Toys,Puzzle,Sony,215.41,Home
+PROD-0387,2024-08-21 00:00:00,2024-08-29 00:00:00,Clothing,Hoodie Plus,Under Armour,152.88,Home
+PROD-0388,2024-02-22 00:00:00,2024-05-19 00:00:00,Toys,Board Game,Sony,218.49,Women
+PROD-0389,2024-01-07 00:00:00,2024-03-08 00:00:00,Electronics,Wireless Earbuds Plus,Apple,113.0,Women
+PROD-0390,2024-04-24 00:00:00,2024-06-17 00:00:00,Electronics,USB-C Hub Lite,H&M,275.25,Kids
+PROD-0391,2024-07-09 00:00:00,,Clothing,Jacket Plus,Zara,203.95,Men
+PROD-0392,2024-01-24 00:00:00,2024-02-02 00:00:00,Sports,Water Bottle Lite,Nike,263.83,Kids
+PROD-0393,2024-08-21 00:00:00,,Toys,LEGO Set Lite,Levis,64.99,Home
+PROD-0394,2024-10-29 00:00:00,2024-11-24 00:00:00,Sports,Tennis Racket Plus,Zara,221.33,Home
+PROD-0395,2024-01-13 00:00:00,2024-02-27 00:00:00,Home & Kitchen,Blender Pro,H&M,192.96,Outdoor
+PROD-0396,2024-06-06 00:00:00,,Toys,LEGO Set Max,H&M,161.76,Women
+PROD-0397,2024-12-30 00:00:00,2025-01-05 00:00:00,Automotive,Car Charger Max,Apple,276.84,Home
+PROD-0398,2024-10-24 00:00:00,,Toys,Puzzle Pro,Adidas,45.24,Unisex
+PROD-0399,2024-05-01 00:00:00,2024-06-11 00:00:00,Electronics,Laptop Stand,Apple,278.25,Unisex
+PROD-0400,2024-05-19 00:00:00,2024-06-14 00:00:00,Toys,Action Figure Pro,Under Armour,46.01,Home
+PROD-0401,2024-08-18 00:00:00,2024-10-10 00:00:00,Home & Kitchen,Blender Plus,Apple,41.49,Kids
+PROD-0402,2024-05-15 00:00:00,2024-05-27 00:00:00,Automotive,Dash Cam Lite,Under Armour,52.33,Outdoor
+PROD-0403,2024-06-16 00:00:00,,Electronics,Smart Watch Max,Samsung,215.07,Kids
+PROD-0404,2024-05-13 00:00:00,2024-06-05 00:00:00,Electronics,Bluetooth Speaker Max,Sony,15.13,Unisex
+PROD-0405,2024-08-24 00:00:00,,Sports,Yoga Mat Pro,Puma,239.37,Men
+PROD-0406,2024-03-07 00:00:00,2024-04-28 00:00:00,Electronics,Smart Watch,Samsung,115.43,Outdoor
+PROD-0407,2024-10-27 00:00:00,2024-11-06 00:00:00,Clothing,Jacket Plus,Zara,12.4,Men
+PROD-0408,2024-06-18 00:00:00,,Automotive,Floor Mats Plus,Adidas,283.02,Men
+PROD-0409,2024-01-16 00:00:00,2024-03-11 00:00:00,Beauty,Lipstick Plus,Under Armour,56.8,Women
+PROD-0410,2024-03-17 00:00:00,,Books,Sci-Fi Book,Under Armour,188.03,Women
+PROD-0411,2024-10-08 00:00:00,2024-10-20 00:00:00,Books,Self-Help Book Max,H&M,88.24,Women
+PROD-0412,2024-05-07 00:00:00,2024-07-16 00:00:00,Sports,Water Bottle,Nike,239.67,Unisex
+PROD-0413,2024-09-05 00:00:00,2024-11-17 00:00:00,Toys,Puzzle Lite,Levis,153.69,Unisex
+PROD-0414,2024-11-01 00:00:00,2024-12-07 00:00:00,Home & Kitchen,Blender X,Zara,23.22,Unisex
+PROD-0415,2024-03-22 00:00:00,,Toys,Stuffed Animal X,Samsung,199.11,Kids
+PROD-0416,2024-10-21 00:00:00,2024-12-10 00:00:00,Electronics,Smart Watch Plus,Samsung,110.3,Women
+PROD-0417,2024-06-11 00:00:00,2024-09-09 00:00:00,Sports,Water Bottle Pro,Nike,111.47,Home
+PROD-0418,2024-03-13 00:00:00,2024-04-07 00:00:00,Toys,Stuffed Animal X,Puma,251.98,Unisex
+PROD-0419,2024-01-20 00:00:00,,Books,Cookbook Pro,Under Armour,74.38,Women
+PROD-0420,2024-11-10 00:00:00,2024-11-27 00:00:00,Automotive,Car Charger Lite,Zara,106.17,Women
+PROD-0421,2024-03-16 00:00:00,2024-04-04 00:00:00,Electronics,Wireless Earbuds Lite,Apple,233.65,Home
+PROD-0422,2024-12-26 00:00:00,2025-02-15 00:00:00,Clothing,Running Shoes Lite,Adidas,178.28,Kids
+PROD-0423,2024-08-11 00:00:00,2024-10-13 00:00:00,Toys,Board Game,Apple,196.85,Women
+PROD-0424,2024-03-30 00:00:00,2024-06-27 00:00:00,Toys,Board Game,Puma,92.58,Women
+PROD-0425,2024-10-17 00:00:00,,Electronics,USB-C Hub Plus,H&M,183.09,Home
+PROD-0426,2024-03-13 00:00:00,2024-03-23 00:00:00,Clothing,Hoodie Plus,Under Armour,75.96,Kids
+PROD-0427,2024-08-16 00:00:00,,Clothing,Running Shoes Pro,Adidas,67.64,Outdoor
+PROD-0428,2024-01-01 00:00:00,,Toys,Action Figure Plus,Adidas,134.83,Unisex
+PROD-0429,2024-06-28 00:00:00,2024-07-11 00:00:00,Beauty,Lipstick,H&M,249.66,Home
+PROD-0430,2024-02-07 00:00:00,2024-02-12 00:00:00,Sports,Dumbbells Lite,Under Armour,92.69,Kids
+PROD-0431,2024-06-24 00:00:00,2024-08-12 00:00:00,Clothing,T-Shirt X,Nike,53.3,Men
+PROD-0432,2024-10-31 00:00:00,2025-01-01 00:00:00,Clothing,Running Shoes,Adidas,213.11,Unisex
+PROD-0433,2024-03-21 00:00:00,,Home & Kitchen,Toaster Max,H&M,103.33,Women
+PROD-0434,2024-05-01 00:00:00,,Books,Sci-Fi Book Max,Sony,121.5,Home
+PROD-0435,2024-01-02 00:00:00,2024-02-09 00:00:00,Home & Kitchen,Blender X,Zara,248.22,Outdoor
+PROD-0436,2024-01-14 00:00:00,2024-04-05 00:00:00,Automotive,Floor Mats Max,Adidas,91.78,Men
+PROD-0437,2024-07-22 00:00:00,2024-10-15 00:00:00,Clothing,Running Shoes X,Adidas,83.9,Outdoor
+PROD-0438,2024-07-14 00:00:00,2024-09-10 00:00:00,Beauty,Shampoo Max,Zara,19.11,Unisex
+PROD-0439,2024-10-15 00:00:00,,Books,Cookbook Pro,Sony,227.15,Outdoor
+PROD-0440,2024-10-04 00:00:00,2024-12-19 00:00:00,Clothing,Running Shoes Max,Adidas,72.88,Men
+PROD-0441,2024-10-20 00:00:00,2024-12-20 00:00:00,Beauty,Sunscreen,Under Armour,93.85,Unisex
+PROD-0442,2024-09-21 00:00:00,2024-12-17 00:00:00,Electronics,USB-C Hub Pro,Puma,294.92,Women
+PROD-0443,2024-04-18 00:00:00,2024-05-05 00:00:00,Automotive,Floor Mats,Apple,18.54,Men
+PROD-0444,2024-10-31 00:00:00,2024-11-09 00:00:00,Beauty,Shampoo Max,Apple,31.58,Home
+PROD-0445,2024-08-22 00:00:00,2024-08-24 00:00:00,Toys,Action Figure X,Levis,237.24,Home
+PROD-0446,2024-03-17 00:00:00,,Beauty,Face Cream Pro,H&M,178.84,Men
+PROD-0447,2024-10-01 00:00:00,2024-11-23 00:00:00,Clothing,Running Shoes Max,Adidas,83.65,Outdoor
+PROD-0448,2024-05-21 00:00:00,2024-08-09 00:00:00,Automotive,Car Charger Max,Apple,184.93,Outdoor
+PROD-0449,2024-12-19 00:00:00,2025-02-18 00:00:00,Electronics,Laptop Stand Pro,Zara,276.72,Kids
+PROD-0450,2024-05-23 00:00:00,2024-08-21 00:00:00,Toys,Action Figure Plus,Sony,207.34,Women
+PROD-0451,2024-05-17 00:00:00,2024-08-03 00:00:00,Books,Self-Help Book Max,Zara,195.78,Women
+PROD-0452,2024-09-21 00:00:00,2024-09-29 00:00:00,Sports,Tennis Racket Pro,Under Armour,157.48,Women
+PROD-0453,2024-03-10 00:00:00,2024-05-17 00:00:00,Books,Biography Plus,H&M,264.51,Men
+PROD-0454,2024-05-07 00:00:00,,Sports,Dumbbells,Nike,20.85,Kids
+PROD-0455,2024-07-07 00:00:00,2024-09-10 00:00:00,Sports,Soccer Ball,Adidas,122.69,Men
+PROD-0456,2024-07-09 00:00:00,2024-09-05 00:00:00,Electronics,Smart Watch X,Samsung,58.2,Unisex
+PROD-0457,2024-05-12 00:00:00,2024-08-09 00:00:00,Toys,Action Figure Max,Apple,32.57,Men
+PROD-0458,2024-10-19 00:00:00,2024-11-16 00:00:00,Electronics,Smart Watch Plus,Samsung,257.98,Outdoor
+PROD-0459,2024-11-29 00:00:00,2024-12-02 00:00:00,Sports,Soccer Ball Pro,Adidas,260.19,Outdoor
+PROD-0460,2024-11-03 00:00:00,2024-12-02 00:00:00,Automotive,Floor Mats,Apple,80.19,Kids
+PROD-0461,2024-06-27 00:00:00,2024-07-25 00:00:00,Books,Self-Help Book X,H&M,143.2,Outdoor
+PROD-0462,2024-01-04 00:00:00,2024-03-29 00:00:00,Beauty,Sunscreen X,Adidas,290.14,Kids
+PROD-0463,2024-09-03 00:00:00,,Books,Sci-Fi Book Lite,Adidas,296.57,Outdoor
+PROD-0464,2024-04-06 00:00:00,,Books,Sci-Fi Book X,Sony,231.04,Men
+PROD-0465,2024-01-14 00:00:00,2024-02-21 00:00:00,Beauty,Perfume Max,Apple,82.26,Unisex
+PROD-0466,2024-12-28 00:00:00,2025-01-22 00:00:00,Beauty,Face Cream Plus,Puma,106.88,Outdoor
+PROD-0467,2024-06-02 00:00:00,2024-08-26 00:00:00,Automotive,Dash Cam Lite,Levis,263.68,Women
+PROD-0468,2024-03-06 00:00:00,2024-05-17 00:00:00,Clothing,Hoodie,Under Armour,230.29,Women
+PROD-0469,2024-06-30 00:00:00,2024-08-09 00:00:00,Toys,LEGO Set Lite,Samsung,129.61,Kids
+PROD-0470,2024-08-25 00:00:00,2024-10-25 00:00:00,Books,Biography X,Sony,21.77,Outdoor
+PROD-0471,2024-04-09 00:00:00,2024-07-06 00:00:00,Clothing,Hoodie Max,Under Armour,118.2,Kids
+PROD-0472,2024-03-11 00:00:00,2024-04-24 00:00:00,Electronics,Smart Watch Max,Samsung,126.29,Home
+PROD-0473,2024-02-11 00:00:00,2024-05-02 00:00:00,Home & Kitchen,Knife Set,Apple,296.06,Kids
+PROD-0474,2024-08-19 00:00:00,2024-09-10 00:00:00,Electronics,Wireless Earbuds Max,Apple,175.42,Women
+PROD-0475,2024-11-10 00:00:00,2025-01-04 00:00:00,Clothing,Jeans Max,Levis,124.59,Unisex
+PROD-0476,2024-09-30 00:00:00,2024-11-17 00:00:00,Electronics,Wireless Earbuds X,Apple,285.31,Kids
+PROD-0477,2024-12-12 00:00:00,,Sports,Yoga Mat,Puma,221.67,Women
+PROD-0478,2024-02-22 00:00:00,2024-05-08 00:00:00,Toys,Action Figure Pro,Apple,95.99,Men
+PROD-0479,2024-09-23 00:00:00,2024-11-06 00:00:00,Books,Sci-Fi Book Plus,Under Armour,133.49,Outdoor
+PROD-0480,2024-04-06 00:00:00,2024-05-28 00:00:00,Toys,Puzzle,Zara,11.61,Women
+PROD-0481,2024-10-28 00:00:00,2024-11-13 00:00:00,Home & Kitchen,Coffee Maker Pro,Nike,113.77,Outdoor
+PROD-0482,2024-11-15 00:00:00,,Beauty,Perfume Pro,Levis,298.43,Outdoor
+PROD-0483,2024-12-19 00:00:00,,Electronics,Wireless Earbuds X,Apple,136.62,Men
+PROD-0484,2024-04-15 00:00:00,2024-07-05 00:00:00,Books,Self-Help Book,Apple,8.73,Unisex
+PROD-0485,2024-05-18 00:00:00,2024-08-16 00:00:00,Clothing,Jacket X,Zara,46.32,Men
+PROD-0486,2024-02-28 00:00:00,2024-05-02 00:00:00,Clothing,Running Shoes Lite,Adidas,64.39,Women
+PROD-0487,2024-12-26 00:00:00,2025-01-16 00:00:00,Sports,Soccer Ball Plus,Adidas,17.58,Unisex
+PROD-0488,2024-01-02 00:00:00,,Automotive,Dash Cam X,Samsung,32.16,Men
+PROD-0489,2024-09-18 00:00:00,,Automotive,Floor Mats,Adidas,218.72,Kids
+PROD-0490,2024-05-15 00:00:00,2024-05-28 00:00:00,Sports,Tennis Racket Lite,Sony,245.06,Men
+PROD-0491,2024-02-29 00:00:00,,Toys,Action Figure Pro,H&M,228.9,Men
+PROD-0492,2024-07-02 00:00:00,2024-09-20 00:00:00,Home & Kitchen,Coffee Maker Pro,Zara,84.87,Outdoor
+PROD-0493,2024-02-28 00:00:00,2024-04-27 00:00:00,Toys,Action Figure,Apple,85.91,Unisex
+PROD-0494,2024-02-27 00:00:00,,Automotive,Air Freshener Pro,Apple,219.55,Women
+PROD-0495,2024-10-18 00:00:00,2024-11-11 00:00:00,Beauty,Sunscreen X,Under Armour,185.72,Kids
+PROD-0496,2024-09-04 00:00:00,2024-09-19 00:00:00,Electronics,Smart Watch Pro,Samsung,266.94,Unisex
+PROD-0497,2024-12-01 00:00:00,2025-02-26 00:00:00,Clothing,Running Shoes X,Adidas,160.29,Outdoor
+PROD-0498,2024-09-22 00:00:00,2024-12-21 00:00:00,Sports,Soccer Ball,Adidas,187.75,Unisex
+PROD-0499,2024-12-05 00:00:00,2025-01-24 00:00:00,Sports,Tennis Racket X,Zara,49.69,Home
+PROD-0500,2024-11-25 00:00:00,2025-01-29 00:00:00,Electronics,Wireless Earbuds Plus,Apple,255.55,Unisex

@@ -1,0 +1,3003 @@
+CATÁLOGO DE PRODUCTOS SIMULADOS
+Las marcas y sus asociaciones con productos son ficticias en este conjunto de datos; no representan un catálogo real. Los precios no tienen moneda especificada.
+
+Product ID: PROD-0001
+Product Name: T-Shirt
+Brand: Nike
+Category: Clothing
+Description: T-Shirt figura en el catálogo simulado bajo la marca Nike. Artículo de indumentaria o calzado del catálogo simulado. Departamento registrado: Outdoor. Precio de venta al público registrado: 222.51.
+
+Product ID: PROD-0002
+Product Name: Jacket X
+Brand: Zara
+Category: Clothing
+Description: Jacket X figura en el catálogo simulado bajo la marca Zara. Artículo de indumentaria o calzado del catálogo simulado. Departamento registrado: Women. Precio de venta al público registrado: 33.54.
+
+Product ID: PROD-0003
+Product Name: USB-C Hub Lite
+Brand: Samsung
+Category: Electronics
+Description: USB-C Hub Lite figura en el catálogo simulado bajo la marca Samsung. Producto de electrónica para actividades cotidianas y accesorios tecnológicos. Departamento registrado: Home. Precio de venta al público registrado: 70.80.
+
+Product ID: PROD-0004
+Product Name: Smart Watch Pro
+Brand: Samsung
+Category: Electronics
+Description: Smart Watch Pro figura en el catálogo simulado bajo la marca Samsung. Producto de electrónica para actividades cotidianas y accesorios tecnológicos. Departamento registrado: Kids. Precio de venta al público registrado: 51.70.
+
+Product ID: PROD-0005
+Product Name: Hoodie
+Brand: Under Armour
+Category: Clothing
+Description: Hoodie figura en el catálogo simulado bajo la marca Under Armour. Artículo de indumentaria o calzado del catálogo simulado. Departamento registrado: Men. Precio de venta al público registrado: 183.49.
+
+Product ID: PROD-0006
+Product Name: Tire Inflator X
+Brand: Adidas
+Category: Automotive
+Description: Tire Inflator X figura en el catálogo simulado bajo la marca Adidas. Accesorio relacionado con el uso y mantenimiento de vehículos. Departamento registrado: Outdoor. Precio de venta al público registrado: 92.18.
+
+Product ID: PROD-0007
+Product Name: Stuffed Animal Pro
+Brand: Samsung
+Category: Toys
+Description: Stuffed Animal Pro figura en el catálogo simulado bajo la marca Samsung. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Kids. Precio de venta al público registrado: 200.40.
+
+Product ID: PROD-0008
+Product Name: Yoga Mat Lite
+Brand: Puma
+Category: Sports
+Description: Yoga Mat Lite figura en el catálogo simulado bajo la marca Puma. Artículo relacionado con la práctica deportiva y la actividad física. Departamento registrado: Women. Precio de venta al público registrado: 251.22.
+
+Product ID: PROD-0009
+Product Name: Board Game Plus
+Brand: Sony
+Category: Toys
+Description: Board Game Plus figura en el catálogo simulado bajo la marca Sony. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Outdoor. Precio de venta al público registrado: 26.98.
+
+Product ID: PROD-0010
+Product Name: Dumbbells
+Brand: Under Armour
+Category: Sports
+Description: Dumbbells figura en el catálogo simulado bajo la marca Under Armour. Artículo relacionado con la práctica deportiva y la actividad física. Departamento registrado: Women. Precio de venta al público registrado: 208.31.
+
+Product ID: PROD-0011
+Product Name: LEGO Set X
+Brand: Samsung
+Category: Toys
+Description: LEGO Set X figura en el catálogo simulado bajo la marca Samsung. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Women. Precio de venta al público registrado: 84.71.
+
+Product ID: PROD-0012
+Product Name: Board Game Plus
+Brand: Under Armour
+Category: Toys
+Description: Board Game Plus figura en el catálogo simulado bajo la marca Under Armour. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Kids. Precio de venta al público registrado: 140.89.
+
+Product ID: PROD-0013
+Product Name: Water Bottle Max
+Brand: Nike
+Category: Sports
+Description: Water Bottle Max figura en el catálogo simulado bajo la marca Nike. Artículo relacionado con la práctica deportiva y la actividad física. Departamento registrado: Home. Precio de venta al público registrado: 131.95.
+
+Product ID: PROD-0014
+Product Name: Board Game
+Brand: Apple
+Category: Toys
+Description: Board Game figura en el catálogo simulado bajo la marca Apple. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Women. Precio de venta al público registrado: 259.15.
+
+Product ID: PROD-0015
+Product Name: Air Fryer Lite
+Brand: Puma
+Category: Home & Kitchen
+Description: Air Fryer Lite figura en el catálogo simulado bajo la marca Puma. Artículo para tareas del hogar y preparación de alimentos. Departamento registrado: Home. Precio de venta al público registrado: 298.85.
+
+Product ID: PROD-0016
+Product Name: Wireless Earbuds Pro
+Brand: Apple
+Category: Electronics
+Description: Wireless Earbuds Pro figura en el catálogo simulado bajo la marca Apple. Producto de electrónica para actividades cotidianas y accesorios tecnológicos. Departamento registrado: Kids. Precio de venta al público registrado: 231.96.
+
+Product ID: PROD-0017
+Product Name: Self-Help Book Lite
+Brand: Apple
+Category: Books
+Description: Self-Help Book Lite figura en el catálogo simulado bajo la marca Apple. Libro del catálogo simulado para lectura, consulta o entretenimiento. Departamento registrado: Outdoor. Precio de venta al público registrado: 218.29.
+
+Product ID: PROD-0018
+Product Name: Toaster Plus
+Brand: Adidas
+Category: Home & Kitchen
+Description: Toaster Plus figura en el catálogo simulado bajo la marca Adidas. Artículo para tareas del hogar y preparación de alimentos. Departamento registrado: Women. Precio de venta al público registrado: 155.24.
+
+Product ID: PROD-0019
+Product Name: Board Game Pro
+Brand: Levis
+Category: Toys
+Description: Board Game Pro figura en el catálogo simulado bajo la marca Levis. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Men. Precio de venta al público registrado: 101.29.
+
+Product ID: PROD-0020
+Product Name: Action Figure
+Brand: Samsung
+Category: Toys
+Description: Action Figure figura en el catálogo simulado bajo la marca Samsung. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Men. Precio de venta al público registrado: 284.39.
+
+Product ID: PROD-0021
+Product Name: Car Charger Plus
+Brand: Levis
+Category: Automotive
+Description: Car Charger Plus figura en el catálogo simulado bajo la marca Levis. Accesorio relacionado con el uso y mantenimiento de vehículos. Departamento registrado: Home. Precio de venta al público registrado: 145.72.
+
+Product ID: PROD-0022
+Product Name: Biography Plus
+Brand: Puma
+Category: Books
+Description: Biography Plus figura en el catálogo simulado bajo la marca Puma. Libro del catálogo simulado para lectura, consulta o entretenimiento. Departamento registrado: Outdoor. Precio de venta al público registrado: 228.04.
+
+Product ID: PROD-0023
+Product Name: Self-Help Book Pro
+Brand: Zara
+Category: Books
+Description: Self-Help Book Pro figura en el catálogo simulado bajo la marca Zara. Libro del catálogo simulado para lectura, consulta o entretenimiento. Departamento registrado: Women. Precio de venta al público registrado: 41.57.
+
+Product ID: PROD-0024
+Product Name: LEGO Set
+Brand: Puma
+Category: Toys
+Description: LEGO Set figura en el catálogo simulado bajo la marca Puma. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Outdoor. Precio de venta al público registrado: 8.10.
+
+Product ID: PROD-0025
+Product Name: Smart Watch Lite
+Brand: Samsung
+Category: Electronics
+Description: Smart Watch Lite figura en el catálogo simulado bajo la marca Samsung. Producto de electrónica para actividades cotidianas y accesorios tecnológicos. Departamento registrado: Women. Precio de venta al público registrado: 26.82.
+
+Product ID: PROD-0026
+Product Name: Floor Mats Max
+Brand: Levis
+Category: Automotive
+Description: Floor Mats Max figura en el catálogo simulado bajo la marca Levis. Accesorio relacionado con el uso y mantenimiento de vehículos. Departamento registrado: Women. Precio de venta al público registrado: 175.40.
+
+Product ID: PROD-0027
+Product Name: Shampoo
+Brand: Adidas
+Category: Beauty
+Description: Shampoo figura en el catálogo simulado bajo la marca Adidas. Artículo de belleza y cuidado personal del catálogo simulado. Departamento registrado: Unisex. Precio de venta al público registrado: 130.52.
+
+Product ID: PROD-0028
+Product Name: Wireless Earbuds Plus
+Brand: Apple
+Category: Electronics
+Description: Wireless Earbuds Plus figura en el catálogo simulado bajo la marca Apple. Producto de electrónica para actividades cotidianas y accesorios tecnológicos. Departamento registrado: Men. Precio de venta al público registrado: 241.36.
+
+Product ID: PROD-0029
+Product Name: Dumbbells Plus
+Brand: Levis
+Category: Sports
+Description: Dumbbells Plus figura en el catálogo simulado bajo la marca Levis. Artículo relacionado con la práctica deportiva y la actividad física. Departamento registrado: Unisex. Precio de venta al público registrado: 59.94.
+
+Product ID: PROD-0030
+Product Name: Hoodie Pro
+Brand: Under Armour
+Category: Clothing
+Description: Hoodie Pro figura en el catálogo simulado bajo la marca Under Armour. Artículo de indumentaria o calzado del catálogo simulado. Departamento registrado: Home. Precio de venta al público registrado: 197.72.
+
+Product ID: PROD-0031
+Product Name: Jeans Pro
+Brand: Levis
+Category: Clothing
+Description: Jeans Pro figura en el catálogo simulado bajo la marca Levis. Artículo de indumentaria o calzado del catálogo simulado. Departamento registrado: Unisex. Precio de venta al público registrado: 68.83.
+
+Product ID: PROD-0032
+Product Name: Air Fryer
+Brand: Nike
+Category: Home & Kitchen
+Description: Air Fryer figura en el catálogo simulado bajo la marca Nike. Artículo para tareas del hogar y preparación de alimentos. Departamento registrado: Outdoor. Precio de venta al público registrado: 89.85.
+
+Product ID: PROD-0033
+Product Name: Floor Mats Pro
+Brand: Samsung
+Category: Automotive
+Description: Floor Mats Pro figura en el catálogo simulado bajo la marca Samsung. Accesorio relacionado con el uso y mantenimiento de vehículos. Departamento registrado: Home. Precio de venta al público registrado: 176.27.
+
+Product ID: PROD-0034
+Product Name: LEGO Set Pro
+Brand: Nike
+Category: Toys
+Description: LEGO Set Pro figura en el catálogo simulado bajo la marca Nike. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Home. Precio de venta al público registrado: 52.28.
+
+Product ID: PROD-0035
+Product Name: Blender Plus
+Brand: Puma
+Category: Home & Kitchen
+Description: Blender Plus figura en el catálogo simulado bajo la marca Puma. Artículo para tareas del hogar y preparación de alimentos. Departamento registrado: Home. Precio de venta al público registrado: 124.70.
+
+Product ID: PROD-0036
+Product Name: USB-C Hub Plus
+Brand: Adidas
+Category: Electronics
+Description: USB-C Hub Plus figura en el catálogo simulado bajo la marca Adidas. Producto de electrónica para actividades cotidianas y accesorios tecnológicos. Departamento registrado: Kids. Precio de venta al público registrado: 159.69.
+
+Product ID: PROD-0037
+Product Name: Board Game Lite
+Brand: Sony
+Category: Toys
+Description: Board Game Lite figura en el catálogo simulado bajo la marca Sony. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Unisex. Precio de venta al público registrado: 195.77.
+
+Product ID: PROD-0038
+Product Name: T-Shirt X
+Brand: Nike
+Category: Clothing
+Description: T-Shirt X figura en el catálogo simulado bajo la marca Nike. Artículo de indumentaria o calzado del catálogo simulado. Departamento registrado: Men. Precio de venta al público registrado: 298.84.
+
+Product ID: PROD-0039
+Product Name: Water Bottle Plus
+Brand: Nike
+Category: Sports
+Description: Water Bottle Plus figura en el catálogo simulado bajo la marca Nike. Artículo relacionado con la práctica deportiva y la actividad física. Departamento registrado: Men. Precio de venta al público registrado: 108.60.
+
+Product ID: PROD-0040
+Product Name: Action Figure X
+Brand: Apple
+Category: Toys
+Description: Action Figure X figura en el catálogo simulado bajo la marca Apple. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Outdoor. Precio de venta al público registrado: 185.82.
+
+Product ID: PROD-0041
+Product Name: USB-C Hub Pro
+Brand: Sony
+Category: Electronics
+Description: USB-C Hub Pro figura en el catálogo simulado bajo la marca Sony. Producto de electrónica para actividades cotidianas y accesorios tecnológicos. Departamento registrado: Kids. Precio de venta al público registrado: 264.16.
+
+Product ID: PROD-0042
+Product Name: Jacket Plus
+Brand: Zara
+Category: Clothing
+Description: Jacket Plus figura en el catálogo simulado bajo la marca Zara. Artículo de indumentaria o calzado del catálogo simulado. Departamento registrado: Kids. Precio de venta al público registrado: 67.92.
+
+Product ID: PROD-0043
+Product Name: Biography Lite
+Brand: Under Armour
+Category: Books
+Description: Biography Lite figura en el catálogo simulado bajo la marca Under Armour. Libro del catálogo simulado para lectura, consulta o entretenimiento. Departamento registrado: Unisex. Precio de venta al público registrado: 33.13.
+
+Product ID: PROD-0044
+Product Name: Wireless Earbuds
+Brand: Apple
+Category: Electronics
+Description: Wireless Earbuds figura en el catálogo simulado bajo la marca Apple. Producto de electrónica para actividades cotidianas y accesorios tecnológicos. Departamento registrado: Women. Precio de venta al público registrado: 294.05.
+
+Product ID: PROD-0045
+Product Name: Tire Inflator Plus
+Brand: H&M
+Category: Automotive
+Description: Tire Inflator Plus figura en el catálogo simulado bajo la marca H&M. Accesorio relacionado con el uso y mantenimiento de vehículos. Departamento registrado: Outdoor. Precio de venta al público registrado: 28.11.
+
+Product ID: PROD-0046
+Product Name: Bluetooth Speaker Lite
+Brand: Sony
+Category: Electronics
+Description: Bluetooth Speaker Lite figura en el catálogo simulado bajo la marca Sony. Producto de electrónica para actividades cotidianas y accesorios tecnológicos. Departamento registrado: Kids. Precio de venta al público registrado: 43.46.
+
+Product ID: PROD-0047
+Product Name: Bluetooth Speaker Max
+Brand: Sony
+Category: Electronics
+Description: Bluetooth Speaker Max figura en el catálogo simulado bajo la marca Sony. Producto de electrónica para actividades cotidianas y accesorios tecnológicos. Departamento registrado: Home. Precio de venta al público registrado: 36.21.
+
+Product ID: PROD-0048
+Product Name: Coffee Maker Max
+Brand: Apple
+Category: Home & Kitchen
+Description: Coffee Maker Max figura en el catálogo simulado bajo la marca Apple. Artículo para tareas del hogar y preparación de alimentos. Departamento registrado: Kids. Precio de venta al público registrado: 58.72.
+
+Product ID: PROD-0049
+Product Name: Soccer Ball Max
+Brand: Adidas
+Category: Sports
+Description: Soccer Ball Max figura en el catálogo simulado bajo la marca Adidas. Artículo relacionado con la práctica deportiva y la actividad física. Departamento registrado: Men. Precio de venta al público registrado: 118.46.
+
+Product ID: PROD-0050
+Product Name: Dumbbells Plus
+Brand: Under Armour
+Category: Sports
+Description: Dumbbells Plus figura en el catálogo simulado bajo la marca Under Armour. Artículo relacionado con la práctica deportiva y la actividad física. Departamento registrado: Outdoor. Precio de venta al público registrado: 71.53.
+
+Product ID: PROD-0051
+Product Name: Perfume Max
+Brand: Sony
+Category: Beauty
+Description: Perfume Max figura en el catálogo simulado bajo la marca Sony. Artículo de belleza y cuidado personal del catálogo simulado. Departamento registrado: Home. Precio de venta al público registrado: 109.23.
+
+Product ID: PROD-0052
+Product Name: LEGO Set Max
+Brand: Adidas
+Category: Toys
+Description: LEGO Set Max figura en el catálogo simulado bajo la marca Adidas. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Home. Precio de venta al público registrado: 17.24.
+
+Product ID: PROD-0053
+Product Name: Action Figure Plus
+Brand: H&M
+Category: Toys
+Description: Action Figure Plus figura en el catálogo simulado bajo la marca H&M. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Home. Precio de venta al público registrado: 119.24.
+
+Product ID: PROD-0054
+Product Name: Fiction Novel
+Brand: H&M
+Category: Books
+Description: Fiction Novel figura en el catálogo simulado bajo la marca H&M. Libro del catálogo simulado para lectura, consulta o entretenimiento. Departamento registrado: Outdoor. Precio de venta al público registrado: 207.93.
+
+Product ID: PROD-0055
+Product Name: Soccer Ball X
+Brand: Adidas
+Category: Sports
+Description: Soccer Ball X figura en el catálogo simulado bajo la marca Adidas. Artículo relacionado con la práctica deportiva y la actividad física. Departamento registrado: Kids. Precio de venta al público registrado: 201.28.
+
+Product ID: PROD-0056
+Product Name: LEGO Set Lite
+Brand: Sony
+Category: Toys
+Description: LEGO Set Lite figura en el catálogo simulado bajo la marca Sony. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Outdoor. Precio de venta al público registrado: 101.89.
+
+Product ID: PROD-0057
+Product Name: Coffee Maker X
+Brand: H&M
+Category: Home & Kitchen
+Description: Coffee Maker X figura en el catálogo simulado bajo la marca H&M. Artículo para tareas del hogar y preparación de alimentos. Departamento registrado: Women. Precio de venta al público registrado: 225.94.
+
+Product ID: PROD-0058
+Product Name: Self-Help Book X
+Brand: Levis
+Category: Books
+Description: Self-Help Book X figura en el catálogo simulado bajo la marca Levis. Libro del catálogo simulado para lectura, consulta o entretenimiento. Departamento registrado: Home. Precio de venta al público registrado: 132.38.
+
+Product ID: PROD-0059
+Product Name: Puzzle Plus
+Brand: Under Armour
+Category: Toys
+Description: Puzzle Plus figura en el catálogo simulado bajo la marca Under Armour. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Outdoor. Precio de venta al público registrado: 145.11.
+
+Product ID: PROD-0060
+Product Name: Running Shoes
+Brand: Adidas
+Category: Clothing
+Description: Running Shoes figura en el catálogo simulado bajo la marca Adidas. Artículo de indumentaria o calzado del catálogo simulado. Departamento registrado: Women. Precio de venta al público registrado: 104.54.
+
+Product ID: PROD-0061
+Product Name: Cookbook X
+Brand: Samsung
+Category: Books
+Description: Cookbook X figura en el catálogo simulado bajo la marca Samsung. Libro del catálogo simulado para lectura, consulta o entretenimiento. Departamento registrado: Unisex. Precio de venta al público registrado: 77.97.
+
+Product ID: PROD-0062
+Product Name: Hoodie Max
+Brand: Under Armour
+Category: Clothing
+Description: Hoodie Max figura en el catálogo simulado bajo la marca Under Armour. Artículo de indumentaria o calzado del catálogo simulado. Departamento registrado: Outdoor. Precio de venta al público registrado: 63.15.
+
+Product ID: PROD-0063
+Product Name: Air Freshener Max
+Brand: Samsung
+Category: Automotive
+Description: Air Freshener Max figura en el catálogo simulado bajo la marca Samsung. Accesorio relacionado con el uso y mantenimiento de vehículos. Departamento registrado: Men. Precio de venta al público registrado: 268.43.
+
+Product ID: PROD-0064
+Product Name: Dumbbells Max
+Brand: Levis
+Category: Sports
+Description: Dumbbells Max figura en el catálogo simulado bajo la marca Levis. Artículo relacionado con la práctica deportiva y la actividad física. Departamento registrado: Men. Precio de venta al público registrado: 79.25.
+
+Product ID: PROD-0065
+Product Name: Air Fryer X
+Brand: Levis
+Category: Home & Kitchen
+Description: Air Fryer X figura en el catálogo simulado bajo la marca Levis. Artículo para tareas del hogar y preparación de alimentos. Departamento registrado: Outdoor. Precio de venta al público registrado: 186.11.
+
+Product ID: PROD-0066
+Product Name: Sunscreen
+Brand: Under Armour
+Category: Beauty
+Description: Sunscreen figura en el catálogo simulado bajo la marca Under Armour. Artículo de belleza y cuidado personal del catálogo simulado. Departamento registrado: Women. Precio de venta al público registrado: 138.31.
+
+Product ID: PROD-0067
+Product Name: Biography Plus
+Brand: Under Armour
+Category: Books
+Description: Biography Plus figura en el catálogo simulado bajo la marca Under Armour. Libro del catálogo simulado para lectura, consulta o entretenimiento. Departamento registrado: Kids. Precio de venta al público registrado: 28.77.
+
+Product ID: PROD-0068
+Product Name: Sci-Fi Book
+Brand: Zara
+Category: Books
+Description: Sci-Fi Book figura en el catálogo simulado bajo la marca Zara. Libro del catálogo simulado para lectura, consulta o entretenimiento. Departamento registrado: Unisex. Precio de venta al público registrado: 50.33.
+
+Product ID: PROD-0069
+Product Name: Coffee Maker Plus
+Brand: Adidas
+Category: Home & Kitchen
+Description: Coffee Maker Plus figura en el catálogo simulado bajo la marca Adidas. Artículo para tareas del hogar y preparación de alimentos. Departamento registrado: Men. Precio de venta al público registrado: 142.97.
+
+Product ID: PROD-0070
+Product Name: Lipstick Max
+Brand: Puma
+Category: Beauty
+Description: Lipstick Max figura en el catálogo simulado bajo la marca Puma. Artículo de belleza y cuidado personal del catálogo simulado. Departamento registrado: Home. Precio de venta al público registrado: 264.90.
+
+Product ID: PROD-0071
+Product Name: Car Charger X
+Brand: Zara
+Category: Automotive
+Description: Car Charger X figura en el catálogo simulado bajo la marca Zara. Accesorio relacionado con el uso y mantenimiento de vehículos. Departamento registrado: Outdoor. Precio de venta al público registrado: 164.23.
+
+Product ID: PROD-0072
+Product Name: Tennis Racket
+Brand: Samsung
+Category: Sports
+Description: Tennis Racket figura en el catálogo simulado bajo la marca Samsung. Artículo relacionado con la práctica deportiva y la actividad física. Departamento registrado: Outdoor. Precio de venta al público registrado: 120.31.
+
+Product ID: PROD-0073
+Product Name: Shampoo X
+Brand: Under Armour
+Category: Beauty
+Description: Shampoo X figura en el catálogo simulado bajo la marca Under Armour. Artículo de belleza y cuidado personal del catálogo simulado. Departamento registrado: Unisex. Precio de venta al público registrado: 13.92.
+
+Product ID: PROD-0074
+Product Name: Wireless Earbuds Max
+Brand: Apple
+Category: Electronics
+Description: Wireless Earbuds Max figura en el catálogo simulado bajo la marca Apple. Producto de electrónica para actividades cotidianas y accesorios tecnológicos. Departamento registrado: Kids. Precio de venta al público registrado: 59.42.
+
+Product ID: PROD-0075
+Product Name: Board Game Lite
+Brand: Under Armour
+Category: Toys
+Description: Board Game Lite figura en el catálogo simulado bajo la marca Under Armour. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Unisex. Precio de venta al público registrado: 87.80.
+
+Product ID: PROD-0076
+Product Name: Hoodie Plus
+Brand: Under Armour
+Category: Clothing
+Description: Hoodie Plus figura en el catálogo simulado bajo la marca Under Armour. Artículo de indumentaria o calzado del catálogo simulado. Departamento registrado: Kids. Precio de venta al público registrado: 299.96.
+
+Product ID: PROD-0077
+Product Name: T-Shirt Plus
+Brand: Nike
+Category: Clothing
+Description: T-Shirt Plus figura en el catálogo simulado bajo la marca Nike. Artículo de indumentaria o calzado del catálogo simulado. Departamento registrado: Home. Precio de venta al público registrado: 252.72.
+
+Product ID: PROD-0078
+Product Name: Dumbbells
+Brand: Under Armour
+Category: Sports
+Description: Dumbbells figura en el catálogo simulado bajo la marca Under Armour. Artículo relacionado con la práctica deportiva y la actividad física. Departamento registrado: Unisex. Precio de venta al público registrado: 284.63.
+
+Product ID: PROD-0079
+Product Name: Sci-Fi Book Lite
+Brand: Apple
+Category: Books
+Description: Sci-Fi Book Lite figura en el catálogo simulado bajo la marca Apple. Libro del catálogo simulado para lectura, consulta o entretenimiento. Departamento registrado: Women. Precio de venta al público registrado: 234.66.
+
+Product ID: PROD-0080
+Product Name: Jacket Max
+Brand: Zara
+Category: Clothing
+Description: Jacket Max figura en el catálogo simulado bajo la marca Zara. Artículo de indumentaria o calzado del catálogo simulado. Departamento registrado: Unisex. Precio de venta al público registrado: 205.13.
+
+Product ID: PROD-0081
+Product Name: Yoga Mat Lite
+Brand: Puma
+Category: Sports
+Description: Yoga Mat Lite figura en el catálogo simulado bajo la marca Puma. Artículo relacionado con la práctica deportiva y la actividad física. Departamento registrado: Outdoor. Precio de venta al público registrado: 77.39.
+
+Product ID: PROD-0082
+Product Name: Jacket X
+Brand: Zara
+Category: Clothing
+Description: Jacket X figura en el catálogo simulado bajo la marca Zara. Artículo de indumentaria o calzado del catálogo simulado. Departamento registrado: Men. Precio de venta al público registrado: 200.48.
+
+Product ID: PROD-0083
+Product Name: LEGO Set Max
+Brand: H&M
+Category: Toys
+Description: LEGO Set Max figura en el catálogo simulado bajo la marca H&M. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Outdoor. Precio de venta al público registrado: 288.46.
+
+Product ID: PROD-0084
+Product Name: Air Fryer Max
+Brand: Apple
+Category: Home & Kitchen
+Description: Air Fryer Max figura en el catálogo simulado bajo la marca Apple. Artículo para tareas del hogar y preparación de alimentos. Departamento registrado: Home. Precio de venta al público registrado: 187.07.
+
+Product ID: PROD-0085
+Product Name: Air Freshener Lite
+Brand: Puma
+Category: Automotive
+Description: Air Freshener Lite figura en el catálogo simulado bajo la marca Puma. Accesorio relacionado con el uso y mantenimiento de vehículos. Departamento registrado: Men. Precio de venta al público registrado: 250.22.
+
+Product ID: PROD-0086
+Product Name: Floor Mats Lite
+Brand: Under Armour
+Category: Automotive
+Description: Floor Mats Lite figura en el catálogo simulado bajo la marca Under Armour. Accesorio relacionado con el uso y mantenimiento de vehículos. Departamento registrado: Unisex. Precio de venta al público registrado: 104.89.
+
+Product ID: PROD-0087
+Product Name: Air Fryer
+Brand: Samsung
+Category: Home & Kitchen
+Description: Air Fryer figura en el catálogo simulado bajo la marca Samsung. Artículo para tareas del hogar y preparación de alimentos. Departamento registrado: Home. Precio de venta al público registrado: 88.21.
+
+Product ID: PROD-0088
+Product Name: Biography Max
+Brand: Nike
+Category: Books
+Description: Biography Max figura en el catálogo simulado bajo la marca Nike. Libro del catálogo simulado para lectura, consulta o entretenimiento. Departamento registrado: Unisex. Precio de venta al público registrado: 76.95.
+
+Product ID: PROD-0089
+Product Name: Tennis Racket
+Brand: Under Armour
+Category: Sports
+Description: Tennis Racket figura en el catálogo simulado bajo la marca Under Armour. Artículo relacionado con la práctica deportiva y la actividad física. Departamento registrado: Unisex. Precio de venta al público registrado: 92.50.
+
+Product ID: PROD-0090
+Product Name: Soccer Ball Max
+Brand: Adidas
+Category: Sports
+Description: Soccer Ball Max figura en el catálogo simulado bajo la marca Adidas. Artículo relacionado con la práctica deportiva y la actividad física. Departamento registrado: Kids. Precio de venta al público registrado: 168.71.
+
+Product ID: PROD-0091
+Product Name: Action Figure Lite
+Brand: Under Armour
+Category: Toys
+Description: Action Figure Lite figura en el catálogo simulado bajo la marca Under Armour. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Women. Precio de venta al público registrado: 41.46.
+
+Product ID: PROD-0092
+Product Name: Jacket
+Brand: Zara
+Category: Clothing
+Description: Jacket figura en el catálogo simulado bajo la marca Zara. Artículo de indumentaria o calzado del catálogo simulado. Departamento registrado: Kids. Precio de venta al público registrado: 223.14.
+
+Product ID: PROD-0093
+Product Name: Fiction Novel X
+Brand: Samsung
+Category: Books
+Description: Fiction Novel X figura en el catálogo simulado bajo la marca Samsung. Libro del catálogo simulado para lectura, consulta o entretenimiento. Departamento registrado: Outdoor. Precio de venta al público registrado: 94.86.
+
+Product ID: PROD-0094
+Product Name: Knife Set Max
+Brand: Nike
+Category: Home & Kitchen
+Description: Knife Set Max figura en el catálogo simulado bajo la marca Nike. Artículo para tareas del hogar y preparación de alimentos. Departamento registrado: Outdoor. Precio de venta al público registrado: 283.55.
+
+Product ID: PROD-0095
+Product Name: T-Shirt Pro
+Brand: Nike
+Category: Clothing
+Description: T-Shirt Pro figura en el catálogo simulado bajo la marca Nike. Artículo de indumentaria o calzado del catálogo simulado. Departamento registrado: Women. Precio de venta al público registrado: 135.49.
+
+Product ID: PROD-0096
+Product Name: Self-Help Book Pro
+Brand: Adidas
+Category: Books
+Description: Self-Help Book Pro figura en el catálogo simulado bajo la marca Adidas. Libro del catálogo simulado para lectura, consulta o entretenimiento. Departamento registrado: Outdoor. Precio de venta al público registrado: 175.63.
+
+Product ID: PROD-0097
+Product Name: Coffee Maker Max
+Brand: Puma
+Category: Home & Kitchen
+Description: Coffee Maker Max figura en el catálogo simulado bajo la marca Puma. Artículo para tareas del hogar y preparación de alimentos. Departamento registrado: Home. Precio de venta al público registrado: 78.96.
+
+Product ID: PROD-0098
+Product Name: Water Bottle Max
+Brand: Nike
+Category: Sports
+Description: Water Bottle Max figura en el catálogo simulado bajo la marca Nike. Artículo relacionado con la práctica deportiva y la actividad física. Departamento registrado: Home. Precio de venta al público registrado: 93.41.
+
+Product ID: PROD-0099
+Product Name: Biography
+Brand: Puma
+Category: Books
+Description: Biography figura en el catálogo simulado bajo la marca Puma. Libro del catálogo simulado para lectura, consulta o entretenimiento. Departamento registrado: Women. Precio de venta al público registrado: 284.58.
+
+Product ID: PROD-0100
+Product Name: Soccer Ball Pro
+Brand: Adidas
+Category: Sports
+Description: Soccer Ball Pro figura en el catálogo simulado bajo la marca Adidas. Artículo relacionado con la práctica deportiva y la actividad física. Departamento registrado: Home. Precio de venta al público registrado: 76.51.
+
+Product ID: PROD-0101
+Product Name: Blender Lite
+Brand: H&M
+Category: Home & Kitchen
+Description: Blender Lite figura en el catálogo simulado bajo la marca H&M. Artículo para tareas del hogar y preparación de alimentos. Departamento registrado: Women. Precio de venta al público registrado: 91.62.
+
+Product ID: PROD-0102
+Product Name: Self-Help Book X
+Brand: Adidas
+Category: Books
+Description: Self-Help Book X figura en el catálogo simulado bajo la marca Adidas. Libro del catálogo simulado para lectura, consulta o entretenimiento. Departamento registrado: Outdoor. Precio de venta al público registrado: 237.61.
+
+Product ID: PROD-0103
+Product Name: Tennis Racket Pro
+Brand: Adidas
+Category: Sports
+Description: Tennis Racket Pro figura en el catálogo simulado bajo la marca Adidas. Artículo relacionado con la práctica deportiva y la actividad física. Departamento registrado: Women. Precio de venta al público registrado: 273.06.
+
+Product ID: PROD-0104
+Product Name: Smart Watch Pro
+Brand: Samsung
+Category: Electronics
+Description: Smart Watch Pro figura en el catálogo simulado bajo la marca Samsung. Producto de electrónica para actividades cotidianas y accesorios tecnológicos. Departamento registrado: Unisex. Precio de venta al público registrado: 276.82.
+
+Product ID: PROD-0105
+Product Name: Dash Cam Pro
+Brand: H&M
+Category: Automotive
+Description: Dash Cam Pro figura en el catálogo simulado bajo la marca H&M. Accesorio relacionado con el uso y mantenimiento de vehículos. Departamento registrado: Home. Precio de venta al público registrado: 134.69.
+
+Product ID: PROD-0106
+Product Name: Perfume X
+Brand: Puma
+Category: Beauty
+Description: Perfume X figura en el catálogo simulado bajo la marca Puma. Artículo de belleza y cuidado personal del catálogo simulado. Departamento registrado: Outdoor. Precio de venta al público registrado: 73.29.
+
+Product ID: PROD-0107
+Product Name: Bluetooth Speaker X
+Brand: Sony
+Category: Electronics
+Description: Bluetooth Speaker X figura en el catálogo simulado bajo la marca Sony. Producto de electrónica para actividades cotidianas y accesorios tecnológicos. Departamento registrado: Unisex. Precio de venta al público registrado: 228.33.
+
+Product ID: PROD-0108
+Product Name: Dash Cam Lite
+Brand: Apple
+Category: Automotive
+Description: Dash Cam Lite figura en el catálogo simulado bajo la marca Apple. Accesorio relacionado con el uso y mantenimiento de vehículos. Departamento registrado: Unisex. Precio de venta al público registrado: 290.89.
+
+Product ID: PROD-0109
+Product Name: Perfume
+Brand: Zara
+Category: Beauty
+Description: Perfume figura en el catálogo simulado bajo la marca Zara. Artículo de belleza y cuidado personal del catálogo simulado. Departamento registrado: Unisex. Precio de venta al público registrado: 53.27.
+
+Product ID: PROD-0110
+Product Name: Dash Cam Lite
+Brand: H&M
+Category: Automotive
+Description: Dash Cam Lite figura en el catálogo simulado bajo la marca H&M. Accesorio relacionado con el uso y mantenimiento de vehículos. Departamento registrado: Kids. Precio de venta al público registrado: 31.88.
+
+Product ID: PROD-0111
+Product Name: Hoodie Max
+Brand: Under Armour
+Category: Clothing
+Description: Hoodie Max figura en el catálogo simulado bajo la marca Under Armour. Artículo de indumentaria o calzado del catálogo simulado. Departamento registrado: Home. Precio de venta al público registrado: 199.34.
+
+Product ID: PROD-0112
+Product Name: Face Cream Plus
+Brand: Samsung
+Category: Beauty
+Description: Face Cream Plus figura en el catálogo simulado bajo la marca Samsung. Artículo de belleza y cuidado personal del catálogo simulado. Departamento registrado: Men. Precio de venta al público registrado: 189.86.
+
+Product ID: PROD-0113
+Product Name: Biography
+Brand: Apple
+Category: Books
+Description: Biography figura en el catálogo simulado bajo la marca Apple. Libro del catálogo simulado para lectura, consulta o entretenimiento. Departamento registrado: Men. Precio de venta al público registrado: 148.50.
+
+Product ID: PROD-0114
+Product Name: Dumbbells Pro
+Brand: Sony
+Category: Sports
+Description: Dumbbells Pro figura en el catálogo simulado bajo la marca Sony. Artículo relacionado con la práctica deportiva y la actividad física. Departamento registrado: Women. Precio de venta al público registrado: 125.94.
+
+Product ID: PROD-0115
+Product Name: Car Charger Max
+Brand: Apple
+Category: Automotive
+Description: Car Charger Max figura en el catálogo simulado bajo la marca Apple. Accesorio relacionado con el uso y mantenimiento de vehículos. Departamento registrado: Kids. Precio de venta al público registrado: 155.60.
+
+Product ID: PROD-0116
+Product Name: Air Freshener X
+Brand: Samsung
+Category: Automotive
+Description: Air Freshener X figura en el catálogo simulado bajo la marca Samsung. Accesorio relacionado con el uso y mantenimiento de vehículos. Departamento registrado: Home. Precio de venta al público registrado: 62.03.
+
+Product ID: PROD-0117
+Product Name: Blender Lite
+Brand: Sony
+Category: Home & Kitchen
+Description: Blender Lite figura en el catálogo simulado bajo la marca Sony. Artículo para tareas del hogar y preparación de alimentos. Departamento registrado: Men. Precio de venta al público registrado: 84.54.
+
+Product ID: PROD-0118
+Product Name: Biography Lite
+Brand: Puma
+Category: Books
+Description: Biography Lite figura en el catálogo simulado bajo la marca Puma. Libro del catálogo simulado para lectura, consulta o entretenimiento. Departamento registrado: Unisex. Precio de venta al público registrado: 137.27.
+
+Product ID: PROD-0119
+Product Name: Stuffed Animal Plus
+Brand: Levis
+Category: Toys
+Description: Stuffed Animal Plus figura en el catálogo simulado bajo la marca Levis. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Outdoor. Precio de venta al público registrado: 261.65.
+
+Product ID: PROD-0120
+Product Name: Shampoo Max
+Brand: H&M
+Category: Beauty
+Description: Shampoo Max figura en el catálogo simulado bajo la marca H&M. Artículo de belleza y cuidado personal del catálogo simulado. Departamento registrado: Unisex. Precio de venta al público registrado: 213.33.
+
+Product ID: PROD-0121
+Product Name: Air Fryer Max
+Brand: Nike
+Category: Home & Kitchen
+Description: Air Fryer Max figura en el catálogo simulado bajo la marca Nike. Artículo para tareas del hogar y preparación de alimentos. Departamento registrado: Men. Precio de venta al público registrado: 103.60.
+
+Product ID: PROD-0122
+Product Name: Jacket Plus
+Brand: Zara
+Category: Clothing
+Description: Jacket Plus figura en el catálogo simulado bajo la marca Zara. Artículo de indumentaria o calzado del catálogo simulado. Departamento registrado: Outdoor. Precio de venta al público registrado: 48.37.
+
+Product ID: PROD-0123
+Product Name: Hoodie Lite
+Brand: Under Armour
+Category: Clothing
+Description: Hoodie Lite figura en el catálogo simulado bajo la marca Under Armour. Artículo de indumentaria o calzado del catálogo simulado. Departamento registrado: Men. Precio de venta al público registrado: 122.85.
+
+Product ID: PROD-0124
+Product Name: Perfume
+Brand: Under Armour
+Category: Beauty
+Description: Perfume figura en el catálogo simulado bajo la marca Under Armour. Artículo de belleza y cuidado personal del catálogo simulado. Departamento registrado: Outdoor. Precio de venta al público registrado: 26.11.
+
+Product ID: PROD-0125
+Product Name: Cookbook Max
+Brand: Adidas
+Category: Books
+Description: Cookbook Max figura en el catálogo simulado bajo la marca Adidas. Libro del catálogo simulado para lectura, consulta o entretenimiento. Departamento registrado: Men. Precio de venta al público registrado: 212.93.
+
+Product ID: PROD-0126
+Product Name: Knife Set Max
+Brand: Nike
+Category: Home & Kitchen
+Description: Knife Set Max figura en el catálogo simulado bajo la marca Nike. Artículo para tareas del hogar y preparación de alimentos. Departamento registrado: Kids. Precio de venta al público registrado: 92.24.
+
+Product ID: PROD-0127
+Product Name: Coffee Maker X
+Brand: Levis
+Category: Home & Kitchen
+Description: Coffee Maker X figura en el catálogo simulado bajo la marca Levis. Artículo para tareas del hogar y preparación de alimentos. Departamento registrado: Men. Precio de venta al público registrado: 55.97.
+
+Product ID: PROD-0128
+Product Name: Sunscreen Lite
+Brand: Samsung
+Category: Beauty
+Description: Sunscreen Lite figura en el catálogo simulado bajo la marca Samsung. Artículo de belleza y cuidado personal del catálogo simulado. Departamento registrado: Outdoor. Precio de venta al público registrado: 74.25.
+
+Product ID: PROD-0129
+Product Name: Dash Cam Max
+Brand: Nike
+Category: Automotive
+Description: Dash Cam Max figura en el catálogo simulado bajo la marca Nike. Accesorio relacionado con el uso y mantenimiento de vehículos. Departamento registrado: Men. Precio de venta al público registrado: 166.69.
+
+Product ID: PROD-0130
+Product Name: Stuffed Animal Plus
+Brand: Sony
+Category: Toys
+Description: Stuffed Animal Plus figura en el catálogo simulado bajo la marca Sony. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Kids. Precio de venta al público registrado: 79.52.
+
+Product ID: PROD-0131
+Product Name: Lipstick Lite
+Brand: Adidas
+Category: Beauty
+Description: Lipstick Lite figura en el catálogo simulado bajo la marca Adidas. Artículo de belleza y cuidado personal del catálogo simulado. Departamento registrado: Outdoor. Precio de venta al público registrado: 174.98.
+
+Product ID: PROD-0132
+Product Name: Laptop Stand X
+Brand: Sony
+Category: Electronics
+Description: Laptop Stand X figura en el catálogo simulado bajo la marca Sony. Producto de electrónica para actividades cotidianas y accesorios tecnológicos. Departamento registrado: Men. Precio de venta al público registrado: 234.81.
+
+Product ID: PROD-0133
+Product Name: Dash Cam Lite
+Brand: Samsung
+Category: Automotive
+Description: Dash Cam Lite figura en el catálogo simulado bajo la marca Samsung. Accesorio relacionado con el uso y mantenimiento de vehículos. Departamento registrado: Home. Precio de venta al público registrado: 193.16.
+
+Product ID: PROD-0134
+Product Name: Blender Plus
+Brand: Nike
+Category: Home & Kitchen
+Description: Blender Plus figura en el catálogo simulado bajo la marca Nike. Artículo para tareas del hogar y preparación de alimentos. Departamento registrado: Outdoor. Precio de venta al público registrado: 176.38.
+
+Product ID: PROD-0135
+Product Name: Running Shoes Lite
+Brand: Adidas
+Category: Clothing
+Description: Running Shoes Lite figura en el catálogo simulado bajo la marca Adidas. Artículo de indumentaria o calzado del catálogo simulado. Departamento registrado: Home. Precio de venta al público registrado: 65.02.
+
+Product ID: PROD-0136
+Product Name: Cookbook Pro
+Brand: Sony
+Category: Books
+Description: Cookbook Pro figura en el catálogo simulado bajo la marca Sony. Libro del catálogo simulado para lectura, consulta o entretenimiento. Departamento registrado: Kids. Precio de venta al público registrado: 225.48.
+
+Product ID: PROD-0137
+Product Name: Car Charger Lite
+Brand: Apple
+Category: Automotive
+Description: Car Charger Lite figura en el catálogo simulado bajo la marca Apple. Accesorio relacionado con el uso y mantenimiento de vehículos. Departamento registrado: Home. Precio de venta al público registrado: 294.09.
+
+Product ID: PROD-0138
+Product Name: Hoodie
+Brand: Under Armour
+Category: Clothing
+Description: Hoodie figura en el catálogo simulado bajo la marca Under Armour. Artículo de indumentaria o calzado del catálogo simulado. Departamento registrado: Outdoor. Precio de venta al público registrado: 139.70.
+
+Product ID: PROD-0139
+Product Name: Biography Pro
+Brand: H&M
+Category: Books
+Description: Biography Pro figura en el catálogo simulado bajo la marca H&M. Libro del catálogo simulado para lectura, consulta o entretenimiento. Departamento registrado: Unisex. Precio de venta al público registrado: 204.39.
+
+Product ID: PROD-0140
+Product Name: Stuffed Animal Lite
+Brand: Samsung
+Category: Toys
+Description: Stuffed Animal Lite figura en el catálogo simulado bajo la marca Samsung. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Outdoor. Precio de venta al público registrado: 248.20.
+
+Product ID: PROD-0141
+Product Name: Face Cream Pro
+Brand: Apple
+Category: Beauty
+Description: Face Cream Pro figura en el catálogo simulado bajo la marca Apple. Artículo de belleza y cuidado personal del catálogo simulado. Departamento registrado: Men. Precio de venta al público registrado: 298.79.
+
+Product ID: PROD-0142
+Product Name: Water Bottle
+Brand: Nike
+Category: Sports
+Description: Water Bottle figura en el catálogo simulado bajo la marca Nike. Artículo relacionado con la práctica deportiva y la actividad física. Departamento registrado: Outdoor. Precio de venta al público registrado: 203.11.
+
+Product ID: PROD-0143
+Product Name: Sunscreen Pro
+Brand: Apple
+Category: Beauty
+Description: Sunscreen Pro figura en el catálogo simulado bajo la marca Apple. Artículo de belleza y cuidado personal del catálogo simulado. Departamento registrado: Kids. Precio de venta al público registrado: 186.99.
+
+Product ID: PROD-0144
+Product Name: Board Game Lite
+Brand: Under Armour
+Category: Toys
+Description: Board Game Lite figura en el catálogo simulado bajo la marca Under Armour. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Outdoor. Precio de venta al público registrado: 35.20.
+
+Product ID: PROD-0145
+Product Name: LEGO Set Pro
+Brand: H&M
+Category: Toys
+Description: LEGO Set Pro figura en el catálogo simulado bajo la marca H&M. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Unisex. Precio de venta al público registrado: 285.00.
+
+Product ID: PROD-0146
+Product Name: Water Bottle X
+Brand: Nike
+Category: Sports
+Description: Water Bottle X figura en el catálogo simulado bajo la marca Nike. Artículo relacionado con la práctica deportiva y la actividad física. Departamento registrado: Women. Precio de venta al público registrado: 104.04.
+
+Product ID: PROD-0147
+Product Name: Yoga Mat Lite
+Brand: Puma
+Category: Sports
+Description: Yoga Mat Lite figura en el catálogo simulado bajo la marca Puma. Artículo relacionado con la práctica deportiva y la actividad física. Departamento registrado: Women. Precio de venta al público registrado: 245.03.
+
+Product ID: PROD-0148
+Product Name: Toaster Lite
+Brand: Nike
+Category: Home & Kitchen
+Description: Toaster Lite figura en el catálogo simulado bajo la marca Nike. Artículo para tareas del hogar y preparación de alimentos. Departamento registrado: Home. Precio de venta al público registrado: 296.32.
+
+Product ID: PROD-0149
+Product Name: Blender X
+Brand: Nike
+Category: Home & Kitchen
+Description: Blender X figura en el catálogo simulado bajo la marca Nike. Artículo para tareas del hogar y preparación de alimentos. Departamento registrado: Women. Precio de venta al público registrado: 238.25.
+
+Product ID: PROD-0150
+Product Name: LEGO Set Pro
+Brand: Apple
+Category: Toys
+Description: LEGO Set Pro figura en el catálogo simulado bajo la marca Apple. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Home. Precio de venta al público registrado: 224.06.
+
+Product ID: PROD-0151
+Product Name: Hoodie X
+Brand: Under Armour
+Category: Clothing
+Description: Hoodie X figura en el catálogo simulado bajo la marca Under Armour. Artículo de indumentaria o calzado del catálogo simulado. Departamento registrado: Unisex. Precio de venta al público registrado: 180.53.
+
+Product ID: PROD-0152
+Product Name: Water Bottle
+Brand: Nike
+Category: Sports
+Description: Water Bottle figura en el catálogo simulado bajo la marca Nike. Artículo relacionado con la práctica deportiva y la actividad física. Departamento registrado: Unisex. Precio de venta al público registrado: 159.30.
+
+Product ID: PROD-0153
+Product Name: Wireless Earbuds
+Brand: Apple
+Category: Electronics
+Description: Wireless Earbuds figura en el catálogo simulado bajo la marca Apple. Producto de electrónica para actividades cotidianas y accesorios tecnológicos. Departamento registrado: Unisex. Precio de venta al público registrado: 207.70.
+
+Product ID: PROD-0154
+Product Name: Car Charger
+Brand: Adidas
+Category: Automotive
+Description: Car Charger figura en el catálogo simulado bajo la marca Adidas. Accesorio relacionado con el uso y mantenimiento de vehículos. Departamento registrado: Home. Precio de venta al público registrado: 43.09.
+
+Product ID: PROD-0155
+Product Name: Puzzle
+Brand: Puma
+Category: Toys
+Description: Puzzle figura en el catálogo simulado bajo la marca Puma. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Men. Precio de venta al público registrado: 183.99.
+
+Product ID: PROD-0156
+Product Name: Jacket Max
+Brand: Zara
+Category: Clothing
+Description: Jacket Max figura en el catálogo simulado bajo la marca Zara. Artículo de indumentaria o calzado del catálogo simulado. Departamento registrado: Unisex. Precio de venta al público registrado: 127.65.
+
+Product ID: PROD-0157
+Product Name: Face Cream
+Brand: Zara
+Category: Beauty
+Description: Face Cream figura en el catálogo simulado bajo la marca Zara. Artículo de belleza y cuidado personal del catálogo simulado. Departamento registrado: Women. Precio de venta al público registrado: 116.03.
+
+Product ID: PROD-0158
+Product Name: Car Charger Lite
+Brand: Adidas
+Category: Automotive
+Description: Car Charger Lite figura en el catálogo simulado bajo la marca Adidas. Accesorio relacionado con el uso y mantenimiento de vehículos. Departamento registrado: Outdoor. Precio de venta al público registrado: 34.38.
+
+Product ID: PROD-0159
+Product Name: Toaster Max
+Brand: Nike
+Category: Home & Kitchen
+Description: Toaster Max figura en el catálogo simulado bajo la marca Nike. Artículo para tareas del hogar y preparación de alimentos. Departamento registrado: Men. Precio de venta al público registrado: 102.91.
+
+Product ID: PROD-0160
+Product Name: Puzzle Plus
+Brand: Nike
+Category: Toys
+Description: Puzzle Plus figura en el catálogo simulado bajo la marca Nike. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Home. Precio de venta al público registrado: 36.45.
+
+Product ID: PROD-0161
+Product Name: Air Fryer X
+Brand: Samsung
+Category: Home & Kitchen
+Description: Air Fryer X figura en el catálogo simulado bajo la marca Samsung. Artículo para tareas del hogar y preparación de alimentos. Departamento registrado: Kids. Precio de venta al público registrado: 114.05.
+
+Product ID: PROD-0162
+Product Name: Tennis Racket
+Brand: Levis
+Category: Sports
+Description: Tennis Racket figura en el catálogo simulado bajo la marca Levis. Artículo relacionado con la práctica deportiva y la actividad física. Departamento registrado: Home. Precio de venta al público registrado: 169.67.
+
+Product ID: PROD-0163
+Product Name: Fiction Novel Pro
+Brand: Apple
+Category: Books
+Description: Fiction Novel Pro figura en el catálogo simulado bajo la marca Apple. Libro del catálogo simulado para lectura, consulta o entretenimiento. Departamento registrado: Kids. Precio de venta al público registrado: 276.92.
+
+Product ID: PROD-0164
+Product Name: Coffee Maker Pro
+Brand: Puma
+Category: Home & Kitchen
+Description: Coffee Maker Pro figura en el catálogo simulado bajo la marca Puma. Artículo para tareas del hogar y preparación de alimentos. Departamento registrado: Men. Precio de venta al público registrado: 223.83.
+
+Product ID: PROD-0165
+Product Name: Tennis Racket X
+Brand: H&M
+Category: Sports
+Description: Tennis Racket X figura en el catálogo simulado bajo la marca H&M. Artículo relacionado con la práctica deportiva y la actividad física. Departamento registrado: Kids. Precio de venta al público registrado: 97.61.
+
+Product ID: PROD-0166
+Product Name: T-Shirt Lite
+Brand: Nike
+Category: Clothing
+Description: T-Shirt Lite figura en el catálogo simulado bajo la marca Nike. Artículo de indumentaria o calzado del catálogo simulado. Departamento registrado: Men. Precio de venta al público registrado: 20.62.
+
+Product ID: PROD-0167
+Product Name: Air Freshener Pro
+Brand: Under Armour
+Category: Automotive
+Description: Air Freshener Pro figura en el catálogo simulado bajo la marca Under Armour. Accesorio relacionado con el uso y mantenimiento de vehículos. Departamento registrado: Home. Precio de venta al público registrado: 69.37.
+
+Product ID: PROD-0168
+Product Name: Puzzle Lite
+Brand: Adidas
+Category: Toys
+Description: Puzzle Lite figura en el catálogo simulado bajo la marca Adidas. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Outdoor. Precio de venta al público registrado: 149.06.
+
+Product ID: PROD-0169
+Product Name: Smart Watch Plus
+Brand: Samsung
+Category: Electronics
+Description: Smart Watch Plus figura en el catálogo simulado bajo la marca Samsung. Producto de electrónica para actividades cotidianas y accesorios tecnológicos. Departamento registrado: Kids. Precio de venta al público registrado: 8.25.
+
+Product ID: PROD-0170
+Product Name: Knife Set Plus
+Brand: Sony
+Category: Home & Kitchen
+Description: Knife Set Plus figura en el catálogo simulado bajo la marca Sony. Artículo para tareas del hogar y preparación de alimentos. Departamento registrado: Unisex. Precio de venta al público registrado: 152.22.
+
+Product ID: PROD-0171
+Product Name: Air Fryer Pro
+Brand: Levis
+Category: Home & Kitchen
+Description: Air Fryer Pro figura en el catálogo simulado bajo la marca Levis. Artículo para tareas del hogar y preparación de alimentos. Departamento registrado: Kids. Precio de venta al público registrado: 251.00.
+
+Product ID: PROD-0172
+Product Name: Face Cream Max
+Brand: H&M
+Category: Beauty
+Description: Face Cream Max figura en el catálogo simulado bajo la marca H&M. Artículo de belleza y cuidado personal del catálogo simulado. Departamento registrado: Home. Precio de venta al público registrado: 259.45.
+
+Product ID: PROD-0173
+Product Name: Lipstick Max
+Brand: Sony
+Category: Beauty
+Description: Lipstick Max figura en el catálogo simulado bajo la marca Sony. Artículo de belleza y cuidado personal del catálogo simulado. Departamento registrado: Home. Precio de venta al público registrado: 56.52.
+
+Product ID: PROD-0174
+Product Name: LEGO Set Max
+Brand: H&M
+Category: Toys
+Description: LEGO Set Max figura en el catálogo simulado bajo la marca H&M. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Men. Precio de venta al público registrado: 123.72.
+
+Product ID: PROD-0175
+Product Name: Sci-Fi Book X
+Brand: Samsung
+Category: Books
+Description: Sci-Fi Book X figura en el catálogo simulado bajo la marca Samsung. Libro del catálogo simulado para lectura, consulta o entretenimiento. Departamento registrado: Men. Precio de venta al público registrado: 156.07.
+
+Product ID: PROD-0176
+Product Name: Soccer Ball Pro
+Brand: Adidas
+Category: Sports
+Description: Soccer Ball Pro figura en el catálogo simulado bajo la marca Adidas. Artículo relacionado con la práctica deportiva y la actividad física. Departamento registrado: Women. Precio de venta al público registrado: 245.61.
+
+Product ID: PROD-0177
+Product Name: Knife Set Max
+Brand: Samsung
+Category: Home & Kitchen
+Description: Knife Set Max figura en el catálogo simulado bajo la marca Samsung. Artículo para tareas del hogar y preparación de alimentos. Departamento registrado: Outdoor. Precio de venta al público registrado: 28.14.
+
+Product ID: PROD-0178
+Product Name: Tire Inflator Lite
+Brand: Puma
+Category: Automotive
+Description: Tire Inflator Lite figura en el catálogo simulado bajo la marca Puma. Accesorio relacionado con el uso y mantenimiento de vehículos. Departamento registrado: Home. Precio de venta al público registrado: 195.03.
+
+Product ID: PROD-0179
+Product Name: Board Game X
+Brand: Under Armour
+Category: Toys
+Description: Board Game X figura en el catálogo simulado bajo la marca Under Armour. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Kids. Precio de venta al público registrado: 95.02.
+
+Product ID: PROD-0180
+Product Name: Bluetooth Speaker Pro
+Brand: Sony
+Category: Electronics
+Description: Bluetooth Speaker Pro figura en el catálogo simulado bajo la marca Sony. Producto de electrónica para actividades cotidianas y accesorios tecnológicos. Departamento registrado: Men. Precio de venta al público registrado: 141.74.
+
+Product ID: PROD-0181
+Product Name: Action Figure Max
+Brand: Adidas
+Category: Toys
+Description: Action Figure Max figura en el catálogo simulado bajo la marca Adidas. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Home. Precio de venta al público registrado: 186.80.
+
+Product ID: PROD-0182
+Product Name: Tire Inflator X
+Brand: Levis
+Category: Automotive
+Description: Tire Inflator X figura en el catálogo simulado bajo la marca Levis. Accesorio relacionado con el uso y mantenimiento de vehículos. Departamento registrado: Kids. Precio de venta al público registrado: 197.63.
+
+Product ID: PROD-0183
+Product Name: Tire Inflator X
+Brand: Apple
+Category: Automotive
+Description: Tire Inflator X figura en el catálogo simulado bajo la marca Apple. Accesorio relacionado con el uso y mantenimiento de vehículos. Departamento registrado: Men. Precio de venta al público registrado: 294.81.
+
+Product ID: PROD-0184
+Product Name: Blender Plus
+Brand: Samsung
+Category: Home & Kitchen
+Description: Blender Plus figura en el catálogo simulado bajo la marca Samsung. Artículo para tareas del hogar y preparación de alimentos. Departamento registrado: Home. Precio de venta al público registrado: 160.07.
+
+Product ID: PROD-0185
+Product Name: Action Figure
+Brand: Sony
+Category: Toys
+Description: Action Figure figura en el catálogo simulado bajo la marca Sony. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Men. Precio de venta al público registrado: 205.59.
+
+Product ID: PROD-0186
+Product Name: LEGO Set
+Brand: Zara
+Category: Toys
+Description: LEGO Set figura en el catálogo simulado bajo la marca Zara. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Outdoor. Precio de venta al público registrado: 89.53.
+
+Product ID: PROD-0187
+Product Name: Knife Set
+Brand: Adidas
+Category: Home & Kitchen
+Description: Knife Set figura en el catálogo simulado bajo la marca Adidas. Artículo para tareas del hogar y preparación de alimentos. Departamento registrado: Outdoor. Precio de venta al público registrado: 97.20.
+
+Product ID: PROD-0188
+Product Name: Shampoo Lite
+Brand: Puma
+Category: Beauty
+Description: Shampoo Lite figura en el catálogo simulado bajo la marca Puma. Artículo de belleza y cuidado personal del catálogo simulado. Departamento registrado: Outdoor. Precio de venta al público registrado: 170.31.
+
+Product ID: PROD-0189
+Product Name: Toaster Lite
+Brand: Adidas
+Category: Home & Kitchen
+Description: Toaster Lite figura en el catálogo simulado bajo la marca Adidas. Artículo para tareas del hogar y preparación de alimentos. Departamento registrado: Kids. Precio de venta al público registrado: 112.37.
+
+Product ID: PROD-0190
+Product Name: Coffee Maker Pro
+Brand: Zara
+Category: Home & Kitchen
+Description: Coffee Maker Pro figura en el catálogo simulado bajo la marca Zara. Artículo para tareas del hogar y preparación de alimentos. Departamento registrado: Kids. Precio de venta al público registrado: 51.54.
+
+Product ID: PROD-0191
+Product Name: Bluetooth Speaker Plus
+Brand: Sony
+Category: Electronics
+Description: Bluetooth Speaker Plus figura en el catálogo simulado bajo la marca Sony. Producto de electrónica para actividades cotidianas y accesorios tecnológicos. Departamento registrado: Women. Precio de venta al público registrado: 116.75.
+
+Product ID: PROD-0192
+Product Name: Air Fryer Lite
+Brand: Nike
+Category: Home & Kitchen
+Description: Air Fryer Lite figura en el catálogo simulado bajo la marca Nike. Artículo para tareas del hogar y preparación de alimentos. Departamento registrado: Home. Precio de venta al público registrado: 291.05.
+
+Product ID: PROD-0193
+Product Name: Floor Mats Lite
+Brand: Levis
+Category: Automotive
+Description: Floor Mats Lite figura en el catálogo simulado bajo la marca Levis. Accesorio relacionado con el uso y mantenimiento de vehículos. Departamento registrado: Women. Precio de venta al público registrado: 271.76.
+
+Product ID: PROD-0194
+Product Name: Air Freshener X
+Brand: Sony
+Category: Automotive
+Description: Air Freshener X figura en el catálogo simulado bajo la marca Sony. Accesorio relacionado con el uso y mantenimiento de vehículos. Departamento registrado: Women. Precio de venta al público registrado: 290.07.
+
+Product ID: PROD-0195
+Product Name: Knife Set
+Brand: Nike
+Category: Home & Kitchen
+Description: Knife Set figura en el catálogo simulado bajo la marca Nike. Artículo para tareas del hogar y preparación de alimentos. Departamento registrado: Men. Precio de venta al público registrado: 169.02.
+
+Product ID: PROD-0196
+Product Name: Running Shoes Plus
+Brand: Adidas
+Category: Clothing
+Description: Running Shoes Plus figura en el catálogo simulado bajo la marca Adidas. Artículo de indumentaria o calzado del catálogo simulado. Departamento registrado: Home. Precio de venta al público registrado: 138.09.
+
+Product ID: PROD-0197
+Product Name: Face Cream X
+Brand: Samsung
+Category: Beauty
+Description: Face Cream X figura en el catálogo simulado bajo la marca Samsung. Artículo de belleza y cuidado personal del catálogo simulado. Departamento registrado: Unisex. Precio de venta al público registrado: 127.97.
+
+Product ID: PROD-0198
+Product Name: Board Game
+Brand: H&M
+Category: Toys
+Description: Board Game figura en el catálogo simulado bajo la marca H&M. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Men. Precio de venta al público registrado: 99.68.
+
+Product ID: PROD-0199
+Product Name: Board Game
+Brand: Apple
+Category: Toys
+Description: Board Game figura en el catálogo simulado bajo la marca Apple. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Women. Precio de venta al público registrado: 210.64.
+
+Product ID: PROD-0200
+Product Name: Air Freshener X
+Brand: Puma
+Category: Automotive
+Description: Air Freshener X figura en el catálogo simulado bajo la marca Puma. Accesorio relacionado con el uso y mantenimiento de vehículos. Departamento registrado: Women. Precio de venta al público registrado: 81.23.
+
+Product ID: PROD-0201
+Product Name: Face Cream X
+Brand: Sony
+Category: Beauty
+Description: Face Cream X figura en el catálogo simulado bajo la marca Sony. Artículo de belleza y cuidado personal del catálogo simulado. Departamento registrado: Outdoor. Precio de venta al público registrado: 76.09.
+
+Product ID: PROD-0202
+Product Name: Car Charger Plus
+Brand: Adidas
+Category: Automotive
+Description: Car Charger Plus figura en el catálogo simulado bajo la marca Adidas. Accesorio relacionado con el uso y mantenimiento de vehículos. Departamento registrado: Home. Precio de venta al público registrado: 191.78.
+
+Product ID: PROD-0203
+Product Name: Knife Set
+Brand: H&M
+Category: Home & Kitchen
+Description: Knife Set figura en el catálogo simulado bajo la marca H&M. Artículo para tareas del hogar y preparación de alimentos. Departamento registrado: Women. Precio de venta al público registrado: 173.77.
+
+Product ID: PROD-0204
+Product Name: Jacket X
+Brand: Zara
+Category: Clothing
+Description: Jacket X figura en el catálogo simulado bajo la marca Zara. Artículo de indumentaria o calzado del catálogo simulado. Departamento registrado: Home. Precio de venta al público registrado: 160.65.
+
+Product ID: PROD-0205
+Product Name: Laptop Stand Lite
+Brand: Under Armour
+Category: Electronics
+Description: Laptop Stand Lite figura en el catálogo simulado bajo la marca Under Armour. Producto de electrónica para actividades cotidianas y accesorios tecnológicos. Departamento registrado: Men. Precio de venta al público registrado: 80.56.
+
+Product ID: PROD-0206
+Product Name: Running Shoes
+Brand: Adidas
+Category: Clothing
+Description: Running Shoes figura en el catálogo simulado bajo la marca Adidas. Artículo de indumentaria o calzado del catálogo simulado. Departamento registrado: Home. Precio de venta al público registrado: 36.47.
+
+Product ID: PROD-0207
+Product Name: Board Game Max
+Brand: Nike
+Category: Toys
+Description: Board Game Max figura en el catálogo simulado bajo la marca Nike. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Outdoor. Precio de venta al público registrado: 57.47.
+
+Product ID: PROD-0208
+Product Name: Floor Mats Pro
+Brand: Apple
+Category: Automotive
+Description: Floor Mats Pro figura en el catálogo simulado bajo la marca Apple. Accesorio relacionado con el uso y mantenimiento de vehículos. Departamento registrado: Women. Precio de venta al público registrado: 16.86.
+
+Product ID: PROD-0209
+Product Name: Yoga Mat Max
+Brand: Puma
+Category: Sports
+Description: Yoga Mat Max figura en el catálogo simulado bajo la marca Puma. Artículo relacionado con la práctica deportiva y la actividad física. Departamento registrado: Home. Precio de venta al público registrado: 123.07.
+
+Product ID: PROD-0210
+Product Name: Fiction Novel Lite
+Brand: Samsung
+Category: Books
+Description: Fiction Novel Lite figura en el catálogo simulado bajo la marca Samsung. Libro del catálogo simulado para lectura, consulta o entretenimiento. Departamento registrado: Kids. Precio de venta al público registrado: 260.53.
+
+Product ID: PROD-0211
+Product Name: Running Shoes Lite
+Brand: Adidas
+Category: Clothing
+Description: Running Shoes Lite figura en el catálogo simulado bajo la marca Adidas. Artículo de indumentaria o calzado del catálogo simulado. Departamento registrado: Unisex. Precio de venta al público registrado: 269.01.
+
+Product ID: PROD-0212
+Product Name: Air Fryer
+Brand: Under Armour
+Category: Home & Kitchen
+Description: Air Fryer figura en el catálogo simulado bajo la marca Under Armour. Artículo para tareas del hogar y preparación de alimentos. Departamento registrado: Men. Precio de venta al público registrado: 84.41.
+
+Product ID: PROD-0213
+Product Name: Face Cream Pro
+Brand: H&M
+Category: Beauty
+Description: Face Cream Pro figura en el catálogo simulado bajo la marca H&M. Artículo de belleza y cuidado personal del catálogo simulado. Departamento registrado: Kids. Precio de venta al público registrado: 166.36.
+
+Product ID: PROD-0214
+Product Name: Running Shoes Plus
+Brand: Adidas
+Category: Clothing
+Description: Running Shoes Plus figura en el catálogo simulado bajo la marca Adidas. Artículo de indumentaria o calzado del catálogo simulado. Departamento registrado: Unisex. Precio de venta al público registrado: 183.16.
+
+Product ID: PROD-0215
+Product Name: Dash Cam Lite
+Brand: Under Armour
+Category: Automotive
+Description: Dash Cam Lite figura en el catálogo simulado bajo la marca Under Armour. Accesorio relacionado con el uso y mantenimiento de vehículos. Departamento registrado: Unisex. Precio de venta al público registrado: 186.76.
+
+Product ID: PROD-0216
+Product Name: Wireless Earbuds
+Brand: Apple
+Category: Electronics
+Description: Wireless Earbuds figura en el catálogo simulado bajo la marca Apple. Producto de electrónica para actividades cotidianas y accesorios tecnológicos. Departamento registrado: Outdoor. Precio de venta al público registrado: 156.84.
+
+Product ID: PROD-0217
+Product Name: Blender Plus
+Brand: Apple
+Category: Home & Kitchen
+Description: Blender Plus figura en el catálogo simulado bajo la marca Apple. Artículo para tareas del hogar y preparación de alimentos. Departamento registrado: Men. Precio de venta al público registrado: 16.22.
+
+Product ID: PROD-0218
+Product Name: Action Figure Lite
+Brand: H&M
+Category: Toys
+Description: Action Figure Lite figura en el catálogo simulado bajo la marca H&M. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Unisex. Precio de venta al público registrado: 51.10.
+
+Product ID: PROD-0219
+Product Name: Puzzle
+Brand: Adidas
+Category: Toys
+Description: Puzzle figura en el catálogo simulado bajo la marca Adidas. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Kids. Precio de venta al público registrado: 113.87.
+
+Product ID: PROD-0220
+Product Name: Cookbook Pro
+Brand: Adidas
+Category: Books
+Description: Cookbook Pro figura en el catálogo simulado bajo la marca Adidas. Libro del catálogo simulado para lectura, consulta o entretenimiento. Departamento registrado: Home. Precio de venta al público registrado: 158.21.
+
+Product ID: PROD-0221
+Product Name: Sci-Fi Book Plus
+Brand: Under Armour
+Category: Books
+Description: Sci-Fi Book Plus figura en el catálogo simulado bajo la marca Under Armour. Libro del catálogo simulado para lectura, consulta o entretenimiento. Departamento registrado: Unisex. Precio de venta al público registrado: 210.02.
+
+Product ID: PROD-0222
+Product Name: Jeans Lite
+Brand: Levis
+Category: Clothing
+Description: Jeans Lite figura en el catálogo simulado bajo la marca Levis. Artículo de indumentaria o calzado del catálogo simulado. Departamento registrado: Outdoor. Precio de venta al público registrado: 299.19.
+
+Product ID: PROD-0223
+Product Name: LEGO Set
+Brand: Levis
+Category: Toys
+Description: LEGO Set figura en el catálogo simulado bajo la marca Levis. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Outdoor. Precio de venta al público registrado: 256.29.
+
+Product ID: PROD-0224
+Product Name: Knife Set Plus
+Brand: Levis
+Category: Home & Kitchen
+Description: Knife Set Plus figura en el catálogo simulado bajo la marca Levis. Artículo para tareas del hogar y preparación de alimentos. Departamento registrado: Women. Precio de venta al público registrado: 65.08.
+
+Product ID: PROD-0225
+Product Name: Car Charger Plus
+Brand: Zara
+Category: Automotive
+Description: Car Charger Plus figura en el catálogo simulado bajo la marca Zara. Accesorio relacionado con el uso y mantenimiento de vehículos. Departamento registrado: Home. Precio de venta al público registrado: 242.27.
+
+Product ID: PROD-0226
+Product Name: T-Shirt X
+Brand: Nike
+Category: Clothing
+Description: T-Shirt X figura en el catálogo simulado bajo la marca Nike. Artículo de indumentaria o calzado del catálogo simulado. Departamento registrado: Unisex. Precio de venta al público registrado: 160.54.
+
+Product ID: PROD-0227
+Product Name: Jeans Lite
+Brand: Levis
+Category: Clothing
+Description: Jeans Lite figura en el catálogo simulado bajo la marca Levis. Artículo de indumentaria o calzado del catálogo simulado. Departamento registrado: Home. Precio de venta al público registrado: 142.94.
+
+Product ID: PROD-0228
+Product Name: Toaster Pro
+Brand: Puma
+Category: Home & Kitchen
+Description: Toaster Pro figura en el catálogo simulado bajo la marca Puma. Artículo para tareas del hogar y preparación de alimentos. Departamento registrado: Men. Precio de venta al público registrado: 133.18.
+
+Product ID: PROD-0229
+Product Name: Knife Set Lite
+Brand: Apple
+Category: Home & Kitchen
+Description: Knife Set Lite figura en el catálogo simulado bajo la marca Apple. Artículo para tareas del hogar y preparación de alimentos. Departamento registrado: Home. Precio de venta al público registrado: 107.72.
+
+Product ID: PROD-0230
+Product Name: Running Shoes Lite
+Brand: Adidas
+Category: Clothing
+Description: Running Shoes Lite figura en el catálogo simulado bajo la marca Adidas. Artículo de indumentaria o calzado del catálogo simulado. Departamento registrado: Outdoor. Precio de venta al público registrado: 86.68.
+
+Product ID: PROD-0231
+Product Name: Jacket X
+Brand: Zara
+Category: Clothing
+Description: Jacket X figura en el catálogo simulado bajo la marca Zara. Artículo de indumentaria o calzado del catálogo simulado. Departamento registrado: Outdoor. Precio de venta al público registrado: 51.32.
+
+Product ID: PROD-0232
+Product Name: Stuffed Animal Lite
+Brand: Nike
+Category: Toys
+Description: Stuffed Animal Lite figura en el catálogo simulado bajo la marca Nike. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Home. Precio de venta al público registrado: 284.86.
+
+Product ID: PROD-0233
+Product Name: Water Bottle X
+Brand: Nike
+Category: Sports
+Description: Water Bottle X figura en el catálogo simulado bajo la marca Nike. Artículo relacionado con la práctica deportiva y la actividad física. Departamento registrado: Outdoor. Precio de venta al público registrado: 152.41.
+
+Product ID: PROD-0234
+Product Name: Sci-Fi Book Pro
+Brand: Under Armour
+Category: Books
+Description: Sci-Fi Book Pro figura en el catálogo simulado bajo la marca Under Armour. Libro del catálogo simulado para lectura, consulta o entretenimiento. Departamento registrado: Unisex. Precio de venta al público registrado: 125.38.
+
+Product ID: PROD-0235
+Product Name: Smart Watch Plus
+Brand: Samsung
+Category: Electronics
+Description: Smart Watch Plus figura en el catálogo simulado bajo la marca Samsung. Producto de electrónica para actividades cotidianas y accesorios tecnológicos. Departamento registrado: Home. Precio de venta al público registrado: 65.97.
+
+Product ID: PROD-0236
+Product Name: Action Figure Pro
+Brand: Zara
+Category: Toys
+Description: Action Figure Pro figura en el catálogo simulado bajo la marca Zara. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Home. Precio de venta al público registrado: 114.93.
+
+Product ID: PROD-0237
+Product Name: Board Game Lite
+Brand: Under Armour
+Category: Toys
+Description: Board Game Lite figura en el catálogo simulado bajo la marca Under Armour. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Men. Precio de venta al público registrado: 47.41.
+
+Product ID: PROD-0238
+Product Name: Sunscreen
+Brand: H&M
+Category: Beauty
+Description: Sunscreen figura en el catálogo simulado bajo la marca H&M. Artículo de belleza y cuidado personal del catálogo simulado. Departamento registrado: Home. Precio de venta al público registrado: 245.15.
+
+Product ID: PROD-0239
+Product Name: Board Game Max
+Brand: Apple
+Category: Toys
+Description: Board Game Max figura en el catálogo simulado bajo la marca Apple. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Kids. Precio de venta al público registrado: 152.63.
+
+Product ID: PROD-0240
+Product Name: Wireless Earbuds Pro
+Brand: Apple
+Category: Electronics
+Description: Wireless Earbuds Pro figura en el catálogo simulado bajo la marca Apple. Producto de electrónica para actividades cotidianas y accesorios tecnológicos. Departamento registrado: Kids. Precio de venta al público registrado: 69.24.
+
+Product ID: PROD-0241
+Product Name: Bluetooth Speaker X
+Brand: Sony
+Category: Electronics
+Description: Bluetooth Speaker X figura en el catálogo simulado bajo la marca Sony. Producto de electrónica para actividades cotidianas y accesorios tecnológicos. Departamento registrado: Kids. Precio de venta al público registrado: 203.71.
+
+Product ID: PROD-0242
+Product Name: Wireless Earbuds Max
+Brand: Apple
+Category: Electronics
+Description: Wireless Earbuds Max figura en el catálogo simulado bajo la marca Apple. Producto de electrónica para actividades cotidianas y accesorios tecnológicos. Departamento registrado: Kids. Precio de venta al público registrado: 83.75.
+
+Product ID: PROD-0243
+Product Name: LEGO Set Pro
+Brand: H&M
+Category: Toys
+Description: LEGO Set Pro figura en el catálogo simulado bajo la marca H&M. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Kids. Precio de venta al público registrado: 112.57.
+
+Product ID: PROD-0244
+Product Name: Sunscreen Plus
+Brand: Under Armour
+Category: Beauty
+Description: Sunscreen Plus figura en el catálogo simulado bajo la marca Under Armour. Artículo de belleza y cuidado personal del catálogo simulado. Departamento registrado: Men. Precio de venta al público registrado: 206.03.
+
+Product ID: PROD-0245
+Product Name: Hoodie Plus
+Brand: Under Armour
+Category: Clothing
+Description: Hoodie Plus figura en el catálogo simulado bajo la marca Under Armour. Artículo de indumentaria o calzado del catálogo simulado. Departamento registrado: Kids. Precio de venta al público registrado: 169.99.
+
+Product ID: PROD-0246
+Product Name: Water Bottle
+Brand: Nike
+Category: Sports
+Description: Water Bottle figura en el catálogo simulado bajo la marca Nike. Artículo relacionado con la práctica deportiva y la actividad física. Departamento registrado: Women. Precio de venta al público registrado: 19.31.
+
+Product ID: PROD-0247
+Product Name: Puzzle Lite
+Brand: Levis
+Category: Toys
+Description: Puzzle Lite figura en el catálogo simulado bajo la marca Levis. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Women. Precio de venta al público registrado: 268.57.
+
+Product ID: PROD-0248
+Product Name: Board Game X
+Brand: H&M
+Category: Toys
+Description: Board Game X figura en el catálogo simulado bajo la marca H&M. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Home. Precio de venta al público registrado: 180.55.
+
+Product ID: PROD-0249
+Product Name: Tire Inflator Max
+Brand: Sony
+Category: Automotive
+Description: Tire Inflator Max figura en el catálogo simulado bajo la marca Sony. Accesorio relacionado con el uso y mantenimiento de vehículos. Departamento registrado: Men. Precio de venta al público registrado: 103.37.
+
+Product ID: PROD-0250
+Product Name: Fiction Novel X
+Brand: Puma
+Category: Books
+Description: Fiction Novel X figura en el catálogo simulado bajo la marca Puma. Libro del catálogo simulado para lectura, consulta o entretenimiento. Departamento registrado: Home. Precio de venta al público registrado: 236.16.
+
+Product ID: PROD-0251
+Product Name: Yoga Mat Max
+Brand: Puma
+Category: Sports
+Description: Yoga Mat Max figura en el catálogo simulado bajo la marca Puma. Artículo relacionado con la práctica deportiva y la actividad física. Departamento registrado: Home. Precio de venta al público registrado: 190.92.
+
+Product ID: PROD-0252
+Product Name: Coffee Maker Lite
+Brand: Nike
+Category: Home & Kitchen
+Description: Coffee Maker Lite figura en el catálogo simulado bajo la marca Nike. Artículo para tareas del hogar y preparación de alimentos. Departamento registrado: Unisex. Precio de venta al público registrado: 62.08.
+
+Product ID: PROD-0253
+Product Name: Shampoo
+Brand: H&M
+Category: Beauty
+Description: Shampoo figura en el catálogo simulado bajo la marca H&M. Artículo de belleza y cuidado personal del catálogo simulado. Departamento registrado: Unisex. Precio de venta al público registrado: 233.83.
+
+Product ID: PROD-0254
+Product Name: Smart Watch X
+Brand: Samsung
+Category: Electronics
+Description: Smart Watch X figura en el catálogo simulado bajo la marca Samsung. Producto de electrónica para actividades cotidianas y accesorios tecnológicos. Departamento registrado: Unisex. Precio de venta al público registrado: 299.44.
+
+Product ID: PROD-0255
+Product Name: Perfume
+Brand: Apple
+Category: Beauty
+Description: Perfume figura en el catálogo simulado bajo la marca Apple. Artículo de belleza y cuidado personal del catálogo simulado. Departamento registrado: Outdoor. Precio de venta al público registrado: 166.59.
+
+Product ID: PROD-0256
+Product Name: Biography Lite
+Brand: Under Armour
+Category: Books
+Description: Biography Lite figura en el catálogo simulado bajo la marca Under Armour. Libro del catálogo simulado para lectura, consulta o entretenimiento. Departamento registrado: Women. Precio de venta al público registrado: 170.07.
+
+Product ID: PROD-0257
+Product Name: Cookbook Lite
+Brand: Under Armour
+Category: Books
+Description: Cookbook Lite figura en el catálogo simulado bajo la marca Under Armour. Libro del catálogo simulado para lectura, consulta o entretenimiento. Departamento registrado: Outdoor. Precio de venta al público registrado: 280.50.
+
+Product ID: PROD-0258
+Product Name: Fiction Novel Lite
+Brand: Puma
+Category: Books
+Description: Fiction Novel Lite figura en el catálogo simulado bajo la marca Puma. Libro del catálogo simulado para lectura, consulta o entretenimiento. Departamento registrado: Women. Precio de venta al público registrado: 246.59.
+
+Product ID: PROD-0259
+Product Name: Bluetooth Speaker Lite
+Brand: Sony
+Category: Electronics
+Description: Bluetooth Speaker Lite figura en el catálogo simulado bajo la marca Sony. Producto de electrónica para actividades cotidianas y accesorios tecnológicos. Departamento registrado: Outdoor. Precio de venta al público registrado: 277.65.
+
+Product ID: PROD-0260
+Product Name: Floor Mats Pro
+Brand: Samsung
+Category: Automotive
+Description: Floor Mats Pro figura en el catálogo simulado bajo la marca Samsung. Accesorio relacionado con el uso y mantenimiento de vehículos. Departamento registrado: Women. Precio de venta al público registrado: 210.66.
+
+Product ID: PROD-0261
+Product Name: Dumbbells Pro
+Brand: Nike
+Category: Sports
+Description: Dumbbells Pro figura en el catálogo simulado bajo la marca Nike. Artículo relacionado con la práctica deportiva y la actividad física. Departamento registrado: Men. Precio de venta al público registrado: 193.55.
+
+Product ID: PROD-0262
+Product Name: Perfume Plus
+Brand: Under Armour
+Category: Beauty
+Description: Perfume Plus figura en el catálogo simulado bajo la marca Under Armour. Artículo de belleza y cuidado personal del catálogo simulado. Departamento registrado: Home. Precio de venta al público registrado: 7.51.
+
+Product ID: PROD-0263
+Product Name: Lipstick Pro
+Brand: Under Armour
+Category: Beauty
+Description: Lipstick Pro figura en el catálogo simulado bajo la marca Under Armour. Artículo de belleza y cuidado personal del catálogo simulado. Departamento registrado: Outdoor. Precio de venta al público registrado: 100.41.
+
+Product ID: PROD-0264
+Product Name: Jacket Max
+Brand: Zara
+Category: Clothing
+Description: Jacket Max figura en el catálogo simulado bajo la marca Zara. Artículo de indumentaria o calzado del catálogo simulado. Departamento registrado: Women. Precio de venta al público registrado: 274.48.
+
+Product ID: PROD-0265
+Product Name: Blender Lite
+Brand: H&M
+Category: Home & Kitchen
+Description: Blender Lite figura en el catálogo simulado bajo la marca H&M. Artículo para tareas del hogar y preparación de alimentos. Departamento registrado: Men. Precio de venta al público registrado: 263.75.
+
+Product ID: PROD-0266
+Product Name: Running Shoes Plus
+Brand: Adidas
+Category: Clothing
+Description: Running Shoes Plus figura en el catálogo simulado bajo la marca Adidas. Artículo de indumentaria o calzado del catálogo simulado. Departamento registrado: Unisex. Precio de venta al público registrado: 165.72.
+
+Product ID: PROD-0267
+Product Name: Dash Cam Plus
+Brand: Samsung
+Category: Automotive
+Description: Dash Cam Plus figura en el catálogo simulado bajo la marca Samsung. Accesorio relacionado con el uso y mantenimiento de vehículos. Departamento registrado: Outdoor. Precio de venta al público registrado: 196.59.
+
+Product ID: PROD-0268
+Product Name: Bluetooth Speaker Max
+Brand: Sony
+Category: Electronics
+Description: Bluetooth Speaker Max figura en el catálogo simulado bajo la marca Sony. Producto de electrónica para actividades cotidianas y accesorios tecnológicos. Departamento registrado: Outdoor. Precio de venta al público registrado: 57.59.
+
+Product ID: PROD-0269
+Product Name: Sunscreen Max
+Brand: Zara
+Category: Beauty
+Description: Sunscreen Max figura en el catálogo simulado bajo la marca Zara. Artículo de belleza y cuidado personal del catálogo simulado. Departamento registrado: Women. Precio de venta al público registrado: 60.32.
+
+Product ID: PROD-0270
+Product Name: Board Game Lite
+Brand: Nike
+Category: Toys
+Description: Board Game Lite figura en el catálogo simulado bajo la marca Nike. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Kids. Precio de venta al público registrado: 227.59.
+
+Product ID: PROD-0271
+Product Name: Bluetooth Speaker Max
+Brand: Sony
+Category: Electronics
+Description: Bluetooth Speaker Max figura en el catálogo simulado bajo la marca Sony. Producto de electrónica para actividades cotidianas y accesorios tecnológicos. Departamento registrado: Men. Precio de venta al público registrado: 24.25.
+
+Product ID: PROD-0272
+Product Name: Cookbook Lite
+Brand: H&M
+Category: Books
+Description: Cookbook Lite figura en el catálogo simulado bajo la marca H&M. Libro del catálogo simulado para lectura, consulta o entretenimiento. Departamento registrado: Outdoor. Precio de venta al público registrado: 208.94.
+
+Product ID: PROD-0273
+Product Name: Stuffed Animal X
+Brand: Samsung
+Category: Toys
+Description: Stuffed Animal X figura en el catálogo simulado bajo la marca Samsung. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Outdoor. Precio de venta al público registrado: 51.03.
+
+Product ID: PROD-0274
+Product Name: Puzzle
+Brand: Levis
+Category: Toys
+Description: Puzzle figura en el catálogo simulado bajo la marca Levis. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Women. Precio de venta al público registrado: 248.72.
+
+Product ID: PROD-0275
+Product Name: Jacket Pro
+Brand: Zara
+Category: Clothing
+Description: Jacket Pro figura en el catálogo simulado bajo la marca Zara. Artículo de indumentaria o calzado del catálogo simulado. Departamento registrado: Home. Precio de venta al público registrado: 28.95.
+
+Product ID: PROD-0276
+Product Name: USB-C Hub Max
+Brand: Levis
+Category: Electronics
+Description: USB-C Hub Max figura en el catálogo simulado bajo la marca Levis. Producto de electrónica para actividades cotidianas y accesorios tecnológicos. Departamento registrado: Home. Precio de venta al público registrado: 54.36.
+
+Product ID: PROD-0277
+Product Name: Jeans Max
+Brand: Levis
+Category: Clothing
+Description: Jeans Max figura en el catálogo simulado bajo la marca Levis. Artículo de indumentaria o calzado del catálogo simulado. Departamento registrado: Men. Precio de venta al público registrado: 136.96.
+
+Product ID: PROD-0278
+Product Name: Toaster
+Brand: H&M
+Category: Home & Kitchen
+Description: Toaster figura en el catálogo simulado bajo la marca H&M. Artículo para tareas del hogar y preparación de alimentos. Departamento registrado: Kids. Precio de venta al público registrado: 141.93.
+
+Product ID: PROD-0279
+Product Name: Laptop Stand Lite
+Brand: Sony
+Category: Electronics
+Description: Laptop Stand Lite figura en el catálogo simulado bajo la marca Sony. Producto de electrónica para actividades cotidianas y accesorios tecnológicos. Departamento registrado: Unisex. Precio de venta al público registrado: 27.46.
+
+Product ID: PROD-0280
+Product Name: Jacket Pro
+Brand: Zara
+Category: Clothing
+Description: Jacket Pro figura en el catálogo simulado bajo la marca Zara. Artículo de indumentaria o calzado del catálogo simulado. Departamento registrado: Unisex. Precio de venta al público registrado: 295.91.
+
+Product ID: PROD-0281
+Product Name: Self-Help Book Max
+Brand: Apple
+Category: Books
+Description: Self-Help Book Max figura en el catálogo simulado bajo la marca Apple. Libro del catálogo simulado para lectura, consulta o entretenimiento. Departamento registrado: Kids. Precio de venta al público registrado: 289.34.
+
+Product ID: PROD-0282
+Product Name: Air Freshener
+Brand: H&M
+Category: Automotive
+Description: Air Freshener figura en el catálogo simulado bajo la marca H&M. Accesorio relacionado con el uso y mantenimiento de vehículos. Departamento registrado: Women. Precio de venta al público registrado: 263.11.
+
+Product ID: PROD-0283
+Product Name: LEGO Set Pro
+Brand: Apple
+Category: Toys
+Description: LEGO Set Pro figura en el catálogo simulado bajo la marca Apple. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Women. Precio de venta al público registrado: 219.98.
+
+Product ID: PROD-0284
+Product Name: Bluetooth Speaker Plus
+Brand: Sony
+Category: Electronics
+Description: Bluetooth Speaker Plus figura en el catálogo simulado bajo la marca Sony. Producto de electrónica para actividades cotidianas y accesorios tecnológicos. Departamento registrado: Unisex. Precio de venta al público registrado: 130.68.
+
+Product ID: PROD-0285
+Product Name: Tennis Racket Max
+Brand: Zara
+Category: Sports
+Description: Tennis Racket Max figura en el catálogo simulado bajo la marca Zara. Artículo relacionado con la práctica deportiva y la actividad física. Departamento registrado: Outdoor. Precio de venta al público registrado: 15.46.
+
+Product ID: PROD-0286
+Product Name: Smart Watch X
+Brand: Samsung
+Category: Electronics
+Description: Smart Watch X figura en el catálogo simulado bajo la marca Samsung. Producto de electrónica para actividades cotidianas y accesorios tecnológicos. Departamento registrado: Unisex. Precio de venta al público registrado: 180.61.
+
+Product ID: PROD-0287
+Product Name: Smart Watch Plus
+Brand: Samsung
+Category: Electronics
+Description: Smart Watch Plus figura en el catálogo simulado bajo la marca Samsung. Producto de electrónica para actividades cotidianas y accesorios tecnológicos. Departamento registrado: Men. Precio de venta al público registrado: 164.68.
+
+Product ID: PROD-0288
+Product Name: Cookbook Lite
+Brand: Puma
+Category: Books
+Description: Cookbook Lite figura en el catálogo simulado bajo la marca Puma. Libro del catálogo simulado para lectura, consulta o entretenimiento. Departamento registrado: Women. Precio de venta al público registrado: 246.59.
+
+Product ID: PROD-0289
+Product Name: Toaster
+Brand: Samsung
+Category: Home & Kitchen
+Description: Toaster figura en el catálogo simulado bajo la marca Samsung. Artículo para tareas del hogar y preparación de alimentos. Departamento registrado: Home. Precio de venta al público registrado: 169.67.
+
+Product ID: PROD-0290
+Product Name: Air Fryer
+Brand: Levis
+Category: Home & Kitchen
+Description: Air Fryer figura en el catálogo simulado bajo la marca Levis. Artículo para tareas del hogar y preparación de alimentos. Departamento registrado: Outdoor. Precio de venta al público registrado: 107.25.
+
+Product ID: PROD-0291
+Product Name: Sunscreen X
+Brand: Zara
+Category: Beauty
+Description: Sunscreen X figura en el catálogo simulado bajo la marca Zara. Artículo de belleza y cuidado personal del catálogo simulado. Departamento registrado: Women. Precio de venta al público registrado: 94.16.
+
+Product ID: PROD-0292
+Product Name: Floor Mats X
+Brand: Samsung
+Category: Automotive
+Description: Floor Mats X figura en el catálogo simulado bajo la marca Samsung. Accesorio relacionado con el uso y mantenimiento de vehículos. Departamento registrado: Men. Precio de venta al público registrado: 242.89.
+
+Product ID: PROD-0293
+Product Name: Lipstick Lite
+Brand: Levis
+Category: Beauty
+Description: Lipstick Lite figura en el catálogo simulado bajo la marca Levis. Artículo de belleza y cuidado personal del catálogo simulado. Departamento registrado: Women. Precio de venta al público registrado: 77.39.
+
+Product ID: PROD-0294
+Product Name: Hoodie Pro
+Brand: Under Armour
+Category: Clothing
+Description: Hoodie Pro figura en el catálogo simulado bajo la marca Under Armour. Artículo de indumentaria o calzado del catálogo simulado. Departamento registrado: Women. Precio de venta al público registrado: 219.02.
+
+Product ID: PROD-0295
+Product Name: Self-Help Book
+Brand: Puma
+Category: Books
+Description: Self-Help Book figura en el catálogo simulado bajo la marca Puma. Libro del catálogo simulado para lectura, consulta o entretenimiento. Departamento registrado: Home. Precio de venta al público registrado: 27.39.
+
+Product ID: PROD-0296
+Product Name: Tennis Racket
+Brand: Samsung
+Category: Sports
+Description: Tennis Racket figura en el catálogo simulado bajo la marca Samsung. Artículo relacionado con la práctica deportiva y la actividad física. Departamento registrado: Women. Precio de venta al público registrado: 68.26.
+
+Product ID: PROD-0297
+Product Name: Hoodie X
+Brand: Under Armour
+Category: Clothing
+Description: Hoodie X figura en el catálogo simulado bajo la marca Under Armour. Artículo de indumentaria o calzado del catálogo simulado. Departamento registrado: Women. Precio de venta al público registrado: 122.60.
+
+Product ID: PROD-0298
+Product Name: Action Figure X
+Brand: H&M
+Category: Toys
+Description: Action Figure X figura en el catálogo simulado bajo la marca H&M. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Kids. Precio de venta al público registrado: 96.67.
+
+Product ID: PROD-0299
+Product Name: Air Freshener Lite
+Brand: Adidas
+Category: Automotive
+Description: Air Freshener Lite figura en el catálogo simulado bajo la marca Adidas. Accesorio relacionado con el uso y mantenimiento de vehículos. Departamento registrado: Kids. Precio de venta al público registrado: 274.80.
+
+Product ID: PROD-0300
+Product Name: Face Cream X
+Brand: Puma
+Category: Beauty
+Description: Face Cream X figura en el catálogo simulado bajo la marca Puma. Artículo de belleza y cuidado personal del catálogo simulado. Departamento registrado: Home. Precio de venta al público registrado: 82.66.
+
+Product ID: PROD-0301
+Product Name: Perfume Max
+Brand: Apple
+Category: Beauty
+Description: Perfume Max figura en el catálogo simulado bajo la marca Apple. Artículo de belleza y cuidado personal del catálogo simulado. Departamento registrado: Women. Precio de venta al público registrado: 173.51.
+
+Product ID: PROD-0302
+Product Name: Action Figure Plus
+Brand: Under Armour
+Category: Toys
+Description: Action Figure Plus figura en el catálogo simulado bajo la marca Under Armour. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Kids. Precio de venta al público registrado: 55.45.
+
+Product ID: PROD-0303
+Product Name: Toaster X
+Brand: Under Armour
+Category: Home & Kitchen
+Description: Toaster X figura en el catálogo simulado bajo la marca Under Armour. Artículo para tareas del hogar y preparación de alimentos. Departamento registrado: Men. Precio de venta al público registrado: 297.15.
+
+Product ID: PROD-0304
+Product Name: Wireless Earbuds
+Brand: Apple
+Category: Electronics
+Description: Wireless Earbuds figura en el catálogo simulado bajo la marca Apple. Producto de electrónica para actividades cotidianas y accesorios tecnológicos. Departamento registrado: Women. Precio de venta al público registrado: 7.87.
+
+Product ID: PROD-0305
+Product Name: Yoga Mat Pro
+Brand: Puma
+Category: Sports
+Description: Yoga Mat Pro figura en el catálogo simulado bajo la marca Puma. Artículo relacionado con la práctica deportiva y la actividad física. Departamento registrado: Kids. Precio de venta al público registrado: 154.68.
+
+Product ID: PROD-0306
+Product Name: Air Freshener
+Brand: Nike
+Category: Automotive
+Description: Air Freshener figura en el catálogo simulado bajo la marca Nike. Accesorio relacionado con el uso y mantenimiento de vehículos. Departamento registrado: Home. Precio de venta al público registrado: 9.47.
+
+Product ID: PROD-0307
+Product Name: Biography Pro
+Brand: Sony
+Category: Books
+Description: Biography Pro figura en el catálogo simulado bajo la marca Sony. Libro del catálogo simulado para lectura, consulta o entretenimiento. Departamento registrado: Women. Precio de venta al público registrado: 204.16.
+
+Product ID: PROD-0308
+Product Name: Jacket Lite
+Brand: Zara
+Category: Clothing
+Description: Jacket Lite figura en el catálogo simulado bajo la marca Zara. Artículo de indumentaria o calzado del catálogo simulado. Departamento registrado: Kids. Precio de venta al público registrado: 160.77.
+
+Product ID: PROD-0309
+Product Name: Face Cream Lite
+Brand: Zara
+Category: Beauty
+Description: Face Cream Lite figura en el catálogo simulado bajo la marca Zara. Artículo de belleza y cuidado personal del catálogo simulado. Departamento registrado: Women. Precio de venta al público registrado: 297.12.
+
+Product ID: PROD-0310
+Product Name: T-Shirt
+Brand: Nike
+Category: Clothing
+Description: T-Shirt figura en el catálogo simulado bajo la marca Nike. Artículo de indumentaria o calzado del catálogo simulado. Departamento registrado: Men. Precio de venta al público registrado: 168.48.
+
+Product ID: PROD-0311
+Product Name: Smart Watch X
+Brand: Samsung
+Category: Electronics
+Description: Smart Watch X figura en el catálogo simulado bajo la marca Samsung. Producto de electrónica para actividades cotidianas y accesorios tecnológicos. Departamento registrado: Kids. Precio de venta al público registrado: 195.59.
+
+Product ID: PROD-0312
+Product Name: Jacket Lite
+Brand: Zara
+Category: Clothing
+Description: Jacket Lite figura en el catálogo simulado bajo la marca Zara. Artículo de indumentaria o calzado del catálogo simulado. Departamento registrado: Unisex. Precio de venta al público registrado: 266.93.
+
+Product ID: PROD-0313
+Product Name: Wireless Earbuds Plus
+Brand: Apple
+Category: Electronics
+Description: Wireless Earbuds Plus figura en el catálogo simulado bajo la marca Apple. Producto de electrónica para actividades cotidianas y accesorios tecnológicos. Departamento registrado: Men. Precio de venta al público registrado: 171.66.
+
+Product ID: PROD-0314
+Product Name: LEGO Set Pro
+Brand: Samsung
+Category: Toys
+Description: LEGO Set Pro figura en el catálogo simulado bajo la marca Samsung. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Unisex. Precio de venta al público registrado: 247.27.
+
+Product ID: PROD-0315
+Product Name: Cookbook Lite
+Brand: Puma
+Category: Books
+Description: Cookbook Lite figura en el catálogo simulado bajo la marca Puma. Libro del catálogo simulado para lectura, consulta o entretenimiento. Departamento registrado: Home. Precio de venta al público registrado: 205.04.
+
+Product ID: PROD-0316
+Product Name: Shampoo Plus
+Brand: Adidas
+Category: Beauty
+Description: Shampoo Plus figura en el catálogo simulado bajo la marca Adidas. Artículo de belleza y cuidado personal del catálogo simulado. Departamento registrado: Unisex. Precio de venta al público registrado: 21.78.
+
+Product ID: PROD-0317
+Product Name: Running Shoes Pro
+Brand: Adidas
+Category: Clothing
+Description: Running Shoes Pro figura en el catálogo simulado bajo la marca Adidas. Artículo de indumentaria o calzado del catálogo simulado. Departamento registrado: Kids. Precio de venta al público registrado: 122.62.
+
+Product ID: PROD-0318
+Product Name: Self-Help Book X
+Brand: Under Armour
+Category: Books
+Description: Self-Help Book X figura en el catálogo simulado bajo la marca Under Armour. Libro del catálogo simulado para lectura, consulta o entretenimiento. Departamento registrado: Outdoor. Precio de venta al público registrado: 132.95.
+
+Product ID: PROD-0319
+Product Name: Face Cream Max
+Brand: Puma
+Category: Beauty
+Description: Face Cream Max figura en el catálogo simulado bajo la marca Puma. Artículo de belleza y cuidado personal del catálogo simulado. Departamento registrado: Women. Precio de venta al público registrado: 30.11.
+
+Product ID: PROD-0320
+Product Name: Air Fryer Max
+Brand: Zara
+Category: Home & Kitchen
+Description: Air Fryer Max figura en el catálogo simulado bajo la marca Zara. Artículo para tareas del hogar y preparación de alimentos. Departamento registrado: Kids. Precio de venta al público registrado: 7.52.
+
+Product ID: PROD-0321
+Product Name: Action Figure X
+Brand: Adidas
+Category: Toys
+Description: Action Figure X figura en el catálogo simulado bajo la marca Adidas. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Home. Precio de venta al público registrado: 132.70.
+
+Product ID: PROD-0322
+Product Name: Face Cream Max
+Brand: Nike
+Category: Beauty
+Description: Face Cream Max figura en el catálogo simulado bajo la marca Nike. Artículo de belleza y cuidado personal del catálogo simulado. Departamento registrado: Kids. Precio de venta al público registrado: 181.49.
+
+Product ID: PROD-0323
+Product Name: Bluetooth Speaker Plus
+Brand: Sony
+Category: Electronics
+Description: Bluetooth Speaker Plus figura en el catálogo simulado bajo la marca Sony. Producto de electrónica para actividades cotidianas y accesorios tecnológicos. Departamento registrado: Home. Precio de venta al público registrado: 219.09.
+
+Product ID: PROD-0324
+Product Name: Air Fryer Plus
+Brand: Apple
+Category: Home & Kitchen
+Description: Air Fryer Plus figura en el catálogo simulado bajo la marca Apple. Artículo para tareas del hogar y preparación de alimentos. Departamento registrado: Men. Precio de venta al público registrado: 150.97.
+
+Product ID: PROD-0325
+Product Name: Perfume
+Brand: H&M
+Category: Beauty
+Description: Perfume figura en el catálogo simulado bajo la marca H&M. Artículo de belleza y cuidado personal del catálogo simulado. Departamento registrado: Women. Precio de venta al público registrado: 112.16.
+
+Product ID: PROD-0326
+Product Name: Tire Inflator Lite
+Brand: Puma
+Category: Automotive
+Description: Tire Inflator Lite figura en el catálogo simulado bajo la marca Puma. Accesorio relacionado con el uso y mantenimiento de vehículos. Departamento registrado: Unisex. Precio de venta al público registrado: 95.56.
+
+Product ID: PROD-0327
+Product Name: Perfume Lite
+Brand: Under Armour
+Category: Beauty
+Description: Perfume Lite figura en el catálogo simulado bajo la marca Under Armour. Artículo de belleza y cuidado personal del catálogo simulado. Departamento registrado: Women. Precio de venta al público registrado: 292.41.
+
+Product ID: PROD-0328
+Product Name: Stuffed Animal
+Brand: Samsung
+Category: Toys
+Description: Stuffed Animal figura en el catálogo simulado bajo la marca Samsung. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Kids. Precio de venta al público registrado: 290.80.
+
+Product ID: PROD-0329
+Product Name: Tire Inflator Plus
+Brand: Samsung
+Category: Automotive
+Description: Tire Inflator Plus figura en el catálogo simulado bajo la marca Samsung. Accesorio relacionado con el uso y mantenimiento de vehículos. Departamento registrado: Home. Precio de venta al público registrado: 113.30.
+
+Product ID: PROD-0330
+Product Name: Toaster
+Brand: Nike
+Category: Home & Kitchen
+Description: Toaster figura en el catálogo simulado bajo la marca Nike. Artículo para tareas del hogar y preparación de alimentos. Departamento registrado: Kids. Precio de venta al público registrado: 134.90.
+
+Product ID: PROD-0331
+Product Name: Hoodie
+Brand: Under Armour
+Category: Clothing
+Description: Hoodie figura en el catálogo simulado bajo la marca Under Armour. Artículo de indumentaria o calzado del catálogo simulado. Departamento registrado: Kids. Precio de venta al público registrado: 95.02.
+
+Product ID: PROD-0332
+Product Name: Air Fryer X
+Brand: H&M
+Category: Home & Kitchen
+Description: Air Fryer X figura en el catálogo simulado bajo la marca H&M. Artículo para tareas del hogar y preparación de alimentos. Departamento registrado: Unisex. Precio de venta al público registrado: 146.89.
+
+Product ID: PROD-0333
+Product Name: Sunscreen Pro
+Brand: Nike
+Category: Beauty
+Description: Sunscreen Pro figura en el catálogo simulado bajo la marca Nike. Artículo de belleza y cuidado personal del catálogo simulado. Departamento registrado: Men. Precio de venta al público registrado: 180.57.
+
+Product ID: PROD-0334
+Product Name: Soccer Ball
+Brand: Adidas
+Category: Sports
+Description: Soccer Ball figura en el catálogo simulado bajo la marca Adidas. Artículo relacionado con la práctica deportiva y la actividad física. Departamento registrado: Outdoor. Precio de venta al público registrado: 171.58.
+
+Product ID: PROD-0335
+Product Name: Perfume
+Brand: H&M
+Category: Beauty
+Description: Perfume figura en el catálogo simulado bajo la marca H&M. Artículo de belleza y cuidado personal del catálogo simulado. Departamento registrado: Home. Precio de venta al público registrado: 82.06.
+
+Product ID: PROD-0336
+Product Name: Tennis Racket Plus
+Brand: Zara
+Category: Sports
+Description: Tennis Racket Plus figura en el catálogo simulado bajo la marca Zara. Artículo relacionado con la práctica deportiva y la actividad física. Departamento registrado: Home. Precio de venta al público registrado: 179.04.
+
+Product ID: PROD-0337
+Product Name: LEGO Set Plus
+Brand: Under Armour
+Category: Toys
+Description: LEGO Set Plus figura en el catálogo simulado bajo la marca Under Armour. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Outdoor. Precio de venta al público registrado: 40.11.
+
+Product ID: PROD-0338
+Product Name: Action Figure Pro
+Brand: Zara
+Category: Toys
+Description: Action Figure Pro figura en el catálogo simulado bajo la marca Zara. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Unisex. Precio de venta al público registrado: 147.97.
+
+Product ID: PROD-0339
+Product Name: Air Freshener
+Brand: Zara
+Category: Automotive
+Description: Air Freshener figura en el catálogo simulado bajo la marca Zara. Accesorio relacionado con el uso y mantenimiento de vehículos. Departamento registrado: Kids. Precio de venta al público registrado: 12.63.
+
+Product ID: PROD-0340
+Product Name: Jeans Max
+Brand: Levis
+Category: Clothing
+Description: Jeans Max figura en el catálogo simulado bajo la marca Levis. Artículo de indumentaria o calzado del catálogo simulado. Departamento registrado: Home. Precio de venta al público registrado: 53.07.
+
+Product ID: PROD-0341
+Product Name: Floor Mats Pro
+Brand: H&M
+Category: Automotive
+Description: Floor Mats Pro figura en el catálogo simulado bajo la marca H&M. Accesorio relacionado con el uso y mantenimiento de vehículos. Departamento registrado: Unisex. Precio de venta al público registrado: 199.24.
+
+Product ID: PROD-0342
+Product Name: Tennis Racket Pro
+Brand: Puma
+Category: Sports
+Description: Tennis Racket Pro figura en el catálogo simulado bajo la marca Puma. Artículo relacionado con la práctica deportiva y la actividad física. Departamento registrado: Outdoor. Precio de venta al público registrado: 66.49.
+
+Product ID: PROD-0343
+Product Name: Jacket
+Brand: Zara
+Category: Clothing
+Description: Jacket figura en el catálogo simulado bajo la marca Zara. Artículo de indumentaria o calzado del catálogo simulado. Departamento registrado: Kids. Precio de venta al público registrado: 140.51.
+
+Product ID: PROD-0344
+Product Name: Tire Inflator Lite
+Brand: Zara
+Category: Automotive
+Description: Tire Inflator Lite figura en el catálogo simulado bajo la marca Zara. Accesorio relacionado con el uso y mantenimiento de vehículos. Departamento registrado: Kids. Precio de venta al público registrado: 178.57.
+
+Product ID: PROD-0345
+Product Name: Tire Inflator Pro
+Brand: Apple
+Category: Automotive
+Description: Tire Inflator Pro figura en el catálogo simulado bajo la marca Apple. Accesorio relacionado con el uso y mantenimiento de vehículos. Departamento registrado: Home. Precio de venta al público registrado: 276.08.
+
+Product ID: PROD-0346
+Product Name: Knife Set X
+Brand: Adidas
+Category: Home & Kitchen
+Description: Knife Set X figura en el catálogo simulado bajo la marca Adidas. Artículo para tareas del hogar y preparación de alimentos. Departamento registrado: Women. Precio de venta al público registrado: 115.74.
+
+Product ID: PROD-0347
+Product Name: Lipstick X
+Brand: Puma
+Category: Beauty
+Description: Lipstick X figura en el catálogo simulado bajo la marca Puma. Artículo de belleza y cuidado personal del catálogo simulado. Departamento registrado: Outdoor. Precio de venta al público registrado: 60.60.
+
+Product ID: PROD-0348
+Product Name: Toaster X
+Brand: Apple
+Category: Home & Kitchen
+Description: Toaster X figura en el catálogo simulado bajo la marca Apple. Artículo para tareas del hogar y preparación de alimentos. Departamento registrado: Unisex. Precio de venta al público registrado: 98.48.
+
+Product ID: PROD-0349
+Product Name: Bluetooth Speaker X
+Brand: Sony
+Category: Electronics
+Description: Bluetooth Speaker X figura en el catálogo simulado bajo la marca Sony. Producto de electrónica para actividades cotidianas y accesorios tecnológicos. Departamento registrado: Home. Precio de venta al público registrado: 245.66.
+
+Product ID: PROD-0350
+Product Name: Air Freshener X
+Brand: Under Armour
+Category: Automotive
+Description: Air Freshener X figura en el catálogo simulado bajo la marca Under Armour. Accesorio relacionado con el uso y mantenimiento de vehículos. Departamento registrado: Men. Precio de venta al público registrado: 149.67.
+
+Product ID: PROD-0351
+Product Name: Smart Watch Plus
+Brand: Samsung
+Category: Electronics
+Description: Smart Watch Plus figura en el catálogo simulado bajo la marca Samsung. Producto de electrónica para actividades cotidianas y accesorios tecnológicos. Departamento registrado: Kids. Precio de venta al público registrado: 72.09.
+
+Product ID: PROD-0352
+Product Name: Tire Inflator Lite
+Brand: Under Armour
+Category: Automotive
+Description: Tire Inflator Lite figura en el catálogo simulado bajo la marca Under Armour. Accesorio relacionado con el uso y mantenimiento de vehículos. Departamento registrado: Home. Precio de venta al público registrado: 39.57.
+
+Product ID: PROD-0353
+Product Name: Laptop Stand Plus
+Brand: Levis
+Category: Electronics
+Description: Laptop Stand Plus figura en el catálogo simulado bajo la marca Levis. Producto de electrónica para actividades cotidianas y accesorios tecnológicos. Departamento registrado: Outdoor. Precio de venta al público registrado: 222.37.
+
+Product ID: PROD-0354
+Product Name: Fiction Novel Plus
+Brand: Under Armour
+Category: Books
+Description: Fiction Novel Plus figura en el catálogo simulado bajo la marca Under Armour. Libro del catálogo simulado para lectura, consulta o entretenimiento. Departamento registrado: Men. Precio de venta al público registrado: 135.08.
+
+Product ID: PROD-0355
+Product Name: Water Bottle X
+Brand: Nike
+Category: Sports
+Description: Water Bottle X figura en el catálogo simulado bajo la marca Nike. Artículo relacionado con la práctica deportiva y la actividad física. Departamento registrado: Women. Precio de venta al público registrado: 192.02.
+
+Product ID: PROD-0356
+Product Name: Coffee Maker Plus
+Brand: Samsung
+Category: Home & Kitchen
+Description: Coffee Maker Plus figura en el catálogo simulado bajo la marca Samsung. Artículo para tareas del hogar y preparación de alimentos. Departamento registrado: Home. Precio de venta al público registrado: 88.63.
+
+Product ID: PROD-0357
+Product Name: Action Figure Pro
+Brand: Sony
+Category: Toys
+Description: Action Figure Pro figura en el catálogo simulado bajo la marca Sony. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Outdoor. Precio de venta al público registrado: 295.72.
+
+Product ID: PROD-0358
+Product Name: Air Fryer Plus
+Brand: Nike
+Category: Home & Kitchen
+Description: Air Fryer Plus figura en el catálogo simulado bajo la marca Nike. Artículo para tareas del hogar y preparación de alimentos. Departamento registrado: Women. Precio de venta al público registrado: 212.21.
+
+Product ID: PROD-0359
+Product Name: Knife Set
+Brand: Samsung
+Category: Home & Kitchen
+Description: Knife Set figura en el catálogo simulado bajo la marca Samsung. Artículo para tareas del hogar y preparación de alimentos. Departamento registrado: Kids. Precio de venta al público registrado: 175.75.
+
+Product ID: PROD-0360
+Product Name: Lipstick Lite
+Brand: Under Armour
+Category: Beauty
+Description: Lipstick Lite figura en el catálogo simulado bajo la marca Under Armour. Artículo de belleza y cuidado personal del catálogo simulado. Departamento registrado: Outdoor. Precio de venta al público registrado: 124.43.
+
+Product ID: PROD-0361
+Product Name: Puzzle
+Brand: Under Armour
+Category: Toys
+Description: Puzzle figura en el catálogo simulado bajo la marca Under Armour. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Unisex. Precio de venta al público registrado: 220.88.
+
+Product ID: PROD-0362
+Product Name: LEGO Set Lite
+Brand: Levis
+Category: Toys
+Description: LEGO Set Lite figura en el catálogo simulado bajo la marca Levis. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Unisex. Precio de venta al público registrado: 248.50.
+
+Product ID: PROD-0363
+Product Name: Action Figure
+Brand: Zara
+Category: Toys
+Description: Action Figure figura en el catálogo simulado bajo la marca Zara. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Kids. Precio de venta al público registrado: 256.60.
+
+Product ID: PROD-0364
+Product Name: Wireless Earbuds Max
+Brand: Apple
+Category: Electronics
+Description: Wireless Earbuds Max figura en el catálogo simulado bajo la marca Apple. Producto de electrónica para actividades cotidianas y accesorios tecnológicos. Departamento registrado: Women. Precio de venta al público registrado: 10.78.
+
+Product ID: PROD-0365
+Product Name: Car Charger Plus
+Brand: H&M
+Category: Automotive
+Description: Car Charger Plus figura en el catálogo simulado bajo la marca H&M. Accesorio relacionado con el uso y mantenimiento de vehículos. Departamento registrado: Kids. Precio de venta al público registrado: 265.34.
+
+Product ID: PROD-0366
+Product Name: Fiction Novel Plus
+Brand: Zara
+Category: Books
+Description: Fiction Novel Plus figura en el catálogo simulado bajo la marca Zara. Libro del catálogo simulado para lectura, consulta o entretenimiento. Departamento registrado: Outdoor. Precio de venta al público registrado: 201.36.
+
+Product ID: PROD-0367
+Product Name: Laptop Stand Pro
+Brand: Sony
+Category: Electronics
+Description: Laptop Stand Pro figura en el catálogo simulado bajo la marca Sony. Producto de electrónica para actividades cotidianas y accesorios tecnológicos. Departamento registrado: Outdoor. Precio de venta al público registrado: 198.70.
+
+Product ID: PROD-0368
+Product Name: Smart Watch
+Brand: Samsung
+Category: Electronics
+Description: Smart Watch figura en el catálogo simulado bajo la marca Samsung. Producto de electrónica para actividades cotidianas y accesorios tecnológicos. Departamento registrado: Home. Precio de venta al público registrado: 180.53.
+
+Product ID: PROD-0369
+Product Name: Car Charger
+Brand: Nike
+Category: Automotive
+Description: Car Charger figura en el catálogo simulado bajo la marca Nike. Accesorio relacionado con el uso y mantenimiento de vehículos. Departamento registrado: Unisex. Precio de venta al público registrado: 296.51.
+
+Product ID: PROD-0370
+Product Name: Air Fryer Lite
+Brand: Adidas
+Category: Home & Kitchen
+Description: Air Fryer Lite figura en el catálogo simulado bajo la marca Adidas. Artículo para tareas del hogar y preparación de alimentos. Departamento registrado: Kids. Precio de venta al público registrado: 36.33.
+
+Product ID: PROD-0371
+Product Name: Air Fryer Pro
+Brand: Apple
+Category: Home & Kitchen
+Description: Air Fryer Pro figura en el catálogo simulado bajo la marca Apple. Artículo para tareas del hogar y preparación de alimentos. Departamento registrado: Home. Precio de venta al público registrado: 26.10.
+
+Product ID: PROD-0372
+Product Name: Air Fryer
+Brand: Zara
+Category: Home & Kitchen
+Description: Air Fryer figura en el catálogo simulado bajo la marca Zara. Artículo para tareas del hogar y preparación de alimentos. Departamento registrado: Home. Precio de venta al público registrado: 276.44.
+
+Product ID: PROD-0373
+Product Name: Floor Mats Max
+Brand: Adidas
+Category: Automotive
+Description: Floor Mats Max figura en el catálogo simulado bajo la marca Adidas. Accesorio relacionado con el uso y mantenimiento de vehículos. Departamento registrado: Outdoor. Precio de venta al público registrado: 42.20.
+
+Product ID: PROD-0374
+Product Name: Puzzle X
+Brand: Zara
+Category: Toys
+Description: Puzzle X figura en el catálogo simulado bajo la marca Zara. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Home. Precio de venta al público registrado: 30.76.
+
+Product ID: PROD-0375
+Product Name: Fiction Novel Lite
+Brand: Sony
+Category: Books
+Description: Fiction Novel Lite figura en el catálogo simulado bajo la marca Sony. Libro del catálogo simulado para lectura, consulta o entretenimiento. Departamento registrado: Unisex. Precio de venta al público registrado: 61.45.
+
+Product ID: PROD-0376
+Product Name: Smart Watch Pro
+Brand: Samsung
+Category: Electronics
+Description: Smart Watch Pro figura en el catálogo simulado bajo la marca Samsung. Producto de electrónica para actividades cotidianas y accesorios tecnológicos. Departamento registrado: Home. Precio de venta al público registrado: 152.87.
+
+Product ID: PROD-0377
+Product Name: Bluetooth Speaker Max
+Brand: Sony
+Category: Electronics
+Description: Bluetooth Speaker Max figura en el catálogo simulado bajo la marca Sony. Producto de electrónica para actividades cotidianas y accesorios tecnológicos. Departamento registrado: Home. Precio de venta al público registrado: 259.07.
+
+Product ID: PROD-0378
+Product Name: Stuffed Animal Pro
+Brand: Apple
+Category: Toys
+Description: Stuffed Animal Pro figura en el catálogo simulado bajo la marca Apple. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Men. Precio de venta al público registrado: 10.90.
+
+Product ID: PROD-0379
+Product Name: Cookbook
+Brand: Nike
+Category: Books
+Description: Cookbook figura en el catálogo simulado bajo la marca Nike. Libro del catálogo simulado para lectura, consulta o entretenimiento. Departamento registrado: Outdoor. Precio de venta al público registrado: 154.93.
+
+Product ID: PROD-0380
+Product Name: Lipstick Pro
+Brand: H&M
+Category: Beauty
+Description: Lipstick Pro figura en el catálogo simulado bajo la marca H&M. Artículo de belleza y cuidado personal del catálogo simulado. Departamento registrado: Kids. Precio de venta al público registrado: 187.11.
+
+Product ID: PROD-0381
+Product Name: Fiction Novel X
+Brand: Levis
+Category: Books
+Description: Fiction Novel X figura en el catálogo simulado bajo la marca Levis. Libro del catálogo simulado para lectura, consulta o entretenimiento. Departamento registrado: Unisex. Precio de venta al público registrado: 163.69.
+
+Product ID: PROD-0382
+Product Name: Running Shoes Max
+Brand: Adidas
+Category: Clothing
+Description: Running Shoes Max figura en el catálogo simulado bajo la marca Adidas. Artículo de indumentaria o calzado del catálogo simulado. Departamento registrado: Men. Precio de venta al público registrado: 23.01.
+
+Product ID: PROD-0383
+Product Name: Hoodie
+Brand: Under Armour
+Category: Clothing
+Description: Hoodie figura en el catálogo simulado bajo la marca Under Armour. Artículo de indumentaria o calzado del catálogo simulado. Departamento registrado: Outdoor. Precio de venta al público registrado: 201.82.
+
+Product ID: PROD-0384
+Product Name: Blender Lite
+Brand: Nike
+Category: Home & Kitchen
+Description: Blender Lite figura en el catálogo simulado bajo la marca Nike. Artículo para tareas del hogar y preparación de alimentos. Departamento registrado: Unisex. Precio de venta al público registrado: 9.33.
+
+Product ID: PROD-0385
+Product Name: Cookbook Pro
+Brand: Zara
+Category: Books
+Description: Cookbook Pro figura en el catálogo simulado bajo la marca Zara. Libro del catálogo simulado para lectura, consulta o entretenimiento. Departamento registrado: Men. Precio de venta al público registrado: 221.47.
+
+Product ID: PROD-0386
+Product Name: Puzzle
+Brand: Sony
+Category: Toys
+Description: Puzzle figura en el catálogo simulado bajo la marca Sony. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Home. Precio de venta al público registrado: 215.41.
+
+Product ID: PROD-0387
+Product Name: Hoodie Plus
+Brand: Under Armour
+Category: Clothing
+Description: Hoodie Plus figura en el catálogo simulado bajo la marca Under Armour. Artículo de indumentaria o calzado del catálogo simulado. Departamento registrado: Home. Precio de venta al público registrado: 152.88.
+
+Product ID: PROD-0388
+Product Name: Board Game
+Brand: Sony
+Category: Toys
+Description: Board Game figura en el catálogo simulado bajo la marca Sony. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Women. Precio de venta al público registrado: 218.49.
+
+Product ID: PROD-0389
+Product Name: Wireless Earbuds Plus
+Brand: Apple
+Category: Electronics
+Description: Wireless Earbuds Plus figura en el catálogo simulado bajo la marca Apple. Producto de electrónica para actividades cotidianas y accesorios tecnológicos. Departamento registrado: Women. Precio de venta al público registrado: 113.00.
+
+Product ID: PROD-0390
+Product Name: USB-C Hub Lite
+Brand: H&M
+Category: Electronics
+Description: USB-C Hub Lite figura en el catálogo simulado bajo la marca H&M. Producto de electrónica para actividades cotidianas y accesorios tecnológicos. Departamento registrado: Kids. Precio de venta al público registrado: 275.25.
+
+Product ID: PROD-0391
+Product Name: Jacket Plus
+Brand: Zara
+Category: Clothing
+Description: Jacket Plus figura en el catálogo simulado bajo la marca Zara. Artículo de indumentaria o calzado del catálogo simulado. Departamento registrado: Men. Precio de venta al público registrado: 203.95.
+
+Product ID: PROD-0392
+Product Name: Water Bottle Lite
+Brand: Nike
+Category: Sports
+Description: Water Bottle Lite figura en el catálogo simulado bajo la marca Nike. Artículo relacionado con la práctica deportiva y la actividad física. Departamento registrado: Kids. Precio de venta al público registrado: 263.83.
+
+Product ID: PROD-0393
+Product Name: LEGO Set Lite
+Brand: Levis
+Category: Toys
+Description: LEGO Set Lite figura en el catálogo simulado bajo la marca Levis. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Home. Precio de venta al público registrado: 64.99.
+
+Product ID: PROD-0394
+Product Name: Tennis Racket Plus
+Brand: Zara
+Category: Sports
+Description: Tennis Racket Plus figura en el catálogo simulado bajo la marca Zara. Artículo relacionado con la práctica deportiva y la actividad física. Departamento registrado: Home. Precio de venta al público registrado: 221.33.
+
+Product ID: PROD-0395
+Product Name: Blender Pro
+Brand: H&M
+Category: Home & Kitchen
+Description: Blender Pro figura en el catálogo simulado bajo la marca H&M. Artículo para tareas del hogar y preparación de alimentos. Departamento registrado: Outdoor. Precio de venta al público registrado: 192.96.
+
+Product ID: PROD-0396
+Product Name: LEGO Set Max
+Brand: H&M
+Category: Toys
+Description: LEGO Set Max figura en el catálogo simulado bajo la marca H&M. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Women. Precio de venta al público registrado: 161.76.
+
+Product ID: PROD-0397
+Product Name: Car Charger Max
+Brand: Apple
+Category: Automotive
+Description: Car Charger Max figura en el catálogo simulado bajo la marca Apple. Accesorio relacionado con el uso y mantenimiento de vehículos. Departamento registrado: Home. Precio de venta al público registrado: 276.84.
+
+Product ID: PROD-0398
+Product Name: Puzzle Pro
+Brand: Adidas
+Category: Toys
+Description: Puzzle Pro figura en el catálogo simulado bajo la marca Adidas. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Unisex. Precio de venta al público registrado: 45.24.
+
+Product ID: PROD-0399
+Product Name: Laptop Stand
+Brand: Apple
+Category: Electronics
+Description: Laptop Stand figura en el catálogo simulado bajo la marca Apple. Producto de electrónica para actividades cotidianas y accesorios tecnológicos. Departamento registrado: Unisex. Precio de venta al público registrado: 278.25.
+
+Product ID: PROD-0400
+Product Name: Action Figure Pro
+Brand: Under Armour
+Category: Toys
+Description: Action Figure Pro figura en el catálogo simulado bajo la marca Under Armour. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Home. Precio de venta al público registrado: 46.01.
+
+Product ID: PROD-0401
+Product Name: Blender Plus
+Brand: Apple
+Category: Home & Kitchen
+Description: Blender Plus figura en el catálogo simulado bajo la marca Apple. Artículo para tareas del hogar y preparación de alimentos. Departamento registrado: Kids. Precio de venta al público registrado: 41.49.
+
+Product ID: PROD-0402
+Product Name: Dash Cam Lite
+Brand: Under Armour
+Category: Automotive
+Description: Dash Cam Lite figura en el catálogo simulado bajo la marca Under Armour. Accesorio relacionado con el uso y mantenimiento de vehículos. Departamento registrado: Outdoor. Precio de venta al público registrado: 52.33.
+
+Product ID: PROD-0403
+Product Name: Smart Watch Max
+Brand: Samsung
+Category: Electronics
+Description: Smart Watch Max figura en el catálogo simulado bajo la marca Samsung. Producto de electrónica para actividades cotidianas y accesorios tecnológicos. Departamento registrado: Kids. Precio de venta al público registrado: 215.07.
+
+Product ID: PROD-0404
+Product Name: Bluetooth Speaker Max
+Brand: Sony
+Category: Electronics
+Description: Bluetooth Speaker Max figura en el catálogo simulado bajo la marca Sony. Producto de electrónica para actividades cotidianas y accesorios tecnológicos. Departamento registrado: Unisex. Precio de venta al público registrado: 15.13.
+
+Product ID: PROD-0405
+Product Name: Yoga Mat Pro
+Brand: Puma
+Category: Sports
+Description: Yoga Mat Pro figura en el catálogo simulado bajo la marca Puma. Artículo relacionado con la práctica deportiva y la actividad física. Departamento registrado: Men. Precio de venta al público registrado: 239.37.
+
+Product ID: PROD-0406
+Product Name: Smart Watch
+Brand: Samsung
+Category: Electronics
+Description: Smart Watch figura en el catálogo simulado bajo la marca Samsung. Producto de electrónica para actividades cotidianas y accesorios tecnológicos. Departamento registrado: Outdoor. Precio de venta al público registrado: 115.43.
+
+Product ID: PROD-0407
+Product Name: Jacket Plus
+Brand: Zara
+Category: Clothing
+Description: Jacket Plus figura en el catálogo simulado bajo la marca Zara. Artículo de indumentaria o calzado del catálogo simulado. Departamento registrado: Men. Precio de venta al público registrado: 12.40.
+
+Product ID: PROD-0408
+Product Name: Floor Mats Plus
+Brand: Adidas
+Category: Automotive
+Description: Floor Mats Plus figura en el catálogo simulado bajo la marca Adidas. Accesorio relacionado con el uso y mantenimiento de vehículos. Departamento registrado: Men. Precio de venta al público registrado: 283.02.
+
+Product ID: PROD-0409
+Product Name: Lipstick Plus
+Brand: Under Armour
+Category: Beauty
+Description: Lipstick Plus figura en el catálogo simulado bajo la marca Under Armour. Artículo de belleza y cuidado personal del catálogo simulado. Departamento registrado: Women. Precio de venta al público registrado: 56.80.
+
+Product ID: PROD-0410
+Product Name: Sci-Fi Book
+Brand: Under Armour
+Category: Books
+Description: Sci-Fi Book figura en el catálogo simulado bajo la marca Under Armour. Libro del catálogo simulado para lectura, consulta o entretenimiento. Departamento registrado: Women. Precio de venta al público registrado: 188.03.
+
+Product ID: PROD-0411
+Product Name: Self-Help Book Max
+Brand: H&M
+Category: Books
+Description: Self-Help Book Max figura en el catálogo simulado bajo la marca H&M. Libro del catálogo simulado para lectura, consulta o entretenimiento. Departamento registrado: Women. Precio de venta al público registrado: 88.24.
+
+Product ID: PROD-0412
+Product Name: Water Bottle
+Brand: Nike
+Category: Sports
+Description: Water Bottle figura en el catálogo simulado bajo la marca Nike. Artículo relacionado con la práctica deportiva y la actividad física. Departamento registrado: Unisex. Precio de venta al público registrado: 239.67.
+
+Product ID: PROD-0413
+Product Name: Puzzle Lite
+Brand: Levis
+Category: Toys
+Description: Puzzle Lite figura en el catálogo simulado bajo la marca Levis. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Unisex. Precio de venta al público registrado: 153.69.
+
+Product ID: PROD-0414
+Product Name: Blender X
+Brand: Zara
+Category: Home & Kitchen
+Description: Blender X figura en el catálogo simulado bajo la marca Zara. Artículo para tareas del hogar y preparación de alimentos. Departamento registrado: Unisex. Precio de venta al público registrado: 23.22.
+
+Product ID: PROD-0415
+Product Name: Stuffed Animal X
+Brand: Samsung
+Category: Toys
+Description: Stuffed Animal X figura en el catálogo simulado bajo la marca Samsung. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Kids. Precio de venta al público registrado: 199.11.
+
+Product ID: PROD-0416
+Product Name: Smart Watch Plus
+Brand: Samsung
+Category: Electronics
+Description: Smart Watch Plus figura en el catálogo simulado bajo la marca Samsung. Producto de electrónica para actividades cotidianas y accesorios tecnológicos. Departamento registrado: Women. Precio de venta al público registrado: 110.30.
+
+Product ID: PROD-0417
+Product Name: Water Bottle Pro
+Brand: Nike
+Category: Sports
+Description: Water Bottle Pro figura en el catálogo simulado bajo la marca Nike. Artículo relacionado con la práctica deportiva y la actividad física. Departamento registrado: Home. Precio de venta al público registrado: 111.47.
+
+Product ID: PROD-0418
+Product Name: Stuffed Animal X
+Brand: Puma
+Category: Toys
+Description: Stuffed Animal X figura en el catálogo simulado bajo la marca Puma. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Unisex. Precio de venta al público registrado: 251.98.
+
+Product ID: PROD-0419
+Product Name: Cookbook Pro
+Brand: Under Armour
+Category: Books
+Description: Cookbook Pro figura en el catálogo simulado bajo la marca Under Armour. Libro del catálogo simulado para lectura, consulta o entretenimiento. Departamento registrado: Women. Precio de venta al público registrado: 74.38.
+
+Product ID: PROD-0420
+Product Name: Car Charger Lite
+Brand: Zara
+Category: Automotive
+Description: Car Charger Lite figura en el catálogo simulado bajo la marca Zara. Accesorio relacionado con el uso y mantenimiento de vehículos. Departamento registrado: Women. Precio de venta al público registrado: 106.17.
+
+Product ID: PROD-0421
+Product Name: Wireless Earbuds Lite
+Brand: Apple
+Category: Electronics
+Description: Wireless Earbuds Lite figura en el catálogo simulado bajo la marca Apple. Producto de electrónica para actividades cotidianas y accesorios tecnológicos. Departamento registrado: Home. Precio de venta al público registrado: 233.65.
+
+Product ID: PROD-0422
+Product Name: Running Shoes Lite
+Brand: Adidas
+Category: Clothing
+Description: Running Shoes Lite figura en el catálogo simulado bajo la marca Adidas. Artículo de indumentaria o calzado del catálogo simulado. Departamento registrado: Kids. Precio de venta al público registrado: 178.28.
+
+Product ID: PROD-0423
+Product Name: Board Game
+Brand: Apple
+Category: Toys
+Description: Board Game figura en el catálogo simulado bajo la marca Apple. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Women. Precio de venta al público registrado: 196.85.
+
+Product ID: PROD-0424
+Product Name: Board Game
+Brand: Puma
+Category: Toys
+Description: Board Game figura en el catálogo simulado bajo la marca Puma. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Women. Precio de venta al público registrado: 92.58.
+
+Product ID: PROD-0425
+Product Name: USB-C Hub Plus
+Brand: H&M
+Category: Electronics
+Description: USB-C Hub Plus figura en el catálogo simulado bajo la marca H&M. Producto de electrónica para actividades cotidianas y accesorios tecnológicos. Departamento registrado: Home. Precio de venta al público registrado: 183.09.
+
+Product ID: PROD-0426
+Product Name: Hoodie Plus
+Brand: Under Armour
+Category: Clothing
+Description: Hoodie Plus figura en el catálogo simulado bajo la marca Under Armour. Artículo de indumentaria o calzado del catálogo simulado. Departamento registrado: Kids. Precio de venta al público registrado: 75.96.
+
+Product ID: PROD-0427
+Product Name: Running Shoes Pro
+Brand: Adidas
+Category: Clothing
+Description: Running Shoes Pro figura en el catálogo simulado bajo la marca Adidas. Artículo de indumentaria o calzado del catálogo simulado. Departamento registrado: Outdoor. Precio de venta al público registrado: 67.64.
+
+Product ID: PROD-0428
+Product Name: Action Figure Plus
+Brand: Adidas
+Category: Toys
+Description: Action Figure Plus figura en el catálogo simulado bajo la marca Adidas. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Unisex. Precio de venta al público registrado: 134.83.
+
+Product ID: PROD-0429
+Product Name: Lipstick
+Brand: H&M
+Category: Beauty
+Description: Lipstick figura en el catálogo simulado bajo la marca H&M. Artículo de belleza y cuidado personal del catálogo simulado. Departamento registrado: Home. Precio de venta al público registrado: 249.66.
+
+Product ID: PROD-0430
+Product Name: Dumbbells Lite
+Brand: Under Armour
+Category: Sports
+Description: Dumbbells Lite figura en el catálogo simulado bajo la marca Under Armour. Artículo relacionado con la práctica deportiva y la actividad física. Departamento registrado: Kids. Precio de venta al público registrado: 92.69.
+
+Product ID: PROD-0431
+Product Name: T-Shirt X
+Brand: Nike
+Category: Clothing
+Description: T-Shirt X figura en el catálogo simulado bajo la marca Nike. Artículo de indumentaria o calzado del catálogo simulado. Departamento registrado: Men. Precio de venta al público registrado: 53.30.
+
+Product ID: PROD-0432
+Product Name: Running Shoes
+Brand: Adidas
+Category: Clothing
+Description: Running Shoes figura en el catálogo simulado bajo la marca Adidas. Artículo de indumentaria o calzado del catálogo simulado. Departamento registrado: Unisex. Precio de venta al público registrado: 213.11.
+
+Product ID: PROD-0433
+Product Name: Toaster Max
+Brand: H&M
+Category: Home & Kitchen
+Description: Toaster Max figura en el catálogo simulado bajo la marca H&M. Artículo para tareas del hogar y preparación de alimentos. Departamento registrado: Women. Precio de venta al público registrado: 103.33.
+
+Product ID: PROD-0434
+Product Name: Sci-Fi Book Max
+Brand: Sony
+Category: Books
+Description: Sci-Fi Book Max figura en el catálogo simulado bajo la marca Sony. Libro del catálogo simulado para lectura, consulta o entretenimiento. Departamento registrado: Home. Precio de venta al público registrado: 121.50.
+
+Product ID: PROD-0435
+Product Name: Blender X
+Brand: Zara
+Category: Home & Kitchen
+Description: Blender X figura en el catálogo simulado bajo la marca Zara. Artículo para tareas del hogar y preparación de alimentos. Departamento registrado: Outdoor. Precio de venta al público registrado: 248.22.
+
+Product ID: PROD-0436
+Product Name: Floor Mats Max
+Brand: Adidas
+Category: Automotive
+Description: Floor Mats Max figura en el catálogo simulado bajo la marca Adidas. Accesorio relacionado con el uso y mantenimiento de vehículos. Departamento registrado: Men. Precio de venta al público registrado: 91.78.
+
+Product ID: PROD-0437
+Product Name: Running Shoes X
+Brand: Adidas
+Category: Clothing
+Description: Running Shoes X figura en el catálogo simulado bajo la marca Adidas. Artículo de indumentaria o calzado del catálogo simulado. Departamento registrado: Outdoor. Precio de venta al público registrado: 83.90.
+
+Product ID: PROD-0438
+Product Name: Shampoo Max
+Brand: Zara
+Category: Beauty
+Description: Shampoo Max figura en el catálogo simulado bajo la marca Zara. Artículo de belleza y cuidado personal del catálogo simulado. Departamento registrado: Unisex. Precio de venta al público registrado: 19.11.
+
+Product ID: PROD-0439
+Product Name: Cookbook Pro
+Brand: Sony
+Category: Books
+Description: Cookbook Pro figura en el catálogo simulado bajo la marca Sony. Libro del catálogo simulado para lectura, consulta o entretenimiento. Departamento registrado: Outdoor. Precio de venta al público registrado: 227.15.
+
+Product ID: PROD-0440
+Product Name: Running Shoes Max
+Brand: Adidas
+Category: Clothing
+Description: Running Shoes Max figura en el catálogo simulado bajo la marca Adidas. Artículo de indumentaria o calzado del catálogo simulado. Departamento registrado: Men. Precio de venta al público registrado: 72.88.
+
+Product ID: PROD-0441
+Product Name: Sunscreen
+Brand: Under Armour
+Category: Beauty
+Description: Sunscreen figura en el catálogo simulado bajo la marca Under Armour. Artículo de belleza y cuidado personal del catálogo simulado. Departamento registrado: Unisex. Precio de venta al público registrado: 93.85.
+
+Product ID: PROD-0442
+Product Name: USB-C Hub Pro
+Brand: Puma
+Category: Electronics
+Description: USB-C Hub Pro figura en el catálogo simulado bajo la marca Puma. Producto de electrónica para actividades cotidianas y accesorios tecnológicos. Departamento registrado: Women. Precio de venta al público registrado: 294.92.
+
+Product ID: PROD-0443
+Product Name: Floor Mats
+Brand: Apple
+Category: Automotive
+Description: Floor Mats figura en el catálogo simulado bajo la marca Apple. Accesorio relacionado con el uso y mantenimiento de vehículos. Departamento registrado: Men. Precio de venta al público registrado: 18.54.
+
+Product ID: PROD-0444
+Product Name: Shampoo Max
+Brand: Apple
+Category: Beauty
+Description: Shampoo Max figura en el catálogo simulado bajo la marca Apple. Artículo de belleza y cuidado personal del catálogo simulado. Departamento registrado: Home. Precio de venta al público registrado: 31.58.
+
+Product ID: PROD-0445
+Product Name: Action Figure X
+Brand: Levis
+Category: Toys
+Description: Action Figure X figura en el catálogo simulado bajo la marca Levis. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Home. Precio de venta al público registrado: 237.24.
+
+Product ID: PROD-0446
+Product Name: Face Cream Pro
+Brand: H&M
+Category: Beauty
+Description: Face Cream Pro figura en el catálogo simulado bajo la marca H&M. Artículo de belleza y cuidado personal del catálogo simulado. Departamento registrado: Men. Precio de venta al público registrado: 178.84.
+
+Product ID: PROD-0447
+Product Name: Running Shoes Max
+Brand: Adidas
+Category: Clothing
+Description: Running Shoes Max figura en el catálogo simulado bajo la marca Adidas. Artículo de indumentaria o calzado del catálogo simulado. Departamento registrado: Outdoor. Precio de venta al público registrado: 83.65.
+
+Product ID: PROD-0448
+Product Name: Car Charger Max
+Brand: Apple
+Category: Automotive
+Description: Car Charger Max figura en el catálogo simulado bajo la marca Apple. Accesorio relacionado con el uso y mantenimiento de vehículos. Departamento registrado: Outdoor. Precio de venta al público registrado: 184.93.
+
+Product ID: PROD-0449
+Product Name: Laptop Stand Pro
+Brand: Zara
+Category: Electronics
+Description: Laptop Stand Pro figura en el catálogo simulado bajo la marca Zara. Producto de electrónica para actividades cotidianas y accesorios tecnológicos. Departamento registrado: Kids. Precio de venta al público registrado: 276.72.
+
+Product ID: PROD-0450
+Product Name: Action Figure Plus
+Brand: Sony
+Category: Toys
+Description: Action Figure Plus figura en el catálogo simulado bajo la marca Sony. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Women. Precio de venta al público registrado: 207.34.
+
+Product ID: PROD-0451
+Product Name: Self-Help Book Max
+Brand: Zara
+Category: Books
+Description: Self-Help Book Max figura en el catálogo simulado bajo la marca Zara. Libro del catálogo simulado para lectura, consulta o entretenimiento. Departamento registrado: Women. Precio de venta al público registrado: 195.78.
+
+Product ID: PROD-0452
+Product Name: Tennis Racket Pro
+Brand: Under Armour
+Category: Sports
+Description: Tennis Racket Pro figura en el catálogo simulado bajo la marca Under Armour. Artículo relacionado con la práctica deportiva y la actividad física. Departamento registrado: Women. Precio de venta al público registrado: 157.48.
+
+Product ID: PROD-0453
+Product Name: Biography Plus
+Brand: H&M
+Category: Books
+Description: Biography Plus figura en el catálogo simulado bajo la marca H&M. Libro del catálogo simulado para lectura, consulta o entretenimiento. Departamento registrado: Men. Precio de venta al público registrado: 264.51.
+
+Product ID: PROD-0454
+Product Name: Dumbbells
+Brand: Nike
+Category: Sports
+Description: Dumbbells figura en el catálogo simulado bajo la marca Nike. Artículo relacionado con la práctica deportiva y la actividad física. Departamento registrado: Kids. Precio de venta al público registrado: 20.85.
+
+Product ID: PROD-0455
+Product Name: Soccer Ball
+Brand: Adidas
+Category: Sports
+Description: Soccer Ball figura en el catálogo simulado bajo la marca Adidas. Artículo relacionado con la práctica deportiva y la actividad física. Departamento registrado: Men. Precio de venta al público registrado: 122.69.
+
+Product ID: PROD-0456
+Product Name: Smart Watch X
+Brand: Samsung
+Category: Electronics
+Description: Smart Watch X figura en el catálogo simulado bajo la marca Samsung. Producto de electrónica para actividades cotidianas y accesorios tecnológicos. Departamento registrado: Unisex. Precio de venta al público registrado: 58.20.
+
+Product ID: PROD-0457
+Product Name: Action Figure Max
+Brand: Apple
+Category: Toys
+Description: Action Figure Max figura en el catálogo simulado bajo la marca Apple. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Men. Precio de venta al público registrado: 32.57.
+
+Product ID: PROD-0458
+Product Name: Smart Watch Plus
+Brand: Samsung
+Category: Electronics
+Description: Smart Watch Plus figura en el catálogo simulado bajo la marca Samsung. Producto de electrónica para actividades cotidianas y accesorios tecnológicos. Departamento registrado: Outdoor. Precio de venta al público registrado: 257.98.
+
+Product ID: PROD-0459
+Product Name: Soccer Ball Pro
+Brand: Adidas
+Category: Sports
+Description: Soccer Ball Pro figura en el catálogo simulado bajo la marca Adidas. Artículo relacionado con la práctica deportiva y la actividad física. Departamento registrado: Outdoor. Precio de venta al público registrado: 260.19.
+
+Product ID: PROD-0460
+Product Name: Floor Mats
+Brand: Apple
+Category: Automotive
+Description: Floor Mats figura en el catálogo simulado bajo la marca Apple. Accesorio relacionado con el uso y mantenimiento de vehículos. Departamento registrado: Kids. Precio de venta al público registrado: 80.19.
+
+Product ID: PROD-0461
+Product Name: Self-Help Book X
+Brand: H&M
+Category: Books
+Description: Self-Help Book X figura en el catálogo simulado bajo la marca H&M. Libro del catálogo simulado para lectura, consulta o entretenimiento. Departamento registrado: Outdoor. Precio de venta al público registrado: 143.20.
+
+Product ID: PROD-0462
+Product Name: Sunscreen X
+Brand: Adidas
+Category: Beauty
+Description: Sunscreen X figura en el catálogo simulado bajo la marca Adidas. Artículo de belleza y cuidado personal del catálogo simulado. Departamento registrado: Kids. Precio de venta al público registrado: 290.14.
+
+Product ID: PROD-0463
+Product Name: Sci-Fi Book Lite
+Brand: Adidas
+Category: Books
+Description: Sci-Fi Book Lite figura en el catálogo simulado bajo la marca Adidas. Libro del catálogo simulado para lectura, consulta o entretenimiento. Departamento registrado: Outdoor. Precio de venta al público registrado: 296.57.
+
+Product ID: PROD-0464
+Product Name: Sci-Fi Book X
+Brand: Sony
+Category: Books
+Description: Sci-Fi Book X figura en el catálogo simulado bajo la marca Sony. Libro del catálogo simulado para lectura, consulta o entretenimiento. Departamento registrado: Men. Precio de venta al público registrado: 231.04.
+
+Product ID: PROD-0465
+Product Name: Perfume Max
+Brand: Apple
+Category: Beauty
+Description: Perfume Max figura en el catálogo simulado bajo la marca Apple. Artículo de belleza y cuidado personal del catálogo simulado. Departamento registrado: Unisex. Precio de venta al público registrado: 82.26.
+
+Product ID: PROD-0466
+Product Name: Face Cream Plus
+Brand: Puma
+Category: Beauty
+Description: Face Cream Plus figura en el catálogo simulado bajo la marca Puma. Artículo de belleza y cuidado personal del catálogo simulado. Departamento registrado: Outdoor. Precio de venta al público registrado: 106.88.
+
+Product ID: PROD-0467
+Product Name: Dash Cam Lite
+Brand: Levis
+Category: Automotive
+Description: Dash Cam Lite figura en el catálogo simulado bajo la marca Levis. Accesorio relacionado con el uso y mantenimiento de vehículos. Departamento registrado: Women. Precio de venta al público registrado: 263.68.
+
+Product ID: PROD-0468
+Product Name: Hoodie
+Brand: Under Armour
+Category: Clothing
+Description: Hoodie figura en el catálogo simulado bajo la marca Under Armour. Artículo de indumentaria o calzado del catálogo simulado. Departamento registrado: Women. Precio de venta al público registrado: 230.29.
+
+Product ID: PROD-0469
+Product Name: LEGO Set Lite
+Brand: Samsung
+Category: Toys
+Description: LEGO Set Lite figura en el catálogo simulado bajo la marca Samsung. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Kids. Precio de venta al público registrado: 129.61.
+
+Product ID: PROD-0470
+Product Name: Biography X
+Brand: Sony
+Category: Books
+Description: Biography X figura en el catálogo simulado bajo la marca Sony. Libro del catálogo simulado para lectura, consulta o entretenimiento. Departamento registrado: Outdoor. Precio de venta al público registrado: 21.77.
+
+Product ID: PROD-0471
+Product Name: Hoodie Max
+Brand: Under Armour
+Category: Clothing
+Description: Hoodie Max figura en el catálogo simulado bajo la marca Under Armour. Artículo de indumentaria o calzado del catálogo simulado. Departamento registrado: Kids. Precio de venta al público registrado: 118.20.
+
+Product ID: PROD-0472
+Product Name: Smart Watch Max
+Brand: Samsung
+Category: Electronics
+Description: Smart Watch Max figura en el catálogo simulado bajo la marca Samsung. Producto de electrónica para actividades cotidianas y accesorios tecnológicos. Departamento registrado: Home. Precio de venta al público registrado: 126.29.
+
+Product ID: PROD-0473
+Product Name: Knife Set
+Brand: Apple
+Category: Home & Kitchen
+Description: Knife Set figura en el catálogo simulado bajo la marca Apple. Artículo para tareas del hogar y preparación de alimentos. Departamento registrado: Kids. Precio de venta al público registrado: 296.06.
+
+Product ID: PROD-0474
+Product Name: Wireless Earbuds Max
+Brand: Apple
+Category: Electronics
+Description: Wireless Earbuds Max figura en el catálogo simulado bajo la marca Apple. Producto de electrónica para actividades cotidianas y accesorios tecnológicos. Departamento registrado: Women. Precio de venta al público registrado: 175.42.
+
+Product ID: PROD-0475
+Product Name: Jeans Max
+Brand: Levis
+Category: Clothing
+Description: Jeans Max figura en el catálogo simulado bajo la marca Levis. Artículo de indumentaria o calzado del catálogo simulado. Departamento registrado: Unisex. Precio de venta al público registrado: 124.59.
+
+Product ID: PROD-0476
+Product Name: Wireless Earbuds X
+Brand: Apple
+Category: Electronics
+Description: Wireless Earbuds X figura en el catálogo simulado bajo la marca Apple. Producto de electrónica para actividades cotidianas y accesorios tecnológicos. Departamento registrado: Kids. Precio de venta al público registrado: 285.31.
+
+Product ID: PROD-0477
+Product Name: Yoga Mat
+Brand: Puma
+Category: Sports
+Description: Yoga Mat figura en el catálogo simulado bajo la marca Puma. Artículo relacionado con la práctica deportiva y la actividad física. Departamento registrado: Women. Precio de venta al público registrado: 221.67.
+
+Product ID: PROD-0478
+Product Name: Action Figure Pro
+Brand: Apple
+Category: Toys
+Description: Action Figure Pro figura en el catálogo simulado bajo la marca Apple. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Men. Precio de venta al público registrado: 95.99.
+
+Product ID: PROD-0479
+Product Name: Sci-Fi Book Plus
+Brand: Under Armour
+Category: Books
+Description: Sci-Fi Book Plus figura en el catálogo simulado bajo la marca Under Armour. Libro del catálogo simulado para lectura, consulta o entretenimiento. Departamento registrado: Outdoor. Precio de venta al público registrado: 133.49.
+
+Product ID: PROD-0480
+Product Name: Puzzle
+Brand: Zara
+Category: Toys
+Description: Puzzle figura en el catálogo simulado bajo la marca Zara. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Women. Precio de venta al público registrado: 11.61.
+
+Product ID: PROD-0481
+Product Name: Coffee Maker Pro
+Brand: Nike
+Category: Home & Kitchen
+Description: Coffee Maker Pro figura en el catálogo simulado bajo la marca Nike. Artículo para tareas del hogar y preparación de alimentos. Departamento registrado: Outdoor. Precio de venta al público registrado: 113.77.
+
+Product ID: PROD-0482
+Product Name: Perfume Pro
+Brand: Levis
+Category: Beauty
+Description: Perfume Pro figura en el catálogo simulado bajo la marca Levis. Artículo de belleza y cuidado personal del catálogo simulado. Departamento registrado: Outdoor. Precio de venta al público registrado: 298.43.
+
+Product ID: PROD-0483
+Product Name: Wireless Earbuds X
+Brand: Apple
+Category: Electronics
+Description: Wireless Earbuds X figura en el catálogo simulado bajo la marca Apple. Producto de electrónica para actividades cotidianas y accesorios tecnológicos. Departamento registrado: Men. Precio de venta al público registrado: 136.62.
+
+Product ID: PROD-0484
+Product Name: Self-Help Book
+Brand: Apple
+Category: Books
+Description: Self-Help Book figura en el catálogo simulado bajo la marca Apple. Libro del catálogo simulado para lectura, consulta o entretenimiento. Departamento registrado: Unisex. Precio de venta al público registrado: 8.73.
+
+Product ID: PROD-0485
+Product Name: Jacket X
+Brand: Zara
+Category: Clothing
+Description: Jacket X figura en el catálogo simulado bajo la marca Zara. Artículo de indumentaria o calzado del catálogo simulado. Departamento registrado: Men. Precio de venta al público registrado: 46.32.
+
+Product ID: PROD-0486
+Product Name: Running Shoes Lite
+Brand: Adidas
+Category: Clothing
+Description: Running Shoes Lite figura en el catálogo simulado bajo la marca Adidas. Artículo de indumentaria o calzado del catálogo simulado. Departamento registrado: Women. Precio de venta al público registrado: 64.39.
+
+Product ID: PROD-0487
+Product Name: Soccer Ball Plus
+Brand: Adidas
+Category: Sports
+Description: Soccer Ball Plus figura en el catálogo simulado bajo la marca Adidas. Artículo relacionado con la práctica deportiva y la actividad física. Departamento registrado: Unisex. Precio de venta al público registrado: 17.58.
+
+Product ID: PROD-0488
+Product Name: Dash Cam X
+Brand: Samsung
+Category: Automotive
+Description: Dash Cam X figura en el catálogo simulado bajo la marca Samsung. Accesorio relacionado con el uso y mantenimiento de vehículos. Departamento registrado: Men. Precio de venta al público registrado: 32.16.
+
+Product ID: PROD-0489
+Product Name: Floor Mats
+Brand: Adidas
+Category: Automotive
+Description: Floor Mats figura en el catálogo simulado bajo la marca Adidas. Accesorio relacionado con el uso y mantenimiento de vehículos. Departamento registrado: Kids. Precio de venta al público registrado: 218.72.
+
+Product ID: PROD-0490
+Product Name: Tennis Racket Lite
+Brand: Sony
+Category: Sports
+Description: Tennis Racket Lite figura en el catálogo simulado bajo la marca Sony. Artículo relacionado con la práctica deportiva y la actividad física. Departamento registrado: Men. Precio de venta al público registrado: 245.06.
+
+Product ID: PROD-0491
+Product Name: Action Figure Pro
+Brand: H&M
+Category: Toys
+Description: Action Figure Pro figura en el catálogo simulado bajo la marca H&M. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Men. Precio de venta al público registrado: 228.90.
+
+Product ID: PROD-0492
+Product Name: Coffee Maker Pro
+Brand: Zara
+Category: Home & Kitchen
+Description: Coffee Maker Pro figura en el catálogo simulado bajo la marca Zara. Artículo para tareas del hogar y preparación de alimentos. Departamento registrado: Outdoor. Precio de venta al público registrado: 84.87.
+
+Product ID: PROD-0493
+Product Name: Action Figure
+Brand: Apple
+Category: Toys
+Description: Action Figure figura en el catálogo simulado bajo la marca Apple. Artículo de juegos y entretenimiento del catálogo simulado. Departamento registrado: Unisex. Precio de venta al público registrado: 85.91.
+
+Product ID: PROD-0494
+Product Name: Air Freshener Pro
+Brand: Apple
+Category: Automotive
+Description: Air Freshener Pro figura en el catálogo simulado bajo la marca Apple. Accesorio relacionado con el uso y mantenimiento de vehículos. Departamento registrado: Women. Precio de venta al público registrado: 219.55.
+
+Product ID: PROD-0495
+Product Name: Sunscreen X
+Brand: Under Armour
+Category: Beauty
+Description: Sunscreen X figura en el catálogo simulado bajo la marca Under Armour. Artículo de belleza y cuidado personal del catálogo simulado. Departamento registrado: Kids. Precio de venta al público registrado: 185.72.
+
+Product ID: PROD-0496
+Product Name: Smart Watch Pro
+Brand: Samsung
+Category: Electronics
+Description: Smart Watch Pro figura en el catálogo simulado bajo la marca Samsung. Producto de electrónica para actividades cotidianas y accesorios tecnológicos. Departamento registrado: Unisex. Precio de venta al público registrado: 266.94.
+
+Product ID: PROD-0497
+Product Name: Running Shoes X
+Brand: Adidas
+Category: Clothing
+Description: Running Shoes X figura en el catálogo simulado bajo la marca Adidas. Artículo de indumentaria o calzado del catálogo simulado. Departamento registrado: Outdoor. Precio de venta al público registrado: 160.29.
+
+Product ID: PROD-0498
+Product Name: Soccer Ball
+Brand: Adidas
+Category: Sports
+Description: Soccer Ball figura en el catálogo simulado bajo la marca Adidas. Artículo relacionado con la práctica deportiva y la actividad física. Departamento registrado: Unisex. Precio de venta al público registrado: 187.75.
+
+Product ID: PROD-0499
+Product Name: Tennis Racket X
+Brand: Zara
+Category: Sports
+Description: Tennis Racket X figura en el catálogo simulado bajo la marca Zara. Artículo relacionado con la práctica deportiva y la actividad física. Departamento registrado: Home. Precio de venta al público registrado: 49.69.
+
+Product ID: PROD-0500
+Product Name: Wireless Earbuds Plus
+Brand: Apple
+Category: Electronics
+Description: Wireless Earbuds Plus figura en el catálogo simulado bajo la marca Apple. Producto de electrónica para actividades cotidianas y accesorios tecnológicos. Departamento registrado: Unisex. Precio de venta al público registrado: 255.55.
+
