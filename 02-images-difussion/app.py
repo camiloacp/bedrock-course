@@ -22,8 +22,12 @@ prompt = st.text_area(
 )
 
 # Nombre del bucket (ajusta el tuyo si es necesario)
+# Los nombres de bucket son únicos en TODO el mundo, y si ya existe uno igual
+# fallará con un conflicto de nombre. En la vida real se prefija el ID de cuenta
+# (u otro sufijo único) y se obtiene en código, en vez de escribirlo a mano.
+account_id = boto3.client("sts").get_caller_identity()["Account"]
 bucket_name = st.text_input(
-    "Nombre del S3 Bucket", value="851725222540-nl-demo-bedrock"
+    "Nombre del S3 Bucket", value=f"{account_id}-nl-demo-bedrock"
 )
 region_bedrock = "us-west-2"
 
